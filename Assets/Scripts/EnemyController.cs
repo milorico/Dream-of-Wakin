@@ -83,6 +83,7 @@ public class EnemyController : MonoBehaviour {
 		//print (m_Rigidbody2D.velocity);
 	}
 	public void Attack2(float move, float move2){
+		m_Anim.SetTrigger ("Attaking");
 		transform.position = Vector2.MoveTowards (new Vector2 (transform.position.x,
 			transform.position.y), attackPosition, 3f * Time.deltaTime);
 		if (transform.position.x==attackPosition.x || i>150) {
@@ -128,6 +129,9 @@ public class EnemyController : MonoBehaviour {
 			return 0;
 		}
 		//
+	}
+	public void RecibirDanio(){
+		m_Anim.SetTrigger ("Daño");
 	}
 
 

@@ -14,7 +14,6 @@ public class PlayerController : MonoBehaviour {
 	private bool timer=true;
 	public EnemyController enemyC;
 	private CapsuleCollider2D enemyCollider;
-	private bool recibioDanio;
 	int tiempo;
 	//private bool m_FacingRight = true;  
 	//private bool m_FacingDown = true;  
@@ -23,7 +22,6 @@ public class PlayerController : MonoBehaviour {
 	//	enemyC = GameObject.FindWithTag ("Enemy").GetComponent<EnemyController> ();
 		m_Anim = GetComponent<Animator>();
 		m_Rigidbody2D = GetComponent<Rigidbody2D>();
-		recibioDanio = false;
 	}
 	
 	// Update is called once per frame
@@ -81,6 +79,7 @@ public class PlayerController : MonoBehaviour {
 			if (hit.transform.tag== "Enemy") {
 				
 				enemyC = hit.transform.gameObject.GetComponent<EnemyController> (); 
+				enemyC.RecibirDanio ();
 				enemyC.enemyLife = enemyC.enemyLife - 50f;
 				print ("le di");
 				print (timer);
