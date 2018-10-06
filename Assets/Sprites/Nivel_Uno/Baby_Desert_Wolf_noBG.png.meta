@@ -1,7 +1,47 @@
 fileFormatVersion: 2
 guid: 486d8ef13f5658d4f8630f60f4e9d4dc
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Baby_Desert_Wolf_noBG_0
+    21300002: Baby_Desert_Wolf_noBG_1
+    21300004: Baby_Desert_Wolf_noBG_2
+    21300006: Baby_Desert_Wolf_noBG_3
+    21300008: Baby_Desert_Wolf_noBG_4
+    21300010: Baby_Desert_Wolf_noBG_5
+    21300012: Baby_Desert_Wolf_noBG_10
+    21300014: Baby_Desert_Wolf_noBG_11
+    21300016: Baby_Desert_Wolf_noBG_12
+    21300018: Baby_Desert_Wolf_noBG_13
+    21300020: Baby_Desert_Wolf_noBG_20
+    21300022: Baby_Desert_Wolf_noBG_21
+    21300024: Baby_Desert_Wolf_noBG_22
+    21300026: Baby_Desert_Wolf_noBG_23
+    21300028: Baby_Desert_Wolf_noBG_25
+    21300030: Baby_Desert_Wolf_noBG_26
+    21300032: Baby_Desert_Wolf_noBG_27
+    21300034: Baby_Desert_Wolf_noBG_28
+    21300036: Baby_Desert_Wolf_noBG_37
+    21300038: Baby_Desert_Wolf_noBG_38
+    21300040: Baby_Desert_Wolf_noBG_39
+    21300042: Baby_Desert_Wolf_noBG_40
+    21300044: Baby_Desert_Wolf_noBG_42
+    21300046: Baby_Desert_Wolf_noBG_43
+    21300048: Baby_Desert_Wolf_noBG_44
+    21300050: Baby_Desert_Wolf_noBG_45
+    21300052: Baby_Desert_Wolf_noBG_46
+    21300054: Baby_Desert_Wolf_noBG_47
+    21300056: Baby_Desert_Wolf_noBG_50
+    21300058: Baby_Desert_Wolf_noBG_51
+    21300060: Baby_Desert_Wolf_noBG_52
+    21300062: Baby_Desert_Wolf_noBG_53
+    21300064: Baby_Desert_Wolf_noBG_54
+    21300066: Baby_Desert_Wolf_noBG_55
+    21300068: Baby_Desert_Wolf_noBG_56
+    21300070: Baby_Desert_Wolf_noBG_57
+    21300072: Baby_Desert_Wolf_noBG_6
+    21300074: Baby_Desert_Wolf_noBG_7
+    21300076: Baby_Desert_Wolf_noBG_8
+    21300078: Baby_Desert_Wolf_noBG_9
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -40,7 +80,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +109,573 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 372
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d1cd3fe78a99e42bca96c1a0d05321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 374
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3716334f93e15df47a713c2474538a90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 374
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8409345a4061e6d46bfb88fbd5cb18a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 373
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c426af553f748904aa3a740070328445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 372
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a149fde891fcf4f4a983cb4ddb97239f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 372
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9841b241bd41eb74db966d0ab30e2764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 322
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db91c4ab0f1106f4ebd4a7bd7979241d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 326
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfada7d3c12e944e98467ba1d531f70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 328
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1e3b3139890fd4cb4bff83ee61541b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 327
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc72616177cb3c640af1da38b0f6fcf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 276
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7414d86b673b349ad644d31aa5e9bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_21
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 277
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4325c6621cf68c340839784d254a1dd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 279
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7ecde443d2e3649b2052151f3da704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 276
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58974a7e783ee2f4fb9ac9b3b26859a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 227
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e43041251fab44096fd970285717fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_26
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 229
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603c0c8e7899a7245837df661e2c4c4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 226
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54849d9f89c1d745a751a4b5361277a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 226
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d56e618529fb141b8129b19fb0e9a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_37
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 177
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54b2bc2997253a419cd8fc7ca0e4fca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_38
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 177
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5c9f12c9aec7241b5a95f0402057ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 179
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755ee35604b139140bd41523dc40811a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_40
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 179
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3647195276225154ab29b12f4ceb164b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 130
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bc42fdac9946240b9ca9d22d3e9b8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 130
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f27f317abc96f4c858eaf872796b51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 126
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f71784fced3ce4b8cc555d5ab54e31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Desert_Wolf_noBG_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 128
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96628b94dc859c4aaa16eafbf6a63ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

@@ -45,6 +45,7 @@ TextureImporter:
     21300080: Zipper_Bear_noBG_8
     21300082: Zipper_Bear_noBG_9
     21300084: Zipper_Bear_noBG_10
+    21300086: Zipper_Bear_noBG_11
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -940,33 +941,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zipper_Bear_noBG_9
-      rect:
-        serializedVersion: 2
-        x: 697
-        y: 190
-        width: 30
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b40f59e8fab3990418895367ae744fbb
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Zipper_Bear_noBG_10
       rect:
         serializedVersion: 2
-        x: 768
-        y: 217
-        width: 30
-        height: 32
+        x: 695
+        y: 191
+        width: 101
+        height: 59
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -975,6 +956,46 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f0d4f9f76f7c0e341be021804923c685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zipper_Bear_noBG_9
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 191
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa642160bb1ac3449de13da81d46032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zipper_Bear_noBG_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 216
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a96e09fc2d44347a48f858d894871b
       vertices: []
       indices: 
       edges: []

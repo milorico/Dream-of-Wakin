@@ -17,6 +17,7 @@ public class PlaySoundOnLeave : MonoBehaviour {
 		if (Unico==1) {
 			soundObject.transform.Translate(Vector2.left * Time.deltaTime*10);
 			Destroy (soundObject, 3);
+			Destroy (this.gameObject.GetComponent<PlaySoundOnLeave>(), 3);
 		}
 	}
 

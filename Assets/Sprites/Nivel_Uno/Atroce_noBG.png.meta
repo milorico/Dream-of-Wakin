@@ -57,6 +57,9 @@ TextureImporter:
     21300104: Atroce_noBG_39
     21300106: Atroce_noBG_40
     21300108: Atroce_noBG_41
+    21300110: Atroce_noBG_42
+    21300112: Atroce_noBG_43
+    21300114: Atroce_noBG_44
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -1055,10 +1058,10 @@ TextureImporter:
       name: Atroce_noBG_8
       rect:
         serializedVersion: 2
-        x: 7
+        x: 13
         y: 191
-        width: 114
-        height: 134
+        width: 105
+        height: 126
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1075,10 +1078,10 @@ TextureImporter:
       name: Atroce_noBG_9
       rect:
         serializedVersion: 2
-        x: 138
-        y: 191
-        width: 102
-        height: 128
+        x: 141
+        y: 195
+        width: 94
+        height: 117
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1095,10 +1098,10 @@ TextureImporter:
       name: Atroce_noBG_10
       rect:
         serializedVersion: 2
-        x: 3
-        y: 37
-        width: 101
-        height: 135
+        x: 8
+        y: 44
+        width: 88
+        height: 124
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1115,10 +1118,10 @@ TextureImporter:
       name: Atroce_noBG_11
       rect:
         serializedVersion: 2
-        x: 219
+        x: 225
         y: 46
-        width: 98
-        height: 125
+        width: 81
+        height: 117
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1135,10 +1138,10 @@ TextureImporter:
       name: Atroce_noBG_12
       rect:
         serializedVersion: 2
-        x: 452
-        y: 36
-        width: 133
-        height: 103
+        x: 453
+        y: 46
+        width: 123
+        height: 84
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1215,10 +1218,10 @@ TextureImporter:
       name: Atroce_noBG_41
       rect:
         serializedVersion: 2
-        x: 377
-        y: 205
-        width: 136
-        height: 97
+        x: 379
+        y: 204
+        width: 132
+        height: 94
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1227,6 +1230,86 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 27829551303dd654fbb1e78e6598a5c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atroce_noBG_14
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 194
+        width: 95
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12d2510b261c314581118c95a7448ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atroce_noBG_42
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 211
+        width: 130
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a582b3541a5df1b48b4e06f378df61bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atroce_noBG_43
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 48
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea39557ee40bbf48a4b05a3eeb0324d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atroce_noBG_44
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 46
+        width: 125
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced1389b4ca75884b91c90cdf30bcae9
       vertices: []
       indices: 
       edges: []

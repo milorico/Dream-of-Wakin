@@ -4523,7 +4523,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 196796305}
   TextThatAppearsWhenInteracted: {fileID: 491071944}
-  TextThatAppearsWhenInteracted2: {fileID: 0}
 --- !u!1 &1763938115
 GameObject:
   m_ObjectHideFlags: 0
