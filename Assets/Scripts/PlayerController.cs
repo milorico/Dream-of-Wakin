@@ -80,7 +80,7 @@ public class PlayerController : MonoBehaviour {
 			print (hit.transform.tag);
 			if (hit.transform.tag== "Enemy") {
 				
-			
+				enemyC = hit.transform.gameObject.GetComponent<EnemyController> (); 
 				enemyC.enemyLife = enemyC.enemyLife - 50f;
 				print ("le di");
 				print (timer);

@@ -12,16 +12,18 @@ public class EnemyController : MonoBehaviour {
 	private GameObject player;
 	private Vector2 pPosition;
 	private Vector2 attackPosition;
+	private SpriteRenderer mySriteRenderer;
 	private int i;
 	private float w;
 	private float e;
 	private bool esquivar = false;
 	public int esqVal =0;
 	public bool atacar =false;
+	public bool recibirDanio =false;
 	// Use this for initialization
 	private void Awake(){
 		player = GameObject.Find ("Player");
-
+		mySriteRenderer = GetComponent<SpriteRenderer> ();
 		m_Anim = GetComponent<Animator>();
 		m_Rigidbody2D = GetComponent<Rigidbody2D>();
 	}
@@ -59,7 +61,12 @@ public class EnemyController : MonoBehaviour {
 	
 			transform.position = Vector2.MoveTowards (new Vector2 (transform.position.x,
 				transform.position.y), pPosition, 1f * Time.deltaTime);
-		
+		if (move>0) {
+			mySriteRenderer.flipX = true;
+		}
+		else {
+			mySriteRenderer.flipX = false;
+		}
 		
 		
 			transform.position = Vector2.MoveTowards (new Vector2 (transform.position.x,
