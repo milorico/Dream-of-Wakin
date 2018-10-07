@@ -15,9 +15,6 @@ public class PlayerController : MonoBehaviour {
 	public EnemyController enemyC;
 	private CapsuleCollider2D enemyCollider;
 	int tiempo;
-	//private bool m_FacingRight = true;  
-	//private bool m_FacingDown = true;  
-	// Use this for initialization
 	private void Awake(){
 	//	enemyC = GameObject.FindWithTag ("Enemy").GetComponent<EnemyController> ();
 		m_Anim = GetComponent<Animator>();

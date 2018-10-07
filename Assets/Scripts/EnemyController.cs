@@ -13,6 +13,7 @@ public class EnemyController : MonoBehaviour {
 	private Vector2 pPosition;
 	private Vector2 attackPosition;
 	private SpriteRenderer mySriteRenderer;
+	private Collider2D attackCollider;
 	private int i;
 	private float w;
 	private float e;
