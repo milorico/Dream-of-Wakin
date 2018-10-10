@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityStandardAssets.CrossPlatformInput;
 public class EnemyController : MonoBehaviour {
+
 	public float enemyLife=600;
 
 
@@ -14,11 +15,13 @@ public class EnemyController : MonoBehaviour {
 	private Vector2 attackPosition;
 	private SpriteRenderer mySriteRenderer;
 	private Collider2D attackCollider;
+	private bool followPlayer;
 	private int i;
 	private float w;
 	private float e;
+	private int girar;
 	private bool esquivar = false;
-	public int esqVal =0;
+	private int esqVal =0;
 	public bool atacar =false;
 	public bool recibirDanio =false;
 	// Use this for initialization
@@ -46,22 +49,25 @@ public class EnemyController : MonoBehaviour {
 			Attack2 (h, j);
 		} else {
 			if (esquivar ==true) {
-
+             Patrullar(h,j);
 			}
 			Move (h, j);
+			
 		}
 
 		i++;
 	}
 	public void Move(float move,float move2)
 	{
+		if(followPlayer==true){
 		m_Rigidbody2D.velocity = new Vector2(move*m_MaxSpeed*0, m_Rigidbody2D.velocity.y);
 		m_Rigidbody2D.velocity = new Vector2(move2*m_MaxSpeed*0, m_Rigidbody2D.velocity.x);
 		m_Anim.SetFloat("Speed", move);
 		m_Anim.SetFloat("Speed2", move2);
 	
+
 			transform.position = Vector2.MoveTowards (new Vector2 (transform.position.x,
-				transform.position.y), pPosition, 1f * Time.deltaTime);
+			transform.position.y), pPosition, 1f * Time.deltaTime);
 		if (move>0) {
 			mySriteRenderer.flipX = true;
 		}
@@ -81,9 +87,11 @@ public class EnemyController : MonoBehaviour {
 		if (random<3) {
 			atacar = true;
 		}
+	}
 		//print (m_Rigidbody2D.velocity);
 	}
 	public void Attack2(float move, float move2){
+		if(followPlayer = true){
 		m_Anim.SetTrigger ("Attaking");
 		transform.position = Vector2.MoveTowards (new Vector2 (transform.position.x,
 			transform.position.y), attackPosition, 3f * Time.deltaTime);
@@ -92,12 +100,31 @@ public class EnemyController : MonoBehaviour {
 			i = 0;
 		}
 	}
+	}
 	void OnCollisionEnter2D(Collision2D col){
 	//	print ("esquivando");
 		if (col.gameObject.tag == "Centro") {
 			
 			//print ("esquivando");
 			esquivar = true;
+		}
+	}
+	void OnTriggerStay2D(Collider2D col){
+	//	print ("esquivando");
+		if (col.gameObject.tag == "Player") {
+			followPlayer =true;
+			esquivar=false;	
+			//print ("esquivando");
+		//	esquivar = true;
+		}
+		DejarDeSeguir();
+	}
+	void OnTriggerExit2D(Collider2D col){
+	//	print ("esquivando");
+		if (col.gameObject.tag == "Player") {
+			DejarDeSeguir();
+			//print ("esquivando");
+			//esquivar = true;
 		}
 	}
 	void OnCollisionExit2D(Collision2D col){
@@ -120,6 +147,10 @@ public class EnemyController : MonoBehaviour {
 		}
 		//
 	}
+	public void DejarDeSeguir(){
+
+		StartCoroutine( WaitForSeguir(3f));
+	}
 	public int EsquivarCentroY(){
 		//print ("esquivando");
 		if (pPosition.y - transform.position.y < 0)
@@ -131,9 +162,30 @@ public class EnemyController : MonoBehaviour {
 		}
 		//
 	}
+	public void Patrullar(float move, float move2){
+       
+		m_Rigidbody2D.velocity = new Vector2(0.0f, -1.0f);
+		m_Anim.SetFloat("Speed", move);
+		m_Anim.SetFloat("Speed2", move2);
+        if(girar<200){
+		 m_Rigidbody2D.velocity =new Vector2(2.0f, 1.0f);
+		
+}else if(girar>200)
+{
+	    m_Rigidbody2D.velocity =new Vector2(-2.0f, -1.0f);
+			if(girar>400){
+				girar=0;
+			}
+	}i++;
+
+}
 	public void RecibirDanio(){
 		m_Anim.SetTrigger ("Daño");
 	}
+	private IEnumerator WaitForSeguir(float waitTime){
+		yield return new WaitForSeconds (waitTime);
+		followPlayer = false;
+		esquivar=true;
 
-
+	}
 }	
