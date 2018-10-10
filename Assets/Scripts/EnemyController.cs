@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityStandardAssets.CrossPlatformInput;
 public class EnemyController : MonoBehaviour {
+
 	public float enemyLife=600;
 
 
@@ -48,10 +49,10 @@ public class EnemyController : MonoBehaviour {
 			Attack2 (h, j);
 		} else {
 			if (esquivar ==true) {
-
+             Patrullar(h,j);
 			}
 			Move (h, j);
-			Patrullar(h,j);
+			
 		}
 
 		i++;
@@ -112,6 +113,7 @@ public class EnemyController : MonoBehaviour {
 	//	print ("esquivando");
 		if (col.gameObject.tag == "Player") {
 			followPlayer =true;
+			esquivar=false;	
 			//print ("esquivando");
 		//	esquivar = true;
 		}
@@ -146,6 +148,7 @@ public class EnemyController : MonoBehaviour {
 		//
 	}
 	public void DejarDeSeguir(){
+
 		StartCoroutine( WaitForSeguir(3f));
 	}
 	public int EsquivarCentroY(){
@@ -160,22 +163,20 @@ public class EnemyController : MonoBehaviour {
 		//
 	}
 	public void Patrullar(float move, float move2){
-        m_Rigidbody2D.velocity = new Vector2(move*m_MaxSpeed*0, m_Rigidbody2D.velocity.y);
-		m_Rigidbody2D.velocity = new Vector2(move2*m_MaxSpeed*0, m_Rigidbody2D.velocity.x);
+       
+		m_Rigidbody2D.velocity = new Vector2(0.0f, -1.0f);
 		m_Anim.SetFloat("Speed", move);
 		m_Anim.SetFloat("Speed2", move2);
-if(girar<200){
-		transform.position =new Vector2 (-1,
-			-1);
-		i++;
+        if(girar<200){
+		 m_Rigidbody2D.velocity =new Vector2(2.0f, 1.0f);
+		
 }else if(girar>200)
 {
-			transform.position =new Vector2 (1,
-			1);
+	    m_Rigidbody2D.velocity =new Vector2(-2.0f, -1.0f);
 			if(girar>400){
 				girar=0;
 			}
-	}
+	}i++;
 
 }
 	public void RecibirDanio(){
@@ -184,6 +185,7 @@ if(girar<200){
 	private IEnumerator WaitForSeguir(float waitTime){
 		yield return new WaitForSeconds (waitTime);
 		followPlayer = false;
+		esquivar=true;
 
 	}
 }	
