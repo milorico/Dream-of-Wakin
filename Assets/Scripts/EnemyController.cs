@@ -57,7 +57,7 @@ public class EnemyController : MonoBehaviour {
              Patrullar(h,j);
 			}
 			Move (h, j);
-
+			 
 		}
 		ActAnimator (h, j);
 		i++;
@@ -164,6 +164,7 @@ public class EnemyController : MonoBehaviour {
 		//
 	}
 	public void Patrullar(float move, float move2){
+
 		int random = Random.Range (1, 200);
 		if (girar > 100) {
 			randomX = Random.Range (-1, 2);
@@ -185,7 +186,8 @@ public class EnemyController : MonoBehaviour {
 			if(girar>101){
 				girar=0;
 			}
-		}girar++;
+		}
+		girar++;
 
 }
 	public void RecibirDanio(){
@@ -195,6 +197,7 @@ public class EnemyController : MonoBehaviour {
 		yield return new WaitForSeconds (waitTime);
 		followPlayer = false;
 		patrullar = true;
+		atacar = false;
 	}
 	public void ActAnimator(float move, float move2){
 		m_Anim.SetFloat("PlayerDifferenceX", move);
