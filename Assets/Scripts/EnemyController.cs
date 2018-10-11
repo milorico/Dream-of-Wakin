@@ -20,6 +20,8 @@ public class EnemyController : MonoBehaviour {
 	private float w;
 	private float e;
 	private int girar;
+	int randomX;
+	int randomY;
 	private bool esquivar = false;
 	private int esqVal =0;
 	public bool atacar =false;
@@ -91,7 +93,7 @@ public class EnemyController : MonoBehaviour {
 		//print (m_Rigidbody2D.velocity);
 	}
 	public void Attack2(float move, float move2){
-		if(followPlayer = true){
+		if(followPlayer == true){
 		m_Anim.SetTrigger ("Attaking");
 		transform.position = Vector2.MoveTowards (new Vector2 (transform.position.x,
 			transform.position.y), attackPosition, 3f * Time.deltaTime);
@@ -163,20 +165,34 @@ public class EnemyController : MonoBehaviour {
 		//
 	}
 	public void Patrullar(float move, float move2){
-       
-		m_Rigidbody2D.velocity = new Vector2(0.0f, -1.0f);
+		int random = Random.Range (1, 200);
+		if (girar > 100) {
+			
+		
+			randomX = Random.Range (-1, 2);
+			randomY = Random.Range (-1, 2);
+		}
+		m_Rigidbody2D.velocity = new Vector2(randomX, randomY);
 		m_Anim.SetFloat("Speed", move);
 		m_Anim.SetFloat("Speed2", move2);
-        if(girar<200){
-		 m_Rigidbody2D.velocity =new Vector2(2.0f, 1.0f);
+		m_Anim.SetFloat ("Velocity", m_Rigidbody2D.velocity.x);
+		m_Anim.SetFloat ("Velocity2", m_Rigidbody2D.velocity.y);
+		if (m_Rigidbody2D.velocity.x>0) {
+			mySriteRenderer.flipX = true;
+		}
+		else {
+			mySriteRenderer.flipX = false;
+		}
+        if(girar<100){
+		 m_Rigidbody2D.velocity =new Vector2(randomX, randomY);
 		
-}else if(girar>200)
+		}else if(random >50)
 {
-	    m_Rigidbody2D.velocity =new Vector2(-2.0f, -1.0f);
-			if(girar>400){
+			m_Rigidbody2D.velocity =new Vector2(randomX, randomY);
+			if(girar>101){
 				girar=0;
 			}
-	}i++;
+		}girar++;
 
 }
 	public void RecibirDanio(){
