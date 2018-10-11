@@ -23,11 +23,13 @@ public class EnemyController : MonoBehaviour {
 	int randomX;
 	int randomY;
 	private bool esquivar = false;
+	private bool patrullar= false;
 	private int esqVal =0;
 	public bool atacar =false;
 	public bool recibirDanio =false;
 	// Use this for initialization
 	private void Awake(){
+		patrullar = true;
 		player = GameObject.Find ("Player");
 		mySriteRenderer = GetComponent<SpriteRenderer> ();
 		m_Anim = GetComponent<Animator>();
@@ -39,10 +41,11 @@ public class EnemyController : MonoBehaviour {
 		if (enemyLife<=0) {
 			Destroy (this.gameObject);	
 		}
+		pPosition = new Vector2 (player.transform.position.x , player.transform.position.y);
 		if (esquivar == true) {
-			pPosition = new Vector2 (player.transform.position.x + EsquivarCentroX(), player.transform.position.y+EsquivarCentroY());
+		//	pPosition = new Vector2 (player.transform.position.x + EsquivarCentroX(), player.transform.position.y+EsquivarCentroY());
 		} else {
-			pPosition = new Vector2 (player.transform.position.x , player.transform.position.y);
+			
 		}
 		//	
 		float h = pPosition.x - transform.position.x;
@@ -50,13 +53,13 @@ public class EnemyController : MonoBehaviour {
 		if (atacar == true) {
 			Attack2 (h, j);
 		} else {
-			if (esquivar ==true) {
+			if (patrullar ==true) {
              Patrullar(h,j);
 			}
 			Move (h, j);
-			
-		}
 
+		}
+		ActAnimator (h, j);
 		i++;
 	}
 	public void Move(float move,float move2)
@@ -64,12 +67,10 @@ public class EnemyController : MonoBehaviour {
 		if(followPlayer==true){
 		m_Rigidbody2D.velocity = new Vector2(move*m_MaxSpeed*0, m_Rigidbody2D.velocity.y);
 		m_Rigidbody2D.velocity = new Vector2(move2*m_MaxSpeed*0, m_Rigidbody2D.velocity.x);
-		m_Anim.SetFloat("Speed", move);
-		m_Anim.SetFloat("Speed2", move2);
-	
-
-			transform.position = Vector2.MoveTowards (new Vector2 (transform.position.x,
-			transform.position.y), pPosition, 1f * Time.deltaTime);
+		
+		transform.position = Vector2.MoveTowards (new Vector2 (transform.position.x,
+		transform.position.y), pPosition, 1f * Time.deltaTime);
+			
 		if (move>0) {
 			mySriteRenderer.flipX = true;
 		}
@@ -78,11 +79,8 @@ public class EnemyController : MonoBehaviour {
 		}
 		
 		
-			transform.position = Vector2.MoveTowards (new Vector2 (transform.position.x,
-				transform.position.y), pPosition, 1f * Time.deltaTime);
-		
-		m_Anim.SetFloat ("Velocity", m_Rigidbody2D.velocity.x);
-		m_Anim.SetFloat ("Velocity2", m_Rigidbody2D.velocity.y);
+		transform.position = Vector2.MoveTowards (new Vector2 (transform.position.x,
+		transform.position.y), pPosition, 1f * Time.deltaTime);
 		attackPosition = pPosition;
 		int random = Random.Range (1, 200);
 		//print (random);
@@ -92,6 +90,7 @@ public class EnemyController : MonoBehaviour {
 	}
 		//print (m_Rigidbody2D.velocity);
 	}
+
 	public void Attack2(float move, float move2){
 		if(followPlayer == true){
 		m_Anim.SetTrigger ("Attaking");
@@ -115,11 +114,11 @@ public class EnemyController : MonoBehaviour {
 	//	print ("esquivando");
 		if (col.gameObject.tag == "Player") {
 			followPlayer =true;
-			esquivar=false;	
+			patrullar=false;	
 			//print ("esquivando");
 		//	esquivar = true;
 		}
-		DejarDeSeguir();
+		//DejarDeSeguir();
 	}
 	void OnTriggerExit2D(Collider2D col){
 	//	print ("esquivando");
@@ -151,7 +150,7 @@ public class EnemyController : MonoBehaviour {
 	}
 	public void DejarDeSeguir(){
 
-		StartCoroutine( WaitForSeguir(3f));
+		StartCoroutine( WaitForSeguir(0.6f));
 	}
 	public int EsquivarCentroY(){
 		//print ("esquivando");
@@ -167,16 +166,10 @@ public class EnemyController : MonoBehaviour {
 	public void Patrullar(float move, float move2){
 		int random = Random.Range (1, 200);
 		if (girar > 100) {
-			
-		
 			randomX = Random.Range (-1, 2);
 			randomY = Random.Range (-1, 2);
 		}
 		m_Rigidbody2D.velocity = new Vector2(randomX, randomY);
-		m_Anim.SetFloat("Speed", move);
-		m_Anim.SetFloat("Speed2", move2);
-		m_Anim.SetFloat ("Velocity", m_Rigidbody2D.velocity.x);
-		m_Anim.SetFloat ("Velocity2", m_Rigidbody2D.velocity.y);
 		if (m_Rigidbody2D.velocity.x>0) {
 			mySriteRenderer.flipX = true;
 		}
@@ -201,7 +194,12 @@ public class EnemyController : MonoBehaviour {
 	private IEnumerator WaitForSeguir(float waitTime){
 		yield return new WaitForSeconds (waitTime);
 		followPlayer = false;
-		esquivar=true;
-
+		patrullar = true;
+	}
+	public void ActAnimator(float move, float move2){
+		m_Anim.SetFloat("PlayerDifferenceX", move);
+		m_Anim.SetFloat("PlayerDifferenceY", move2);
+		m_Anim.SetFloat ("DirectionX", m_Rigidbody2D.velocity.x);
+		m_Anim.SetFloat ("DirectionY", m_Rigidbody2D.velocity.y);
 	}
 }	
