@@ -105,7 +105,7 @@ public class PlayerController : MonoBehaviour {
 		float h = move2.transform.position.x - transform.position.x;
 		float j = move2.transform.position.y - transform.position.y;
 		m_Rigidbody2D.AddForce (new Vector2(-h*multipier,-j*multipier));
-		playerLife = playerLife - 8;
+		playerLife = playerLife - 13;
 		enemyCollider = enemyC.GetComponent<CapsuleCollider2D> ();
 		
 		if (true) {

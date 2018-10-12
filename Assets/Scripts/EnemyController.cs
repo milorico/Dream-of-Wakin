@@ -195,6 +195,7 @@ public class EnemyController : MonoBehaviour {
 		yield return new WaitForSeconds (waitTime);
 		followPlayer = false;
 		patrullar = true;
+		atacar = false;
 	}
 	public void ActAnimator(float move, float move2){
 		m_Anim.SetFloat("PlayerDifferenceX", move);
