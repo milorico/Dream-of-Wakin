@@ -6,15 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Escenas/FirstLevel.unity
+    path: Assets/Escene/FirstLevel.unity
     guid: 175f91f9e9e1fe14bbc61555a4e2dc5e
   - enabled: 0
-    path: Assets/Escenas/BossFight.unity
+    path: Assets/Escene/BossFight.unity
     guid: 2583a0d081a0fab428fd087015634430
   - enabled: 1
-    path: Assets/Escenas/Inventory.unity
+    path: Assets/Escene/Inventory.unity
     guid: d9352795193e9c84e86f574d24ceeb4f
   - enabled: 1
-    path: Assets/Escenas/ThirdLevel.unity
+    path: Assets/Escene/ThirdLevel.unity
     guid: d83ee3084243eb444a2242d6c984853e
+  - enabled: 1
+    path: Assets/Escene/PauseE.unity
+    guid: 2c36a458c86bb3b4d959da0d3f307ce9
+  - enabled: 1
+    path: Assets/Escene/HutRoom.unity
+    guid: eb41cc1c9b4d63949b8e73235597e596
   m_configObjects: {}
