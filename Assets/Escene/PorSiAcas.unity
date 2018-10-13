@@ -12143,7 +12143,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: b6f048df1416fdb4289fd2858befe3b7, type: 3}
   m_Color: {r: 0.9528302, g: 0.9528302, b: 0.9528302, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -12151,7 +12151,7 @@ SpriteRenderer:
   m_Size: {x: 2.59, y: 1.94}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &990998849
@@ -12877,7 +12877,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1043003470}
   m_Layer: 0
-  m_Name: Lights
+  m_Name: Luces
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19672,7 +19672,7 @@ GameObject:
   - component: {fileID: 1521157746}
   - component: {fileID: 1521157745}
   m_Layer: 5
-  m_Name: TextoD
+  m_Name: TextoMuerto1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23577,7 +23577,7 @@ GameObject:
   - component: {fileID: 1785341920}
   - component: {fileID: 1785341919}
   m_Layer: 5
-  m_Name: TextD
+  m_Name: TextoMuerto2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25037,10 +25037,6 @@ Prefab:
     - target: {fileID: 1255010839833450, guid: b5f166d83c85fb04cae83ca4f620f902, type: 2}
       propertyPath: m_IsActive
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1255010839833450, guid: b5f166d83c85fb04cae83ca4f620f902, type: 2}
-      propertyPath: m_Name
-      value: Background
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5f166d83c85fb04cae83ca4f620f902, type: 2}
