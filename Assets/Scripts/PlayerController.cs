@@ -5,7 +5,7 @@ using UnityStandardAssets.CrossPlatformInput;
 
 
 public class PlayerController : MonoBehaviour {
-	private float playerLife=100;
+	public float playerLife=100;
 
 
 	private float m_MaxSpeed = 3f;            
@@ -65,9 +65,8 @@ public class PlayerController : MonoBehaviour {
 		m_Rigidbody2D.velocity = new Vector2(move2*m_MaxSpeed*0, m_Rigidbody2D.velocity.x);
 	}
 	public void Shoot(Vector2 direction){
-		int layerMask = 1 << 9;
-
-
+		int layerMask = 1 << 8;
+		layerMask= ~layerMask;
 		RaycastHit2D hit = Physics2D.Raycast (transform.position, direction,Mathf.Infinity,layerMask);
 		Debug.DrawRay (transform.position, direction, Color.green);
 		if (hit.collider != null) {
@@ -102,13 +101,13 @@ public class PlayerController : MonoBehaviour {
 	}
 	public void ReceiveDamage( Collider2D move2,float multipier){
 		//recibioDanio = true;
+		StartCoroutine (WaitForDamage (2f));
 		float h = move2.transform.position.x - transform.position.x;
 		float j = move2.transform.position.y - transform.position.y;
-
 		m_Rigidbody2D.AddForce (new Vector2(-h*multipier,-j*multipier));
-		playerLife = playerLife - 8;
+		playerLife = playerLife - 13;
 		enemyCollider = enemyC.GetComponent<CapsuleCollider2D> ();
-		StartCoroutine (WaitForDamage (1.5f));
+		
 		if (true) {
 		//	enemyCollider.isTrigger = true;
 		}//m_Rigidbody2D.velocity = new Vector2(-move*m_MaxSpeed, -m_Rigidbody2D.velocity.y);
