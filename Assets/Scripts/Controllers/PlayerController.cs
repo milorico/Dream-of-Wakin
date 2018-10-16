@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityStandardAssets.CrossPlatformInput;
-
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour {
 	public float playerLife=100;
-
+	public Text lifeT;
 
 	private float m_MaxSpeed = 3f;            
 	private Animator m_Anim;            // Reference to the player's animator component.
@@ -23,6 +23,7 @@ public class PlayerController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void FixedUpdate () {
+		lifeT.text = playerLife.ToString();
 		float h = CrossPlatformInputManager.GetAxis("Vertical");
 		float j = CrossPlatformInputManager.GetAxis("Horizontal");
 		float k = CrossPlatformInputManager.GetAxis("Mouse ScrollWheel");

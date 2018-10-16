@@ -91,7 +91,7 @@ public class EnemyController : MonoBehaviour {
 		//print (m_Rigidbody2D.velocity);
 	}
 
-	public void Attack2(float move, float move2){
+	public virtual void Attack2(float move, float move2){
 		if(followPlayer == true){
 		m_Anim.SetTrigger ("Attaking");
 		transform.position = Vector2.MoveTowards (new Vector2 (transform.position.x,
