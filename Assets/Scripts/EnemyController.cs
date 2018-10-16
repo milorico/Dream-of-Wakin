@@ -103,10 +103,7 @@ public class EnemyController : MonoBehaviour {
 	}
 	}
 	void OnCollisionEnter2D(Collision2D col){
-	//	print ("esquivando");
 		if (col.gameObject.tag == "Centro") {
-			
-			//print ("esquivando");
 			esquivar = true;
 		}
 	}
@@ -121,16 +118,11 @@ public class EnemyController : MonoBehaviour {
 		//DejarDeSeguir();
 	}
 	void OnTriggerExit2D(Collider2D col){
-	//	print ("esquivando");
 		if (col.gameObject.tag == "Player") {
 			DejarDeSeguir();
-			//print ("esquivando");
-			//esquivar = true;
 		}
 	}
 	void OnCollisionExit2D(Collision2D col){
-	//	print ("esquivando");
-
 		if (col.gameObject.tag == "Centro") {
 			print ("esquivando");
 		esqVal = 0;
@@ -138,7 +130,6 @@ public class EnemyController : MonoBehaviour {
 			}
 	}
 	public int EsquivarCentroX(){
-		//print ("esquivando");
 		if (pPosition.x - transform.position.x < 0)
 			return esqVal-=2;
 		if (pPosition.x - transform.position.x > 0)
@@ -146,10 +137,8 @@ public class EnemyController : MonoBehaviour {
 		else {
 			return 0;
 		}
-		//
 	}
 	public void DejarDeSeguir(){
-
 		StartCoroutine( WaitForSeguir(0.6f));
 	}
 	public int EsquivarCentroY(){
@@ -161,7 +150,6 @@ public class EnemyController : MonoBehaviour {
 		else {
 			return 0;
 		}
-		//
 	}
 	public void Patrullar(float move, float move2){
 		int random = Random.Range (1, 200);
