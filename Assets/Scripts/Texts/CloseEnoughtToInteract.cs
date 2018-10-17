@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class CloseEnoughtToInteract : MonoBehaviour {
-
+	public bool destroyable = false;
 	public GameObject target;   
 	// The game object to affect. If none, the trigger work on this game object
 	public GameObject TextThatAppearsWhenInteracted;
@@ -29,6 +29,7 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 	{
 		EnableText (other);
 
+
 	}
 	private void OnTriggerExit2D(Collider2D other)
 	{
@@ -42,6 +43,9 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 			if (Input.GetKeyDown("k"))
 			{
 				TextThatAppearsWhenInteracted.SetActive (true);
+				if (destroyable ==true) {
+					Destroy (this.gameObject,1);
+				}
 				} 
 			}
 		}

@@ -5,9 +5,9 @@ using UnityStandardAssets.CrossPlatformInput;
 using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour {
+	public KeyItemsProgress keyItems;
 	public float playerLife=100;
 	public Text lifeT;
-
 	private float m_MaxSpeed = 3f;            
 	private Animator m_Anim;            // Reference to the player's animator component.
 	private Rigidbody2D m_Rigidbody2D;
