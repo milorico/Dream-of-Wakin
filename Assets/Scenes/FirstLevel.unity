@@ -7299,6 +7299,16 @@ Prefab:
       propertyPath: keyItems
       value: 
       objectReference: {fileID: 16440271}
+    - target: {fileID: 70476771767938158, guid: fc6ab0722d33c704fbfb6b44eda60a27,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 70958485646444304, guid: fc6ab0722d33c704fbfb6b44eda60a27,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc6ab0722d33c704fbfb6b44eda60a27, type: 2}
   m_IsPrefabAsset: 0
@@ -8459,6 +8469,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   destroyable: 0
   target: {fileID: 196796305}
+  interactuable: 0
   TextThatAppearsWhenInteracted: {fileID: 1902032521}
 --- !u!1 &658848719
 GameObject:
@@ -9595,6 +9606,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   destroyable: 0
   target: {fileID: 196796305}
+  interactuable: 0
   TextThatAppearsWhenInteracted: {fileID: 1006782134}
 --- !u!114 &719390121
 MonoBehaviour:
@@ -24295,6 +24307,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   destroyable: 0
   target: {fileID: 196796305}
+  interactuable: 0
   TextThatAppearsWhenInteracted: {fileID: 491071944}
 --- !u!1 &1748537841
 GameObject:

@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class CloseEnoughtToInteract : MonoBehaviour {
 	public bool destroyable = false;
-	public GameObject target;   
+	public GameObject target;  
+	public bool interactuable = false;
 	// The game object to affect. If none, the trigger work on this game object
 	public GameObject TextThatAppearsWhenInteracted;
 //	public GameObject TextThatAppearsWhenInteracted2;
@@ -18,28 +19,32 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+		if (interactuable==true) {
+			EnableText ();
+		}
 	}
 	private void OnTriggerEnter2D(Collider2D other)
 	{
-
-		EnableText (other);
+		interactuable = true;
+		//EnableText (other);
 	}
 	private void OnTriggerStay2D(Collider2D other)
 	{
-		EnableText (other);
+		
+		//print ("reeeeeeeeee");
+		//EnableText (other);
 
 
 	}
 	private void OnTriggerExit2D(Collider2D other)
 	{
+		print ("sali");
 		if (other.name == target.name) {
 			TextThatAppearsWhenInteracted.SetActive (false);
+			interactuable = false;
 		}
 	}
-	private void EnableText ( Collider2D other){
-		if (other.name == target.name) {
-
+	private void EnableText (){
 			if (Input.GetKeyDown("k"))
 			{
 				TextThatAppearsWhenInteracted.SetActive (true);
@@ -48,5 +53,4 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 				}
 				} 
 			}
-		}
 }
