@@ -24,8 +24,12 @@ public class DoorsInteractive : MonoBehaviour {
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+		if (other.name==target.name) {
+			
+		
 		interactuable = true;
         //EnableTeleport(other);
+		}
     }
     private void OnTriggerStay2D(Collider2D other)
     {
@@ -34,8 +38,10 @@ public class DoorsInteractive : MonoBehaviour {
     }
 	private void OnTriggerExit2D(Collider2D other)
 	{
-		interactuable = false;
-
+		if (other.name == target.name) {
+			
+			interactuable = false;
+		}
 	}
 
     private void EnableTeleport()

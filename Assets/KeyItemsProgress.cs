@@ -18,10 +18,17 @@ public class KeyItemsProgress : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (sopleteichon.CheckItemIsPicked() == true) {
+		if (sopleteichon.CheckItemIsPicked() == true && iceStatue!=null) {
 			iceStatue.GetComponent<CloseEnoughtToInteract> ().destroyable = true;
-			if (iceStatue==null) {
+		}
+		if (iceStatue==null) {
+			print ("se derritio");
+			if (!secondRoomKey.CheckItemIsPicked ()) {
+				
+			
+			
 				secondRoomKey.GetComponent<SpriteRenderer> ().enabled = true;
+				secondRoomKey.GetComponent<CircleCollider2D> ().enabled = true;
 			}
 		}
 	}

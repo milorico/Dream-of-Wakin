@@ -233,7 +233,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sopleteichon: {fileID: 1197538986}
-  secondRoomKey: {fileID: 1625668502}
+  secondRoomKey: {fileID: 1625668503}
   generatorKey: {fileID: 1145925540}
   secondRoomDoor: {fileID: 9304519}
   generatorCol: {fileID: 719390116}
@@ -2376,7 +2376,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 196796305}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4a8ce6e09db58fd4988cd887654ae1ff, type: 3}
   m_Name: 
@@ -6956,14 +6956,14 @@ RectTransform:
   m_GameObject: {fileID: 548121911}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.49449, y: 0.49449, z: 0.49449}
   m_Children: []
   m_Father: {fileID: 109577871}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 524, y: 287}
+  m_AnchoredPosition: {x: 154, y: 79}
   m_SizeDelta: {x: 139.7, y: 90.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &548121913
@@ -8471,6 +8471,7 @@ MonoBehaviour:
   target: {fileID: 196796305}
   interactuable: 0
   TextThatAppearsWhenInteracted: {fileID: 1902032521}
+  turnoDelDialogo: 0
 --- !u!1 &658848719
 GameObject:
   m_ObjectHideFlags: 0
@@ -9531,9 +9532,9 @@ GameObject:
   m_Component:
   - component: {fileID: 719390117}
   - component: {fileID: 719390118}
+  - component: {fileID: 719390120}
   - component: {fileID: 719390119}
   - component: {fileID: 719390121}
-  - component: {fileID: 719390120}
   m_Layer: 0
   m_Name: Detecter
   m_TagString: Untagged
@@ -9560,7 +9561,7 @@ BoxCollider2D:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 719390116}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 1
@@ -9585,7 +9586,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 719390116}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 77930ea831d6d5d40bad87c9f8342e3d, type: 3}
   m_Name: 
@@ -9607,14 +9608,15 @@ MonoBehaviour:
   destroyable: 0
   target: {fileID: 196796305}
   interactuable: 0
-  TextThatAppearsWhenInteracted: {fileID: 1006782134}
+  TextThatAppearsWhenInteracted: {fileID: 1902032521}
+  turnoDelDialogo: 0
 --- !u!114 &719390121
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 719390116}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 881833ae2da186044a6c15889737d51a, type: 3}
   m_Name: 
@@ -12729,7 +12731,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1021695291}
   - component: {fileID: 1021695292}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: AttackCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14806,6 +14808,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e3d1dc5dd6bf5004d96d1487c8a9781a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  interactuable: 0
 --- !u!212 &1145925541
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -15996,7 +15999,7 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -16072,6 +16075,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e3d1dc5dd6bf5004d96d1487c8a9781a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  interactuable: 0
 --- !u!1 &1204551621
 GameObject:
   m_ObjectHideFlags: 0
@@ -16654,7 +16658,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.69943756, y: 0.042447917}
   m_AnchorMax: {x: 0.98488283, y: 0.11126042}
-  m_AnchoredPosition: {x: -2, y: -3.5}
+  m_AnchoredPosition: {x: -2, y: -3.4999847}
   m_SizeDelta: {x: -5.899994, y: 4.100006}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1234305133
@@ -19892,7 +19896,7 @@ Prefab:
     - target: {fileID: 114566860215805608, guid: 9ab1c8bbd634dcf479faeec120b1869f,
         type: 2}
       propertyPath: m_UiScaleMode
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 114566860215805608, guid: 9ab1c8bbd634dcf479faeec120b1869f,
         type: 2}
@@ -19903,6 +19907,16 @@ Prefab:
         type: 2}
       propertyPath: m_ReferenceResolution.y
       value: 720
+      objectReference: {fileID: 0}
+    - target: {fileID: 114566860215805608, guid: 9ab1c8bbd634dcf479faeec120b1869f,
+        type: 2}
+      propertyPath: m_ScreenMatchMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114566860215805608, guid: 9ab1c8bbd634dcf479faeec120b1869f,
+        type: 2}
+      propertyPath: m_MatchWidthOrHeight
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9ab1c8bbd634dcf479faeec120b1869f, type: 2}
@@ -22231,9 +22245,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1625668499}
-  - component: {fileID: 1625668502}
   - component: {fileID: 1625668501}
   - component: {fileID: 1625668500}
+  - component: {fileID: 1625668503}
   m_Layer: 0
   m_Name: SecondRoomKey
   m_TagString: Untagged
@@ -22288,7 +22302,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 2
+  m_SortingOrder: 6
   m_Sprite: {fileID: 21300076, guid: 4a25e309ad279ac4ea19e64da7732932, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -22306,7 +22320,7 @@ CircleCollider2D:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1625668498}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 1
@@ -22315,7 +22329,7 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.3
---- !u!114 &1625668502
+--- !u!114 &1625668503
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -22326,6 +22340,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e3d1dc5dd6bf5004d96d1487c8a9781a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  interactuable: 0
 --- !u!1 &1628727658
 GameObject:
   m_ObjectHideFlags: 0
@@ -24313,6 +24328,7 @@ MonoBehaviour:
   target: {fileID: 196796305}
   interactuable: 0
   TextThatAppearsWhenInteracted: {fileID: 491071944}
+  turnoDelDialogo: 0
 --- !u!1 &1748537841
 GameObject:
   m_ObjectHideFlags: 0
@@ -25885,7 +25901,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1902032522
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27443,7 +27459,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1989592339}
   - component: {fileID: 1989592340}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: AttackCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}

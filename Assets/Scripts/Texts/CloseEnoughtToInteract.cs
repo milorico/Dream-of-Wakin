@@ -9,7 +9,7 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 	// The game object to affect. If none, the trigger work on this game object
 	public GameObject TextThatAppearsWhenInteracted;
 //	public GameObject TextThatAppearsWhenInteracted2;
-	int turnoDelDialogo = 0;
+	public int turnoDelDialogo = 0;
 	// Use this for initialization
 	void Start () {
 		TextThatAppearsWhenInteracted.SetActive (false);
@@ -18,15 +18,18 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void FixedUpdate () {
 		if (interactuable==true) {
 			EnableText ();
 		}
 	}
 	private void OnTriggerEnter2D(Collider2D other)
 	{
-		interactuable = true;
-		//EnableText (other);
+		if (other.name == target.name) {
+			interactuable = true;
+		}
+	
+
 	}
 	private void OnTriggerStay2D(Collider2D other)
 	{
@@ -45,12 +48,17 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 		}
 	}
 	private void EnableText (){
-			if (Input.GetKeyDown("k"))
+		if (Input.GetKeyDown("k"))
 			{
+			if (turnoDelDialogo==0) {
 				TextThatAppearsWhenInteracted.SetActive (true);
+			}
 				if (destroyable ==true) {
 					Destroy (this.gameObject,1);
+
 				}
 				} 
+
 			}
+
 }
