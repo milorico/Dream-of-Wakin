@@ -50,7 +50,7 @@ public class DoorsInteractive : MonoBehaviour {
 
             if (Input.GetKeyDown("k"))
             {
-                StartCoroutine(WaitForTransition(1f));
+                StartCoroutine(WaitForTransition(0.5f));
                 target.transform.position = pos.position;
 
             }

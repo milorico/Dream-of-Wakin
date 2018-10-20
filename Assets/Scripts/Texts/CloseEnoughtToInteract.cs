@@ -8,11 +8,15 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 	public bool interactuable = false;
 	// The game object to affect. If none, the trigger work on this game object
 	public GameObject TextThatAppearsWhenInteracted;
+
 //	public GameObject TextThatAppearsWhenInteracted2;
 	public int turnoDelDialogo = 0;
 	// Use this for initialization
 	void Start () {
-		TextThatAppearsWhenInteracted.SetActive (false);
+		if ( TextThatAppearsWhenInteracted!=false) {
+			TextThatAppearsWhenInteracted.SetActive (false);
+		}
+
 		//TextThatAppearsWhenInteracted2.SetActive (false);
 
 	}
@@ -22,6 +26,7 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 		if (interactuable==true) {
 			EnableText ();
 		}
+
 	}
 	private void OnTriggerEnter2D(Collider2D other)
 	{
@@ -43,14 +48,32 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 	{
 		print ("sali");
 		if (other.name == target.name) {
-			TextThatAppearsWhenInteracted.SetActive (false);
+			if (TextThatAppearsWhenInteracted!=null) {
+				TextThatAppearsWhenInteracted.SetActive (false);
+			}
 			interactuable = false;
 		}
 	}
 	private void EnableText (){
 		if (Input.GetKeyDown("k"))
 			{
-			if (turnoDelDialogo==0) {
+			if (this.gameObject.GetComponent<ChangeScene>()!=null) {
+				
+				if (GameObject.Find("arrow")==null) {
+					turnoDelDialogo = 1;
+				if (turnoDelDialogo==1) {
+					this.gameObject.GetComponent<ChangeScene> ().CambioDeScena ("Generator");
+					//turnoDelDialogo = 1;
+					}
+				}
+				else  {
+					turnoDelDialogo = 2;
+					if (turnoDelDialogo == 2) {
+						this.gameObject.GetComponent<ChangeScene> ().CambioDeScena ("BossZone1");
+					}
+				}
+			}
+			if (turnoDelDialogo==0&& TextThatAppearsWhenInteracted!=null) {
 				TextThatAppearsWhenInteracted.SetActive (true);
 			}
 				if (destroyable ==true) {

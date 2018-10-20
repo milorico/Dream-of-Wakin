@@ -7,10 +7,12 @@ public class KeyItemsProgress : MonoBehaviour {
 	public ItemPickedUp sopleteichon;
 	public ItemPickedUp secondRoomKey;
 	public ItemPickedUp generatorKey;
-
+	ArrowScript arrow;
 	public GameObject secondRoomDoor;
 	public GameObject generatorCol;
 	public GameObject iceStatue;
+	public GameObject BigDoor;
+	public GameObject BossEnabler;
 	// Use this for initialization
 	void Start () {
 		
@@ -24,11 +26,20 @@ public class KeyItemsProgress : MonoBehaviour {
 		if (iceStatue==null) {
 			print ("se derritio");
 			if (!secondRoomKey.CheckItemIsPicked ()) {
-				
-			
-			
 				secondRoomKey.GetComponent<SpriteRenderer> ().enabled = true;
 				secondRoomKey.GetComponent<CircleCollider2D> ().enabled = true;
+			}
+		}
+		if (secondRoomKey.CheckItemIsPicked()) {
+			secondRoomDoor.GetComponent<DoorsInteractive> ().enabled = true;
+		}
+		if (generatorKey.CheckItemIsPicked()) {
+			generatorCol.GetComponent<DoorsInteractive> ().enabled = true;
+		}
+		if (GameObject.Find ("arrow")!=null) {
+			if (GameObject.Find ("arrow").GetComponent<ArrowScript> ().openDoor== true) {
+				BigDoor.SetActive (false);
+				BossEnabler.GetComponent<CloseEnoughtToInteract> ().enabled = true;
 			}
 		}
 	}
