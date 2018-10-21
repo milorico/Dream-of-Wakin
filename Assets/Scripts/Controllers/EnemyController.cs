@@ -5,7 +5,7 @@ using UnityStandardAssets.CrossPlatformInput;
 public class EnemyController : MonoBehaviour {
 
 	public float enemyLife=600;
-
+	public float enemyDamage= 26;
 
 	private float m_MaxSpeed = 3f;            
 	private Animator m_Anim;            // Reference to the player's animator component.
@@ -38,6 +38,7 @@ public class EnemyController : MonoBehaviour {
 
 	// Update is called once per frame
 	void FixedUpdate () {
+		enemyDamage = enemyDamage;
 		if (enemyLife<=0) {
 			Destroy (this.gameObject);	
 		}

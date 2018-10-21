@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class ArrowScript : MonoBehaviour {
 
@@ -130,8 +131,12 @@ public class ArrowScript : MonoBehaviour {
             {
                 camPuzzle.GetComponent<Camera>().enabled = false;
                 camMain.GetComponent<Camera>().enabled = true;
+				DontDestroyOnLoad (this.gameObject);
+				openDoor = true;
+				Time.timeScale = 1.00f;
+				SceneManager.UnloadSceneAsync("Generator");
                 
-                openDoor = true;
+               
 
             }
         }
