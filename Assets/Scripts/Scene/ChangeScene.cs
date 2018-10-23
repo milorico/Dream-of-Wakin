@@ -9,7 +9,7 @@ public class ChangeScene : MonoBehaviour {
 	// Use this for initialization
 	public void CambioDeScena  (string NombreDeScena) {
 
-        SceneManager.LoadScene("HutRoom");
+        SceneManager.LoadScene("menu");
 
 
     }
