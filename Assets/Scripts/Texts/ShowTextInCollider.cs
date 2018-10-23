@@ -34,7 +34,7 @@ public class ShowTextInCollider : MonoBehaviour {
     {
         if (other.name == target.name)
         {
-            TextThatAppearsWhenInteracted.SetActive(false);
+            TextThatAppearsWhenInteracted.SetActive(false);	
         }
     }
     private void EnableText(Collider2D other)
