@@ -42,7 +42,11 @@ public class EnemyController : MonoBehaviour {
 		if (enemyLife<=0) {
 			Destroy (this.gameObject);	
 		}
-		pPosition = new Vector2 (player.transform.position.x , player.transform.position.y);
+		if (player!=null) {
+			
+		
+			pPosition = new Vector2 (player.transform.position.x, player.transform.position.y);
+		}
 		if (esquivar == true) {
 		//	pPosition = new Vector2 (player.transform.position.x + EsquivarCentroX(), player.transform.position.y+EsquivarCentroY());
 		} else {

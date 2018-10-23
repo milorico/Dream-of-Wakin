@@ -13,33 +13,39 @@ public class KeyItemsProgress : MonoBehaviour {
 	public GameObject iceStatue;
 	public GameObject BigDoor;
 	public GameObject BossEnabler;
+	bool levelOneFinished;
 	// Use this for initialization
 	void Start () {
-		
+		levelOneFinished = false;
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		if (sopleteichon.CheckItemIsPicked() == true && iceStatue!=null) {
-			iceStatue.GetComponent<CloseEnoughtToInteract> ().destroyable = true;
-		}
-		if (iceStatue==null) {
-			print ("se derritio");
-			if (!secondRoomKey.CheckItemIsPicked ()) {
-				secondRoomKey.GetComponent<SpriteRenderer> ().enabled = true;
-				secondRoomKey.GetComponent<CircleCollider2D> ().enabled = true;
+		if (levelOneFinished==false) {
+			
+		
+			if (sopleteichon.CheckItemIsPicked () == true && iceStatue != null) {
+				iceStatue.GetComponent<CloseEnoughtToInteract> ().destroyable = true;
 			}
-		}
-		if (secondRoomKey.CheckItemIsPicked()) {
-			secondRoomDoor.GetComponent<DoorsInteractive> ().enabled = true;
-		}
-		if (generatorKey.CheckItemIsPicked()) {
-			generatorCol.GetComponent<DoorsInteractive> ().enabled = true;
-		}
-		if (GameObject.Find ("arrow")!=null) {
-			if (GameObject.Find ("arrow").GetComponent<ArrowScript> ().openDoor== true) {
-				BigDoor.SetActive (false);
-				BossEnabler.GetComponent<CloseEnoughtToInteract> ().enabled = true;
+			if (iceStatue == null) {
+				print ("se derritio");
+				if (!secondRoomKey.CheckItemIsPicked () && secondRoomKey != null) {
+					secondRoomKey.GetComponent<SpriteRenderer> ().enabled = true;
+					secondRoomKey.GetComponent<CircleCollider2D> ().enabled = true;
+				}
+			}
+			if (secondRoomKey.CheckItemIsPicked () && secondRoomKey != null) {
+				secondRoomDoor.GetComponent<DoorsInteractive> ().enabled = true;
+			}
+			if (generatorKey.CheckItemIsPicked () && generatorKey != null) {
+				generatorCol.GetComponent<DoorsInteractive> ().enabled = true;
+			}
+			if (GameObject.Find ("arrow") != null) {
+				if (GameObject.Find ("arrow").GetComponent<ArrowScript> ().openDoor == true) {
+					BigDoor.SetActive (false);
+					BossEnabler.GetComponent<CloseEnoughtToInteract> ().enabled = true;
+					levelOneFinished = true;
+				}
 			}
 		}
 	}

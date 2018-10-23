@@ -68,7 +68,7 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 				}
 				else  {
 					turnoDelDialogo = 2;
-					if (turnoDelDialogo == 2) {
+					if (this.gameObject.name == "DetecterBoss") {
 						this.gameObject.GetComponent<ChangeScene> ().CambioDeScena ("BossZone1");
 					}
 				}
