@@ -578,6 +578,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyLife: 1000
+  enemyDamage: 18
   atacar: 0
   recibirDanio: 0
 --- !u!212 &2103462551

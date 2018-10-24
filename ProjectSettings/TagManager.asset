@@ -9,6 +9,7 @@ TagManager:
   - Initial Camera
   - ballena
   - EnemyCollider
+  - HealthPack
   layers:
   - Default
   - TransparentFX
@@ -21,7 +22,7 @@ TagManager:
   - Player
   - Enemies
   - Paredes
-  - 
+  - HealthPack
   - 
   - 
   - 
