@@ -15,13 +15,19 @@ public class KeyItemsProgress : MonoBehaviour {
 	public GameObject BossEnabler;
 	Scene m_Scene;
 	bool levelOneFinished;
+	public GameObject [] puzzlePieces = new GameObject[8];
+	public GameObject puzzleDoor;
+	bool levelTwoFinished;
+	int piecesPicked;
 	// Use this for initialization
 	void Start () {
 		m_Scene = SceneManager.GetActiveScene ();
 		print (m_Scene.name);
 
 		if (m_Scene.name =="SecondLevel") {
+			piecesPicked = 0;
 			levelOneFinished = true;
+			levelTwoFinished = false;
 		}
 	}
 	
@@ -53,5 +59,17 @@ public class KeyItemsProgress : MonoBehaviour {
 				}
 			}
 		}
+		if (levelTwoFinished==false && levelOneFinished==true) {
+			CountPieces (0);
+			print (piecesPicked);
+		}
+	}
+	void CountPieces(int qnt){
+		foreach (GameObject item in puzzlePieces) {
+			if (item.GetComponent<ItemPickedUp> ().CheckItemIsPicked() == true) {
+				qnt++;
+			}
+		}
+		piecesPicked = qnt;
 	}
 }

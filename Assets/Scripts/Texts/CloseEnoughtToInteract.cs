@@ -78,7 +78,7 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 				TextThatAppearsWhenInteracted.SetActive (true);
 			}
 				if (destroyable ==true) {
-				StartCoroutine (WaitForTransition (1.4f));
+				StartCoroutine (WaitForTransition (1f));
 				TextThatAppearsWhenInteracted.SetActive (false);
 					Destroy (this.gameObject,1);
 

@@ -3413,11 +3413,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4894083556998654, guid: dcfc72240f835674cbf583d2475a960e, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 758.42664
+      value: 746
       objectReference: {fileID: 0}
     - target: {fileID: 4894083556998654, guid: dcfc72240f835674cbf583d2475a960e, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 1171.6787
+      value: 1178
       objectReference: {fileID: 0}
     - target: {fileID: 4894083556998654, guid: dcfc72240f835674cbf583d2475a960e, type: 2}
       propertyPath: m_LocalPosition.z
@@ -3503,6 +3503,18 @@ Prefab:
       propertyPath: TextThatAppearsWhenInteracted
       value: 
       objectReference: {fileID: 1234305131}
+    - target: {fileID: 4894083556998654, guid: dcfc72240f835674cbf583d2475a960e, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 94.81235
+      objectReference: {fileID: 0}
+    - target: {fileID: 4894083556998654, guid: dcfc72240f835674cbf583d2475a960e, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 68.753174
+      objectReference: {fileID: 0}
+    - target: {fileID: 4894083556998654, guid: dcfc72240f835674cbf583d2475a960e, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 113.03922
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dcfc72240f835674cbf583d2475a960e, type: 2}
   m_IsPrefabAsset: 0
@@ -5402,6 +5414,8 @@ MonoBehaviour:
   pos: {fileID: 719390117}
   target: {fileID: 196796305}
   fog: {fileID: 1281445539}
+  playerR: {fileID: 0}
+  invL: {fileID: 0}
 --- !u!61 &401722328
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8231,6 +8245,8 @@ MonoBehaviour:
   pos: {fileID: 1734041854}
   target: {fileID: 196796305}
   fog: {fileID: 1281445539}
+  playerR: {fileID: 0}
+  invL: {fileID: 0}
 --- !u!61 &595184059
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10067,6 +10083,8 @@ MonoBehaviour:
   pos: {fileID: 401722326}
   target: {fileID: 196796305}
   fog: {fileID: 1281445539}
+  playerR: {fileID: 0}
+  invL: {fileID: 0}
 --- !u!114 &719390120
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10711,8 +10729,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 2092955359
+  m_SortingLayer: -1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 1d5473d31dffaea4cb2c0e248a894693, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -12229,6 +12247,8 @@ MonoBehaviour:
   pos: {fileID: 1823684825}
   target: {fileID: 196796305}
   fog: {fileID: 1281445539}
+  playerR: {fileID: 0}
+  invL: {fileID: 0}
 --- !u!58 &920030649
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -15969,6 +15989,8 @@ MonoBehaviour:
   pos: {fileID: 1169524120}
   target: {fileID: 196796305}
   fog: {fileID: 1281445539}
+  playerR: {fileID: 0}
+  invL: {fileID: 0}
 --- !u!61 &1149278468
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16403,6 +16425,8 @@ MonoBehaviour:
   pos: {fileID: 1149278466}
   target: {fileID: 196796305}
   fog: {fileID: 1281445539}
+  playerR: {fileID: 0}
+  invL: {fileID: 0}
 --- !u!114 &1169524123
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18029,6 +18053,8 @@ MonoBehaviour:
   pos: {fileID: 1411342905}
   target: {fileID: 196796305}
   fog: {fileID: 1281445539}
+  playerR: {fileID: 0}
+  invL: {fileID: 0}
 --- !u!61 &1261632193
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -20270,6 +20296,8 @@ MonoBehaviour:
   pos: {fileID: 1261632191}
   target: {fileID: 196796305}
   fog: {fileID: 1281445539}
+  playerR: {fileID: 0}
+  invL: {fileID: 0}
 --- !u!114 &1411342908
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20914,7 +20942,7 @@ Prefab:
     - target: {fileID: 224528528825398336, guid: 9ab1c8bbd634dcf479faeec120b1869f,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: -179.99998
+      value: -180
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9ab1c8bbd634dcf479faeec120b1869f, type: 2}
@@ -25493,6 +25521,8 @@ MonoBehaviour:
   pos: {fileID: 595184057}
   target: {fileID: 196796305}
   fog: {fileID: 1281445539}
+  playerR: {fileID: 0}
+  invL: {fileID: 0}
 --- !u!114 &1734041857
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26064,6 +26094,8 @@ MonoBehaviour:
   pos: {fileID: 920030647}
   target: {fileID: 196796305}
   fog: {fileID: 1281445539}
+  playerR: {fileID: 0}
+  invL: {fileID: 0}
 --- !u!61 &1823684827
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -27417,6 +27449,21 @@ Prefab:
     - target: {fileID: 1255010839833450, guid: b5f166d83c85fb04cae83ca4f620f902, type: 2}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 212371420554120062, guid: b5f166d83c85fb04cae83ca4f620f902,
+        type: 2}
+      propertyPath: m_SortingLayerID
+      value: 2092955359
+      objectReference: {fileID: 0}
+    - target: {fileID: 212371420554120062, guid: b5f166d83c85fb04cae83ca4f620f902,
+        type: 2}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 212371420554120062, guid: b5f166d83c85fb04cae83ca4f620f902,
+        type: 2}
+      propertyPath: m_SortingOrder
+      value: -1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5f166d83c85fb04cae83ca4f620f902, type: 2}
