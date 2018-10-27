@@ -12,12 +12,16 @@ public class ChangeScene : MonoBehaviour {
 	public void CambioDeScena  (string NombreDeScena) {
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 
 =======
 >>>>>>> be8fdbd3b2116a079338556e07a9977c402f27ee
+=======
+<<<<<<< HEAD
+>>>>>>> parent of f4a8e59... Lvl 3
         SceneManager.LoadScene("menu");
 
-
+=======
 		Pause = !Pause;
 		Time.timeScale = (Pause) ? 1.00f : 0.00f;
 		if (Pause == false)
@@ -33,9 +37,13 @@ public class ChangeScene : MonoBehaviour {
 				SceneManager.LoadScene (NombreDeScena, LoadSceneMode.Single);
 				player.transform.position = new Vector2 (0, 0);
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> be8fdbd3b2116a079338556e07a9977c402f27ee
+=======
+>>>>>>> 24fe0cd13b927899b443f425214ef765b606f366
+>>>>>>> parent of f4a8e59... Lvl 3
 
 			} else {
 				SceneManager.LoadScene (NombreDeScena, LoadSceneMode.Additive);
