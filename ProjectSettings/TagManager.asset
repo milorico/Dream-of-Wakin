@@ -9,7 +9,6 @@ TagManager:
   - Initial Camera
   - ballena
   - EnemyCollider
-  - FrontFacingD
   layers:
   - Default
   - TransparentFX
@@ -44,15 +43,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Background
-    uniqueID: 2092955359
-    locked: 0
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Foreground
-    uniqueID: 4248557359
-    locked: 0
-  - name: UI
-    uniqueID: 2135835173
     locked: 0

@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
+
 public class KeyItemsProgress : MonoBehaviour {
 
 	public ItemPickedUp sopleteichon;
@@ -13,7 +13,6 @@ public class KeyItemsProgress : MonoBehaviour {
 	public GameObject iceStatue;
 	public GameObject BigDoor;
 	public GameObject BossEnabler;
-	Scene m_Scene;
 	bool levelOneFinished;
 	public GameObject [] puzzlePieces = new GameObject[8];
 	public GameObject puzzleDoor;
@@ -21,6 +20,7 @@ public class KeyItemsProgress : MonoBehaviour {
 	int piecesPicked;
 	// Use this for initialization
 	void Start () {
+<<<<<<< HEAD
 		m_Scene = SceneManager.GetActiveScene ();
 		print (m_Scene.name);
 
@@ -29,15 +29,19 @@ public class KeyItemsProgress : MonoBehaviour {
 			levelOneFinished = true;
 			levelTwoFinished = false;
 		}
+=======
+		levelOneFinished = false;
+>>>>>>> parent of 92b663a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 	}
 	
-	// Update is called once per frames
+	// Update is called once per frame
 	void Update () {
-
 		if (levelOneFinished==false) {
-				if (iceStatue != null && sopleteichon.CheckItemIsPicked () == true) {
-					iceStatue.GetComponent<CloseEnoughtToInteract> ().destroyable = true;
-				}
+			
+		
+			if (sopleteichon.CheckItemIsPicked () == true && iceStatue != null) {
+				iceStatue.GetComponent<CloseEnoughtToInteract> ().destroyable = true;
+			}
 			if (iceStatue == null) {
 				print ("se derritio");
 				if (!secondRoomKey.CheckItemIsPicked () && secondRoomKey != null) {
