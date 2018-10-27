@@ -10,6 +10,11 @@ public class ChangeScene : MonoBehaviour {
 	GameObject player;
 	GameObject mainCamera;
 	public void CambioDeScena  (string NombreDeScena) {
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> be8fdbd3b2116a079338556e07a9977c402f27ee
         SceneManager.LoadScene("menu");
 
 
@@ -27,6 +32,10 @@ public class ChangeScene : MonoBehaviour {
 				Time.timeScale = (Pause) ? 1.00f : 0.00f;
 				SceneManager.LoadScene (NombreDeScena, LoadSceneMode.Single);
 				player.transform.position = new Vector2 (0, 0);
+<<<<<<< HEAD
+
+=======
+>>>>>>> be8fdbd3b2116a079338556e07a9977c402f27ee
 
 			} else {
 				SceneManager.LoadScene (NombreDeScena, LoadSceneMode.Additive);
