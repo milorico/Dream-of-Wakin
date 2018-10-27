@@ -24,6 +24,7 @@ GameObject:
   - component: {fileID: 81727176449813732}
   - component: {fileID: 82571797747315276}
   - component: {fileID: 114424105955764474}
+  - component: {fileID: 114138489842178904}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -40,7 +41,6 @@ GameObject:
   m_Component:
   - component: {fileID: 4412340118239212}
   - component: {fileID: 212479942476281132}
-  - component: {fileID: 95458445231904476}
   m_Layer: 0
   m_Name: Fog
   m_TagString: Untagged
@@ -55,8 +55,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1537665484715424}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 10}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -0.03, y: 0.012, z: 10}
+  m_LocalScale: {x: 21.375214, y: 15.781091, z: 2.1748}
   m_Children: []
   m_Father: {fileID: 4885175495265832}
   m_RootOrder: 0
@@ -128,7 +128,7 @@ AudioSource:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1226271036621212}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 48ef037107abfcc40bdd39ecb966f0dc, type: 3}
@@ -217,24 +217,25 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
---- !u!95 &95458445231904476
-Animator:
-  serializedVersion: 3
+--- !u!114 &114138489842178904
+MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1537665484715424}
+  m_GameObject: {fileID: 1226271036621212}
   m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: bd8c772b1257a8d48987887ae0f9589d, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5aa0862e11ee0449b3f769c3a98b3e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sopleteichon: {fileID: 0}
+  secondRoomKey: {fileID: 0}
+  generatorKey: {fileID: 0}
+  secondRoomDoor: {fileID: 0}
+  generatorCol: {fileID: 0}
+  iceStatue: {fileID: 0}
+  BigDoor: {fileID: 0}
+  BossEnabler: {fileID: 0}
 --- !u!114 &114424105955764474
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -292,9 +293,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: bd9896b9097906a43b4ac14be3ba633e, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 32
+  m_Sprite: {fileID: 21300000, guid: 879593d82cd23224382e3b4d1bb1e634, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0

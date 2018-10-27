@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class KeyItemsProgress : MonoBehaviour {
 
 	public ItemPickedUp sopleteichon;
@@ -13,20 +13,25 @@ public class KeyItemsProgress : MonoBehaviour {
 	public GameObject iceStatue;
 	public GameObject BigDoor;
 	public GameObject BossEnabler;
+	Scene m_Scene;
 	bool levelOneFinished;
 	// Use this for initialization
 	void Start () {
-		levelOneFinished = false;
+		m_Scene = SceneManager.GetActiveScene ();
+		print (m_Scene.name);
+
+		if (m_Scene.name =="SecondLevel") {
+			levelOneFinished = true;
+		}
 	}
 	
-	// Update is called once per frame
+	// Update is called once per frames
 	void Update () {
+
 		if (levelOneFinished==false) {
-			
-		
-			if (sopleteichon.CheckItemIsPicked () == true && iceStatue != null) {
-				iceStatue.GetComponent<CloseEnoughtToInteract> ().destroyable = true;
-			}
+				if (iceStatue != null && sopleteichon.CheckItemIsPicked () == true) {
+					iceStatue.GetComponent<CloseEnoughtToInteract> ().destroyable = true;
+				}
 			if (iceStatue == null) {
 				print ("se derritio");
 				if (!secondRoomKey.CheckItemIsPicked () && secondRoomKey != null) {
