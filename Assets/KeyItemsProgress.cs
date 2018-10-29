@@ -59,9 +59,14 @@ public class KeyItemsProgress : MonoBehaviour {
 				}
 			}
 		}
-		if (levelTwoFinished==false && levelOneFinished==true) {
-			CountPieces (0);
-			print (piecesPicked);
+		if (levelOneFinished==true) {
+			m_Scene = SceneManager.GetActiveScene ();
+			if (m_Scene.name == "SecondLevel") {
+				
+			
+				CountPieces (0);
+				print (piecesPicked);
+			}
 		}
 	}
 	void CountPieces(int qnt){

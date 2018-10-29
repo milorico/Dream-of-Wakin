@@ -1,10 +1,84 @@
 fileFormatVersion: 2
 guid: 0344cd9749db65c4e9dc0b8692e652a9
-timeCreated: 1538145940
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
-  serializedVersion: 4
+  fileIDToRecycleName:
+    21300000: Zombie_Prisoner_noBG_0
+    21300002: Zombie_Prisoner_noBG_1
+    21300004: Zombie_Prisoner_noBG_2
+    21300006: Zombie_Prisoner_noBG_3
+    21300008: Zombie_Prisoner_noBG_4
+    21300010: Zombie_Prisoner_noBG_5
+    21300012: Zombie_Prisoner_noBG_6
+    21300014: Zombie_Prisoner_noBG_7
+    21300016: Zombie_Prisoner_noBG_8
+    21300018: Zombie_Prisoner_noBG_9
+    21300020: Zombie_Prisoner_noBG_10
+    21300022: Zombie_Prisoner_noBG_11
+    21300024: Zombie_Prisoner_noBG_12
+    21300026: Zombie_Prisoner_noBG_13
+    21300028: Zombie_Prisoner_noBG_14
+    21300030: Zombie_Prisoner_noBG_15
+    21300032: Zombie_Prisoner_noBG_16
+    21300034: Zombie_Prisoner_noBG_17
+    21300036: Zombie_Prisoner_noBG_18
+    21300038: Zombie_Prisoner_noBG_19
+    21300040: Zombie_Prisoner_noBG_20
+    21300042: Zombie_Prisoner_noBG_21
+    21300044: Zombie_Prisoner_noBG_22
+    21300046: Zombie_Prisoner_noBG_23
+    21300048: Zombie_Prisoner_noBG_24
+    21300050: Zombie_Prisoner_noBG_25
+    21300052: Zombie_Prisoner_noBG_26
+    21300054: Zombie_Prisoner_noBG_27
+    21300056: Zombie_Prisoner_noBG_28
+    21300058: Zombie_Prisoner_noBG_29
+    21300060: Zombie_Prisoner_noBG_30
+    21300062: Zombie_Prisoner_noBG_31
+    21300064: Zombie_Prisoner_noBG_32
+    21300066: Zombie_Prisoner_noBG_33
+    21300068: Zombie_Prisoner_noBG_34
+    21300070: Zombie_Prisoner_noBG_35
+    21300072: Zombie_Prisoner_noBG_36
+    21300074: Zombie_Prisoner_noBG_37
+    21300076: Zombie_Prisoner_noBG_38
+    21300078: Zombie_Prisoner_noBG_39
+    21300080: Zombie_Prisoner_noBG_40
+    21300082: Zombie_Prisoner_noBG_41
+    21300084: Zombie_Prisoner_noBG_42
+    21300086: Zombie_Prisoner_noBG_43
+    21300088: Zombie_Prisoner_noBG_44
+    21300090: Zombie_Prisoner_noBG_45
+    21300092: Zombie_Prisoner_noBG_46
+    21300094: Zombie_Prisoner_noBG_47
+    21300096: Zombie_Prisoner_noBG_48
+    21300098: Zombie_Prisoner_noBG_49
+    21300100: Zombie_Prisoner_noBG_50
+    21300102: Zombie_Prisoner_noBG_51
+    21300104: Zombie_Prisoner_noBG_52
+    21300106: Zombie_Prisoner_noBG_53
+    21300108: Zombie_Prisoner_noBG_54
+    21300110: Zombie_Prisoner_noBG_55
+    21300112: Zombie_Prisoner_noBG_56
+    21300114: Zombie_Prisoner_noBG_57
+    21300116: Zombie_Prisoner_noBG_58
+    21300118: Zombie_Prisoner_noBG_59
+    21300120: Zombie_Prisoner_noBG_60
+    21300122: Zombie_Prisoner_noBG_61
+    21300124: Zombie_Prisoner_noBG_62
+    21300126: Zombie_Prisoner_noBG_63
+    21300128: Zombie_Prisoner_noBG_64
+    21300130: Zombie_Prisoner_noBG_65
+    21300132: Zombie_Prisoner_noBG_66
+    21300134: Zombie_Prisoner_noBG_67
+    21300136: Zombie_Prisoner_noBG_68
+    21300138: Zombie_Prisoner_noBG_69
+    21300140: Zombie_Prisoner_noBG_70
+    21300142: Zombie_Prisoner_noBG_71
+    21300144: Zombie_Prisoner_noBG_72
+    21300146: Zombie_Prisoner_noBG_73
+    21300148: Zombie_Prisoner_noBG_74
+  externalObjects: {}
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -22,6 +96,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -32,43 +108,1567 @@ TextureImporter:
     serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 612
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cbe0cff76dcbe4d9fb05790216f20c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 613
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cf8dc4d39602f4fb3761333b0c17cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 611
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211ca3f08dd00b5448985000b53a3e9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 607
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0f91f01cf35004e81963cb621d5776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 601
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de1441fb1e8a794f8221a7cecc69aa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_5
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 602
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1fd2abe8b44294a8e84938228d60b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_6
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 602
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f13f923265426d44b8f0680dc9490f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_7
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 599
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc13beb15d252146bed338f9c09bd35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_8
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 596
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b913ef89dec2543ba9740294bbcaa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_9
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 641
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88606f669610faf43b6cdd0533691d02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_10
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 641
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd2545d8434ca641bb3e3cce4bb8a93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_11
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 641
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c292ee4cb1de5c940822e6138896292b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_12
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 641
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89f6b2369c43f14087a6ef783ee8d18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 490
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2772e763ec329f4f8d772cb31d2a0ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 490
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5f09fa11574e049a79149faf8b1cb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 489
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df61629236d1264e87b0ac160ab1cfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_16
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 493
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002b26989ce4c6544be400782de517a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_17
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 493
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf6be559e0450f4085dc8b864cdf59f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_18
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 493
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe19ac0388db4f44b6a53abedf76189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_19
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 490
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ea144727a147345a40d44c14908a1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_20
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 489
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4544e5eafc91745954c734711511f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 370
+        width: 59
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf1355f443449742adb81c2eef69588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_22
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 369
+        width: 60
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d420d6c884ce43847b0f6b17211878e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 367
+        width: 65
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56634e49f23a7714a85dc963248e3f64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_24
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 369
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abf0669602699e4c9cde6106f2a85be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_25
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 366
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bfed1db40331f468e45ae108802102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_26
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 366
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fbe522b9a298c4f8eb4a7fb374d711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 368
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d7181aa61c93c498d587c56d8da24f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_28
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 367
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f2df963f17451469a5462aa6da66e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_29
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 433
+        width: 5
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a60275e8f1178c4b87184477b549fcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_30
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 413
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c66b44b0df28a42aec7501b8a87d3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_31
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 413
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c922e955485f75247a5b58c9e3fadc8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_32
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 413
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7cc3fde1c688b4babe9648fedb5d62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_33
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 413
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390bfe147213e4c4fb571de8696442ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_34
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 413
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d857665e15e0847ac907eca4d37cc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_35
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 410
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127b8b0f99e1c8f448fc232201753ad0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_36
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 345
+        width: 113
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f92c56ab455b8b419e9a8bcef3eb0f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 246
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbac05a6df1cfe64fafb09447190ddbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 245
+        width: 77
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06ddcbed0fb2a344b2dacebb47f5a12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_39
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 245
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bad050941626634090a414b4a923da8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_40
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 241
+        width: 75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4fbc2b03891ff4298895ba4fe29a3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_41
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 247
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28b697b56db59349b8c787af61908da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_42
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 247
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7616f205309f320458ea3c8471e99be9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_43
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 246
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e38acd8e0f8a24ba7cac11a3974335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_44
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 247
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5826afba931c51447ae1fcef0ac87dea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_45
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 277
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13424acb6768a1c4ea122e1de94d1398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_46
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 277
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1138e72c6699744da18b3ee770420f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_47
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 277
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842dd3c1d4639e347bef547f8eb0a89d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_48
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 277
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1d215ebb80e994996ed66ad3ea0add
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_49
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 129
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f236b4270269224ab58796c3a38ccd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_50
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 126
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fab75a061d9f248ab1ba5dc4593cf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_51
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 132
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79958c8b2c0ad3844a8b7207403f6f6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_52
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 135
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0b047d6e2dd7444bfadc0c35375492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_53
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 135
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6fdd3472d46164cb286d7feb627a97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_54
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 136
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd881c526ef31324b915d182f8a027f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_55
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 139
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa84327c547aed140a223bddab7d3b8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_56
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 138
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fe5bc6ea5f78c4cb3986fe89dbb3b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_57
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 133
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e427ffc6909e54c4ca57b0f108068164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_58
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 109
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f106978dcbf4487498bc048e182b7ea6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_59
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 109
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b927785952ec0ea4bb5e0b2d5be269b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_60
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 109
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a154600d5c18c084e8e965d6f0cc2aa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_61
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 109
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a699328d07639946a14b603d23a5705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_62
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc073736e9893a440aabaada826371ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_63
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 4
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0226f073673014d94337bfd351e24b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_64
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 93
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1322e2f4c2776df45ad27026f7baf516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_65
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 90
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd72079e52b503344bde974d85976c5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_66
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 93
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da12e8faf484f54693ab3c9d44e6a57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_67
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 90
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a031339416788b4e8ad2403573bc72c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_68
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 9
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0028cff39b84ff04ca2a851fdffefd12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_69
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 15
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edc000a6a50a1a47ac2551947d9e8db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_70
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 16
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d9a9ce80b300944b0a35342aa20718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_71
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 16
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6eac73bef69cd4f9be6720aae54b4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_72
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 16
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ab362f31ee14e41a605fe98405e92a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_73
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 15
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298b46966b2f86c458d92ffdebb858f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_noBG_74
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 50
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515cd960c352ada45a71126802e480f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
+    bones: []
+    spriteID: 6253fc49fbe4df14fac2d7c3b1e8013a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

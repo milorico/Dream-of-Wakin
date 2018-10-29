@@ -1,10 +1,95 @@
 fileFormatVersion: 2
 guid: 0b499b616b8f4eb46b409ec8217b712c
-timeCreated: 1538144958
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
-  serializedVersion: 4
+  fileIDToRecycleName:
+    21300000: Baroness_of_Retribution_noBG_0
+    21300002: Baroness_of_Retribution_noBG_1
+    21300004: Baroness_of_Retribution_noBG_2
+    21300006: Baroness_of_Retribution_noBG_3
+    21300008: Baroness_of_Retribution_noBG_4
+    21300010: Baroness_of_Retribution_noBG_5
+    21300012: Baroness_of_Retribution_noBG_6
+    21300014: Baroness_of_Retribution_noBG_7
+    21300016: Baroness_of_Retribution_noBG_8
+    21300018: Baroness_of_Retribution_noBG_9
+    21300020: Baroness_of_Retribution_noBG_10
+    21300022: Baroness_of_Retribution_noBG_11
+    21300024: Baroness_of_Retribution_noBG_12
+    21300026: Baroness_of_Retribution_noBG_13
+    21300028: Baroness_of_Retribution_noBG_14
+    21300030: Baroness_of_Retribution_noBG_15
+    21300032: Baroness_of_Retribution_noBG_16
+    21300034: Baroness_of_Retribution_noBG_17
+    21300036: Baroness_of_Retribution_noBG_18
+    21300038: Baroness_of_Retribution_noBG_19
+    21300040: Baroness_of_Retribution_noBG_20
+    21300042: Baroness_of_Retribution_noBG_21
+    21300044: Baroness_of_Retribution_noBG_22
+    21300046: Baroness_of_Retribution_noBG_23
+    21300048: Baroness_of_Retribution_noBG_24
+    21300050: Baroness_of_Retribution_noBG_25
+    21300052: Baroness_of_Retribution_noBG_26
+    21300054: Baroness_of_Retribution_noBG_27
+    21300056: Baroness_of_Retribution_noBG_28
+    21300058: Baroness_of_Retribution_noBG_29
+    21300060: Baroness_of_Retribution_noBG_30
+    21300062: Baroness_of_Retribution_noBG_31
+    21300064: Baroness_of_Retribution_noBG_32
+    21300066: Baroness_of_Retribution_noBG_33
+    21300068: Baroness_of_Retribution_noBG_34
+    21300070: Baroness_of_Retribution_noBG_35
+    21300072: Baroness_of_Retribution_noBG_36
+    21300074: Baroness_of_Retribution_noBG_37
+    21300076: Baroness_of_Retribution_noBG_38
+    21300078: Baroness_of_Retribution_noBG_39
+    21300080: Baroness_of_Retribution_noBG_40
+    21300082: Baroness_of_Retribution_noBG_41
+    21300084: Baroness_of_Retribution_noBG_42
+    21300086: Baroness_of_Retribution_noBG_43
+    21300088: Baroness_of_Retribution_noBG_44
+    21300090: Baroness_of_Retribution_noBG_45
+    21300092: Baroness_of_Retribution_noBG_46
+    21300094: Baroness_of_Retribution_noBG_47
+    21300096: Baroness_of_Retribution_noBG_48
+    21300098: Baroness_of_Retribution_noBG_49
+    21300100: Baroness_of_Retribution_noBG_50
+    21300102: Baroness_of_Retribution_noBG_51
+    21300104: Baroness_of_Retribution_noBG_52
+    21300106: Baroness_of_Retribution_noBG_53
+    21300108: Baroness_of_Retribution_noBG_54
+    21300110: Baroness_of_Retribution_noBG_55
+    21300112: Baroness_of_Retribution_noBG_56
+    21300114: Baroness_of_Retribution_noBG_57
+    21300116: Baroness_of_Retribution_noBG_58
+    21300118: Baroness_of_Retribution_noBG_59
+    21300120: Baroness_of_Retribution_noBG_60
+    21300122: Baroness_of_Retribution_noBG_61
+    21300124: Baroness_of_Retribution_noBG_62
+    21300126: Baroness_of_Retribution_noBG_63
+    21300128: Baroness_of_Retribution_noBG_64
+    21300130: Baroness_of_Retribution_noBG_65
+    21300132: Baroness_of_Retribution_noBG_66
+    21300134: Baroness_of_Retribution_noBG_67
+    21300136: Baroness_of_Retribution_noBG_68
+    21300138: Baroness_of_Retribution_noBG_69
+    21300140: Baroness_of_Retribution_noBG_70
+    21300142: Baroness_of_Retribution_noBG_71
+    21300144: Baroness_of_Retribution_noBG_72
+    21300146: Baroness_of_Retribution_noBG_73
+    21300148: Baroness_of_Retribution_noBG_74
+    21300150: Baroness_of_Retribution_noBG_75
+    21300152: Baroness_of_Retribution_noBG_76
+    21300154: Baroness_of_Retribution_noBG_77
+    21300156: Baroness_of_Retribution_noBG_78
+    21300158: Baroness_of_Retribution_noBG_79
+    21300160: Baroness_of_Retribution_noBG_80
+    21300162: Baroness_of_Retribution_noBG_81
+    21300164: Baroness_of_Retribution_noBG_82
+    21300166: Baroness_of_Retribution_noBG_83
+    21300168: Baroness_of_Retribution_noBG_84
+    21300170: Baroness_of_Retribution_noBG_85
+  externalObjects: {}
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -22,6 +107,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -32,43 +119,1787 @@ TextureImporter:
     serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_0
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1428
+        width: 383
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82cadb36494a9143ba94f8e02a49700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1270
+        width: 79
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5330c696879ac2a4d8888e205d32a8af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1272
+        width: 82
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dfdb7d59e960f4d912e09f4074ca5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1272
+        width: 83
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8158b91650f87b643bf933abf17c277f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1273
+        width: 82
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25689b0878bf0aa4d9b9bd6cc7ab1aa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1271
+        width: 82
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d18faceed315e47a154722372a4086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_6
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1271
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c96578366820546af0659b10c7562d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_7
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1287
+        width: 68
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afb3a174cb6c1d439275c644bae0f37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1112
+        width: 752
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74374ec9882413345a8deb7a13460989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1124
+        width: 86
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bc9d4bb5aa89047aa576a5c3e7ef9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1129
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01cca75125f99d4ab14d1ab13bce835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_11
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1127
+        width: 85
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232b5a5aa8e7ba247b13142675f74733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_12
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1127
+        width: 83
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf23b80325f5d24696915f454ed8b87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_13
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1125
+        width: 86
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dfe2d7b41fc084f95e51c9cff8d583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 975
+        width: 79
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb1930e04a1db143a337e6644000d12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 975
+        width: 81
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a0378a1c5cb4a4dafdfdda438d4774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 974
+        width: 80
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10aa759138c052d42b0e8570503b93c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 977
+        width: 82
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972f6ce20eb00a34c9af70fe0267ff14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_18
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 976
+        width: 78
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18238854d30dcd246af06f3b354f5ccd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_19
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 963
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa9c6fe2dcc8494fb1d29b7a5b6d5be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 830
+        width: 86
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343f73a00e82c034e950a3469c89f4cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_21
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 830
+        width: 92
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a4c8d194d767b46a486a8ec6dcd5db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_22
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 829
+        width: 99
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075a916f0d673d6478ec9f782c33992b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_23
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 830
+        width: 86
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92409daf4da89344a8bbc86bb2d79196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_24
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 830
+        width: 83
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e73debcb9407564e8761a4bf64a28f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 663
+        width: 752
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c39d3f8aae0634abd0d6a27c56b0c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 673
+        width: 84
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1b79c36d7398c4a9e9462324da1c21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 673
+        width: 89
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c741816669cd1479845b50550236b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_28
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 670
+        width: 130
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7228140d7883047a6fd2f8db97814d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_29
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 670
+        width: 136
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d79b74dbdcd7a4cafad4b8037536c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_30
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 710
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffec6949ab655ea409842a8ccea96dbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_31
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 665
+        width: 123
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15df2bb98487314186e278368e5f380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 527
+        width: 752
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca1261d4aa255149933cced31e1a74e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_33
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 537
+        width: 86
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f1cf2c303f42442a891035fac587c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_34
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 537
+        width: 89
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9506ecf7779dfe14aa830f1aef0c9f36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_35
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 539
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129ca1c413673634d975a477d90c6589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_36
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 541
+        width: 107
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5c3d2e57338fe408084036d423fe2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_37
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 540
+        width: 109
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5790714a8670eb478162f9c690bc571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_38
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 593
+        width: 71
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d43996a15a6c944821e749a9fc1892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 372
+        width: 751
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0528e956dda0e4b934bb38f2befe1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_40
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 393
+        width: 97
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6db2f5dffffa943ba37433da998d52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_41
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 393
+        width: 95
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01775f4f35bab142bd869d40de26bfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_42
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 452
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae382224a0b59de4881608f05427cdaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_43
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 390
+        width: 86
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5d2aadde32fa044a43ed5cc91d9ae3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_44
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 397
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997a2126abff7d043b667c8926765054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_45
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 396
+        width: 95
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a090021770b8534292b4f65123e4735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_46
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 247
+        width: 120
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d515a0eaf2a950849965da0b793dbf80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_47
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 327
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff089249ccb8ce47ad96af9f3631044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_48
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 318
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b9cbf0587552e47a3425680ab1ee32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_49
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 335
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd7952fd7b52ee43bfcb8e9bd41d236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_50
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 331
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e700e91f25411364f817f80a0b6af63b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_51
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 338
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3772b02ff4e396b4cb5d16aa5b8a8629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_52
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 310
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2aa30218ab21947ab96f7884d2f7bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_53
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 253
+        width: 144
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1da1e466690d74784e084446adff8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_54
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 266
+        width: 122
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2024f32195b0c8941b63ff182b641057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_55
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 320
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3facbfe456e6ebd4aae5d4fec97f562d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_56
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 318
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390378c4a8466f64d85a36bad5af3807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_57
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 318
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c41ab43411433046b075cf22644c934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_58
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 305
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3350232bd1164f41ae476825a10af99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_59
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 311
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dd29eda2309b14ca1dcf7bf950c154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_60
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 289
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac556a347afc494ba0b3938b8a592fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_61
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 276
+        width: 125
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba859b6e57b36949a65bc7d3da46d79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_62
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 278
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74c09f9fbf54154fa4e253f93aa47b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_63
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 274
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6613e200e314814dbe29f7d14686993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_64
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 258
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710bd9a6bbca3e44486c026c3da6c54c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_65
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 253
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdd8c2e49f2388438a36259d252387b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_66
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 259
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6aee23c91b97d84791e5f2d9612fa37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_67
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 248
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db2863a26a9aa749b951459670049a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_68
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 227
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e041dc8e175a48459577667f49d5834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_69
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 115
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6747e70518ad67b4591bdacc5f6fc3ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_70
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 117
+        width: 123
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b22919f2d3af564ab353684c28d5e6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_71
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 198
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72988e92db39d2c4491cdae999f09b96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_72
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 189
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59b6c4da587b0c478588d32a203876d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_73
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 198
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4252a1f6a2cb59c4cb8213ef18270076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_74
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 145
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1282e38dcf4e47b479c253b965fbceb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_75
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 161
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6923506006f7f84eace325544e9eb14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_76
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 158
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c52e048cacb79846932850c9f3a02de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_77
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 146
+        width: 93
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356897fb41ab2d245a4e9af350b9b9ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_78
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 141
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef6eaf8643c0f443ae548ea8cd72ff0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_79
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 150
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cf7b7a3a5e8344da2db6b525436d7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_80
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbee3d68939318e418de879042fdcb0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_81
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 126
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df287df66f5c49b4a882251f21826dcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_82
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 135
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2028cd124cb023749a7e7b5b931ae768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_83
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 127
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f63cf1dd7406d4f87097636c6f21fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 317
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b405bfa1722e7488488b8f253ab807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baroness_of_Retribution_noBG_85
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 0
+        width: 215
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8920ebd67a307804baba82289a5556ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
+    bones: []
+    spriteID: fc1fffa3931deaa4bad8fba62527b236
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

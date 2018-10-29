@@ -1,173 +1,204 @@
 fileFormatVersion: 2
-guid: 10c5d3bce9c0e864c803048c33a2ec21
+guid: 169434506b144e442a3c969d3efc08b6
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Amdarais_noBG_0
-    21300002: Amdarais_noBG_1
-    21300004: Amdarais_noBG_2
-    21300006: Amdarais_noBG_3
-    21300008: Amdarais_noBG_4
-    21300010: Amdarais_noBG_5
-    21300012: Amdarais_noBG_6
-    21300014: Amdarais_noBG_7
-    21300016: Amdarais_noBG_8
-    21300018: Amdarais_noBG_9
-    21300020: Amdarais_noBG_10
-    21300022: Amdarais_noBG_11
-    21300024: Amdarais_noBG_12
-    21300026: Amdarais_noBG_13
-    21300028: Amdarais_noBG_14
-    21300030: Amdarais_noBG_15
-    21300032: Amdarais_noBG_16
-    21300034: Amdarais_noBG_17
-    21300036: Amdarais_noBG_18
-    21300038: Amdarais_noBG_19
-    21300040: Amdarais_noBG_20
-    21300042: Amdarais_noBG_21
-    21300044: Amdarais_noBG_22
-    21300046: Amdarais_noBG_23
-    21300048: Amdarais_noBG_24
-    21300050: Amdarais_noBG_25
-    21300052: Amdarais_noBG_26
-    21300054: Amdarais_noBG_27
-    21300056: Amdarais_noBG_28
-    21300058: Amdarais_noBG_29
-    21300060: Amdarais_noBG_30
-    21300062: Amdarais_noBG_31
-    21300064: Amdarais_noBG_32
-    21300066: Amdarais_noBG_33
-    21300068: Amdarais_noBG_34
-    21300070: Amdarais_noBG_35
-    21300072: Amdarais_noBG_36
-    21300074: Amdarais_noBG_37
-    21300076: Amdarais_noBG_38
-    21300078: Amdarais_noBG_39
-    21300080: Amdarais_noBG_40
-    21300082: Amdarais_noBG_41
-    21300084: Amdarais_noBG_42
-    21300086: Amdarais_noBG_43
-    21300088: Amdarais_noBG_44
-    21300090: Amdarais_noBG_45
-    21300092: Amdarais_noBG_46
-    21300094: Amdarais_noBG_47
-    21300096: Amdarais_noBG_48
-    21300098: Amdarais_noBG_49
-    21300100: Amdarais_noBG_50
-    21300102: Amdarais_noBG_51
-    21300104: Amdarais_noBG_52
-    21300106: Amdarais_noBG_53
-    21300108: Amdarais_noBG_54
-    21300110: Amdarais_noBG_55
-    21300112: Amdarais_noBG_56
-    21300114: Amdarais_noBG_57
-    21300116: Amdarais_noBG_58
-    21300118: Amdarais_noBG_59
-    21300120: Amdarais_noBG_60
-    21300122: Amdarais_noBG_61
-    21300124: Amdarais_noBG_62
-    21300126: Amdarais_noBG_63
-    21300128: Amdarais_noBG_64
-    21300130: Amdarais_noBG_65
-    21300132: Amdarais_noBG_66
-    21300134: Amdarais_noBG_67
-    21300136: Amdarais_noBG_68
-    21300138: Amdarais_noBG_69
-    21300140: Amdarais_noBG_70
-    21300142: Amdarais_noBG_71
-    21300144: Amdarais_noBG_72
-    21300146: Amdarais_noBG_73
-    21300148: Amdarais_noBG_74
-    21300150: Amdarais_noBG_75
-    21300152: Amdarais_noBG_76
-    21300154: Amdarais_noBG_77
-    21300156: Amdarais_noBG_78
-    21300158: Amdarais_noBG_79
-    21300160: Amdarais_noBG_80
-    21300162: Amdarais_noBG_81
-    21300164: Amdarais_noBG_82
-    21300166: Amdarais_noBG_83
-    21300168: Amdarais_noBG_84
-    21300170: Amdarais_noBG_85
-    21300172: Amdarais_noBG_86
-    21300174: Amdarais_noBG_87
-    21300176: Amdarais_noBG_88
-    21300178: Amdarais_noBG_89
-    21300180: Amdarais_noBG_90
-    21300182: Amdarais_noBG_91
-    21300184: Amdarais_noBG_92
-    21300186: Amdarais_noBG_93
-    21300188: Amdarais_noBG_94
-    21300190: Amdarais_noBG_95
-    21300192: Amdarais_noBG_96
-    21300194: Amdarais_noBG_97
-    21300196: Amdarais_noBG_98
-    21300198: Amdarais_noBG_99
-    21300200: Amdarais_noBG_100
-    21300202: Amdarais_noBG_101
-    21300204: Amdarais_noBG_102
-    21300206: Amdarais_noBG_103
-    21300208: Amdarais_noBG_104
-    21300210: Amdarais_noBG_105
-    21300212: Amdarais_noBG_106
-    21300214: Amdarais_noBG_107
-    21300216: Amdarais_noBG_108
-    21300218: Amdarais_noBG_109
-    21300220: Amdarais_noBG_110
-    21300222: Amdarais_noBG_111
-    21300224: Amdarais_noBG_112
-    21300226: Amdarais_noBG_113
-    21300228: Amdarais_noBG_114
-    21300230: Amdarais_noBG_115
-    21300232: Amdarais_noBG_116
-    21300234: Amdarais_noBG_117
-    21300236: Amdarais_noBG_118
-    21300238: Amdarais_noBG_119
-    21300240: Amdarais_noBG_120
-    21300242: Amdarais_noBG_121
-    21300244: Amdarais_noBG_122
-    21300246: Amdarais_noBG_123
-    21300248: Amdarais_noBG_124
-    21300250: Amdarais_noBG_125
-    21300252: Amdarais_noBG_126
-    21300254: Amdarais_noBG_127
-    21300256: Amdarais_noBG_128
-    21300258: Amdarais_noBG_129
-    21300260: Amdarais_noBG_130
-    21300262: Amdarais_noBG_131
-    21300264: Amdarais_noBG_132
-    21300266: Amdarais_noBG_133
-    21300268: Amdarais_noBG_134
-    21300270: Amdarais_noBG_135
-    21300272: Amdarais_noBG_136
-    21300274: Amdarais_noBG_137
-    21300276: Amdarais_noBG_138
-    21300278: Amdarais_noBG_139
-    21300280: Amdarais_noBG_140
-    21300282: Amdarais_noBG_141
-    21300284: Amdarais_noBG_142
-    21300286: Amdarais_noBG_143
-    21300288: Amdarais_noBG_144
-    21300290: Amdarais_noBG_145
-    21300292: Amdarais_noBG_146
-    21300294: Amdarais_noBG_147
-    21300296: Amdarais_noBG_148
-    21300298: Amdarais_noBG_149
-    21300300: Amdarais_noBG_150
-    21300302: Amdarais_noBG_151
-    21300304: Amdarais_noBG_152
-    21300306: Amdarais_noBG_153
-    21300308: Amdarais_noBG_154
-    21300310: Amdarais_noBG_155
-    21300312: Amdarais_noBG_156
-    21300314: Amdarais_noBG_157
-    21300316: Amdarais_noBG_158
-    21300318: Amdarais_noBG_159
-    21300320: Amdarais_noBG_160
-    21300322: Amdarais_noBG_161
-    21300324: Amdarais_noBG_162
-    21300326: Amdarais_noBG_163
-    21300328: Amdarais_noBG_164
-    21300330: Amdarais_noBG_165
+    21300000: Evil_Shadow_1_noBG_0
+    21300002: Evil_Shadow_1_noBG_1
+    21300004: Evil_Shadow_1_noBG_2
+    21300006: Evil_Shadow_1_noBG_3
+    21300008: Evil_Shadow_1_noBG_4
+    21300010: Evil_Shadow_1_noBG_5
+    21300012: Evil_Shadow_1_noBG_6
+    21300014: Evil_Shadow_1_noBG_7
+    21300016: Evil_Shadow_1_noBG_8
+    21300018: Evil_Shadow_1_noBG_9
+    21300020: Evil_Shadow_1_noBG_10
+    21300022: Evil_Shadow_1_noBG_11
+    21300024: Evil_Shadow_1_noBG_12
+    21300026: Evil_Shadow_1_noBG_13
+    21300028: Evil_Shadow_1_noBG_14
+    21300030: Evil_Shadow_1_noBG_15
+    21300032: Evil_Shadow_1_noBG_16
+    21300034: Evil_Shadow_1_noBG_17
+    21300036: Evil_Shadow_1_noBG_18
+    21300038: Evil_Shadow_1_noBG_19
+    21300040: Evil_Shadow_1_noBG_20
+    21300042: Evil_Shadow_1_noBG_21
+    21300044: Evil_Shadow_1_noBG_22
+    21300046: Evil_Shadow_1_noBG_23
+    21300048: Evil_Shadow_1_noBG_24
+    21300050: Evil_Shadow_1_noBG_25
+    21300052: Evil_Shadow_1_noBG_26
+    21300054: Evil_Shadow_1_noBG_27
+    21300056: Evil_Shadow_1_noBG_28
+    21300058: Evil_Shadow_1_noBG_29
+    21300060: Evil_Shadow_1_noBG_30
+    21300062: Evil_Shadow_1_noBG_31
+    21300064: Evil_Shadow_1_noBG_32
+    21300066: Evil_Shadow_1_noBG_33
+    21300068: Evil_Shadow_1_noBG_34
+    21300070: Evil_Shadow_1_noBG_35
+    21300072: Evil_Shadow_1_noBG_36
+    21300074: Evil_Shadow_1_noBG_37
+    21300076: Evil_Shadow_1_noBG_38
+    21300078: Evil_Shadow_1_noBG_39
+    21300080: Evil_Shadow_1_noBG_40
+    21300082: Evil_Shadow_1_noBG_41
+    21300084: Evil_Shadow_1_noBG_42
+    21300086: Evil_Shadow_1_noBG_43
+    21300088: Evil_Shadow_1_noBG_44
+    21300090: Evil_Shadow_1_noBG_45
+    21300092: Evil_Shadow_1_noBG_46
+    21300094: Evil_Shadow_1_noBG_47
+    21300096: Evil_Shadow_1_noBG_48
+    21300098: Evil_Shadow_1_noBG_49
+    21300100: Evil_Shadow_1_noBG_50
+    21300102: Evil_Shadow_1_noBG_51
+    21300104: Evil_Shadow_1_noBG_52
+    21300106: Evil_Shadow_1_noBG_53
+    21300108: Evil_Shadow_1_noBG_54
+    21300110: Evil_Shadow_1_noBG_55
+    21300112: Evil_Shadow_1_noBG_56
+    21300114: Evil_Shadow_1_noBG_57
+    21300116: Evil_Shadow_1_noBG_58
+    21300118: Evil_Shadow_1_noBG_59
+    21300120: Evil_Shadow_1_noBG_60
+    21300122: Evil_Shadow_1_noBG_61
+    21300124: Evil_Shadow_1_noBG_62
+    21300126: Evil_Shadow_1_noBG_63
+    21300128: Evil_Shadow_1_noBG_64
+    21300130: Evil_Shadow_1_noBG_65
+    21300132: Evil_Shadow_1_noBG_66
+    21300134: Evil_Shadow_1_noBG_67
+    21300136: Evil_Shadow_1_noBG_68
+    21300138: Evil_Shadow_1_noBG_69
+    21300140: Evil_Shadow_1_noBG_70
+    21300142: Evil_Shadow_1_noBG_71
+    21300144: Evil_Shadow_1_noBG_72
+    21300146: Evil_Shadow_1_noBG_73
+    21300148: Evil_Shadow_1_noBG_74
+    21300150: Evil_Shadow_1_noBG_75
+    21300152: Evil_Shadow_1_noBG_76
+    21300154: Evil_Shadow_1_noBG_77
+    21300156: Evil_Shadow_1_noBG_78
+    21300158: Evil_Shadow_1_noBG_79
+    21300160: Evil_Shadow_1_noBG_80
+    21300162: Evil_Shadow_1_noBG_81
+    21300164: Evil_Shadow_1_noBG_82
+    21300166: Evil_Shadow_1_noBG_83
+    21300168: Evil_Shadow_1_noBG_84
+    21300170: Evil_Shadow_1_noBG_85
+    21300172: Evil_Shadow_1_noBG_86
+    21300174: Evil_Shadow_1_noBG_87
+    21300176: Evil_Shadow_1_noBG_88
+    21300178: Evil_Shadow_1_noBG_89
+    21300180: Evil_Shadow_1_noBG_90
+    21300182: Evil_Shadow_1_noBG_91
+    21300184: Evil_Shadow_1_noBG_92
+    21300186: Evil_Shadow_1_noBG_93
+    21300188: Evil_Shadow_1_noBG_94
+    21300190: Evil_Shadow_1_noBG_95
+    21300192: Evil_Shadow_1_noBG_96
+    21300194: Evil_Shadow_1_noBG_97
+    21300196: Evil_Shadow_1_noBG_98
+    21300198: Evil_Shadow_1_noBG_99
+    21300200: Evil_Shadow_1_noBG_100
+    21300202: Evil_Shadow_1_noBG_101
+    21300204: Evil_Shadow_1_noBG_102
+    21300206: Evil_Shadow_1_noBG_103
+    21300208: Evil_Shadow_1_noBG_104
+    21300210: Evil_Shadow_1_noBG_105
+    21300212: Evil_Shadow_1_noBG_106
+    21300214: Evil_Shadow_1_noBG_107
+    21300216: Evil_Shadow_1_noBG_108
+    21300218: Evil_Shadow_1_noBG_109
+    21300220: Evil_Shadow_1_noBG_110
+    21300222: Evil_Shadow_1_noBG_111
+    21300224: Evil_Shadow_1_noBG_112
+    21300226: Evil_Shadow_1_noBG_113
+    21300228: Evil_Shadow_1_noBG_114
+    21300230: Evil_Shadow_1_noBG_115
+    21300232: Evil_Shadow_1_noBG_116
+    21300234: Evil_Shadow_1_noBG_117
+    21300236: Evil_Shadow_1_noBG_118
+    21300238: Evil_Shadow_1_noBG_119
+    21300240: Evil_Shadow_1_noBG_120
+    21300242: Evil_Shadow_1_noBG_121
+    21300244: Evil_Shadow_1_noBG_122
+    21300246: Evil_Shadow_1_noBG_123
+    21300248: Evil_Shadow_1_noBG_124
+    21300250: Evil_Shadow_1_noBG_125
+    21300252: Evil_Shadow_1_noBG_126
+    21300254: Evil_Shadow_1_noBG_127
+    21300256: Evil_Shadow_1_noBG_128
+    21300258: Evil_Shadow_1_noBG_129
+    21300260: Evil_Shadow_1_noBG_130
+    21300262: Evil_Shadow_1_noBG_131
+    21300264: Evil_Shadow_1_noBG_132
+    21300266: Evil_Shadow_1_noBG_133
+    21300268: Evil_Shadow_1_noBG_134
+    21300270: Evil_Shadow_1_noBG_135
+    21300272: Evil_Shadow_1_noBG_136
+    21300274: Evil_Shadow_1_noBG_137
+    21300276: Evil_Shadow_1_noBG_138
+    21300278: Evil_Shadow_1_noBG_139
+    21300280: Evil_Shadow_1_noBG_140
+    21300282: Evil_Shadow_1_noBG_141
+    21300284: Evil_Shadow_1_noBG_142
+    21300286: Evil_Shadow_1_noBG_143
+    21300288: Evil_Shadow_1_noBG_144
+    21300290: Evil_Shadow_1_noBG_145
+    21300292: Evil_Shadow_1_noBG_146
+    21300294: Evil_Shadow_1_noBG_147
+    21300296: Evil_Shadow_1_noBG_148
+    21300298: Evil_Shadow_1_noBG_149
+    21300300: Evil_Shadow_1_noBG_150
+    21300302: Evil_Shadow_1_noBG_151
+    21300304: Evil_Shadow_1_noBG_152
+    21300306: Evil_Shadow_1_noBG_153
+    21300308: Evil_Shadow_1_noBG_154
+    21300310: Evil_Shadow_1_noBG_155
+    21300312: Evil_Shadow_1_noBG_156
+    21300314: Evil_Shadow_1_noBG_157
+    21300316: Evil_Shadow_1_noBG_158
+    21300318: Evil_Shadow_1_noBG_159
+    21300320: Evil_Shadow_1_noBG_160
+    21300322: Evil_Shadow_1_noBG_161
+    21300324: Evil_Shadow_1_noBG_162
+    21300326: Evil_Shadow_1_noBG_163
+    21300328: Evil_Shadow_1_noBG_164
+    21300330: Evil_Shadow_1_noBG_165
+    21300332: Evil_Shadow_1_noBG_166
+    21300334: Evil_Shadow_1_noBG_167
+    21300336: Evil_Shadow_1_noBG_168
+    21300338: Evil_Shadow_1_noBG_169
+    21300340: Evil_Shadow_1_noBG_170
+    21300342: Evil_Shadow_1_noBG_171
+    21300344: Evil_Shadow_1_noBG_172
+    21300346: Evil_Shadow_1_noBG_173
+    21300348: Evil_Shadow_1_noBG_174
+    21300350: Evil_Shadow_1_noBG_175
+    21300352: Evil_Shadow_1_noBG_176
+    21300354: Evil_Shadow_1_noBG_177
+    21300356: Evil_Shadow_1_noBG_178
+    21300358: Evil_Shadow_1_noBG_179
+    21300360: Evil_Shadow_1_noBG_180
+    21300362: Evil_Shadow_1_noBG_181
+    21300364: Evil_Shadow_1_noBG_182
+    21300366: Evil_Shadow_1_noBG_183
+    21300368: Evil_Shadow_1_noBG_184
+    21300370: Evil_Shadow_1_noBG_185
+    21300372: Evil_Shadow_1_noBG_186
+    21300374: Evil_Shadow_1_noBG_187
+    21300376: Evil_Shadow_1_noBG_188
+    21300378: Evil_Shadow_1_noBG_189
+    21300380: Evil_Shadow_1_noBG_190
+    21300382: Evil_Shadow_1_noBG_191
+    21300384: Evil_Shadow_1_noBG_192
+    21300386: Evil_Shadow_1_noBG_193
+    21300388: Evil_Shadow_1_noBG_194
+    21300390: Evil_Shadow_1_noBG_195
+    21300392: Evil_Shadow_1_noBG_196
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -250,1373 +281,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Amdarais_noBG_0
+      name: Evil_Shadow_1_noBG_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3043
-        width: 1800
-        height: 259
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0bd87f9516dc34f4f8a2e183caf18917
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_1
-      rect:
-        serializedVersion: 2
-        x: 333
-        y: 3045
-        width: 232
-        height: 214
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 84da45cee809ac2468d109ac7e12cbf6
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_2
-      rect:
-        serializedVersion: 2
-        x: 632
-        y: 3046
-        width: 236
-        height: 213
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 25019a16d3e6a2c42bd034e16d535278
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_3
-      rect:
-        serializedVersion: 2
-        x: 931
-        y: 3047
-        width: 238
-        height: 211
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c1c401303e524844590948aa87a4ea66
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_4
-      rect:
-        serializedVersion: 2
-        x: 1231
-        y: 3046
-        width: 237
-        height: 212
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d6f693d34cba0d6488e615ab99b21533
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_5
-      rect:
-        serializedVersion: 2
-        x: 1533
-        y: 3045
-        width: 234
-        height: 214
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f2dc2f7967e2e814e8cc0b83eaad84c2
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_6
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 2756
-        width: 204
-        height: 192
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c96aefcda7dffa44db7cef33b0ee0976
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_7
-      rect:
-        serializedVersion: 2
-        x: 348
-        y: 2757
-        width: 204
-        height: 191
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ac36c5bfb1e9b2429343bfa0f6ffe25
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_8
-      rect:
-        serializedVersion: 2
-        x: 648
-        y: 2757
-        width: 204
-        height: 191
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 60b86df8499da5b4e85af214c061c95b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_9
-      rect:
-        serializedVersion: 2
-        x: 948
-        y: 2756
-        width: 207
-        height: 192
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d155630bba8b3c341a10d79dadf54286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_10
-      rect:
-        serializedVersion: 2
-        x: 1248
-        y: 2757
-        width: 204
-        height: 191
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e4d8986848aad7746bc7f78c3163cd3f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_11
-      rect:
-        serializedVersion: 2
-        x: 1548
-        y: 2757
-        width: 204
-        height: 191
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2cd7c1fa4c02db148813421e4b7cf130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_12
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 2444
-        width: 234
-        height: 215
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b3dffdd04e69e524da02a83d7de3a24c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_13
-      rect:
-        serializedVersion: 2
-        x: 323
-        y: 2447
-        width: 250
-        height: 211
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c02d06680723c024da24b79f38b0bce9
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_14
-      rect:
-        serializedVersion: 2
-        x: 614
-        y: 2458
-        width: 271
-        height: 189
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0afa456d549b4314c896d327b3bac809
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_15
-      rect:
-        serializedVersion: 2
-        x: 957
-        y: 2431
-        width: 186
-        height: 241
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7a187e489a75eb5479f1018f4933ccd5
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_16
-      rect:
-        serializedVersion: 2
-        x: 1257
-        y: 2431
-        width: 186
-        height: 243
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ff91f32b052c3564e8ac594e38e5329c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_17
-      rect:
-        serializedVersion: 2
-        x: 1557
-        y: 2431
-        width: 186
-        height: 241
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3cf1c74753a2b9a428c667aa3771140a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_18
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 2158
-        width: 271
-        height: 190
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 19d28a49b08254e47ad4beba6772a09e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_19
-      rect:
-        serializedVersion: 2
-        x: 322
-        y: 2146
-        width: 251
-        height: 212
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 184033b36f9f0d142945cb9f2346a400
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_20
-      rect:
-        serializedVersion: 2
-        x: 645
-        y: 2156
-        width: 207
-        height: 192
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2d8ec5f585f95714eb09d6f8bb441dfc
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_21
-      rect:
-        serializedVersion: 2
-        x: 948
-        y: 2158
-        width: 204
-        height: 190
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0a687dddabb6d254590c535a4f8634dd
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_22
-      rect:
-        serializedVersion: 2
-        x: 1240
-        y: 2168
-        width: 220
-        height: 173
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2bac4ab5510801f4eba79dcfed223bcb
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_23
-      rect:
-        serializedVersion: 2
-        x: 1567
-        y: 2147
-        width: 168
-        height: 211
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fccf016e190c1874baef0385097dd5a6
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_24
-      rect:
-        serializedVersion: 2
-        x: 67
-        y: 1845
-        width: 166
-        height: 215
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1e8d9cbdf916b2b4a8b09d1c64ced763
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_25
-      rect:
-        serializedVersion: 2
-        x: 367
-        y: 1844
-        width: 166
-        height: 214
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ac9650e360e34384383f292a3b905307
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_26
-      rect:
-        serializedVersion: 2
-        x: 948
-        y: 1858
-        width: 204
-        height: 189
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 701d17707ec95b84fb86f1c38e065897
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_27
-      rect:
-        serializedVersion: 2
-        x: 1559
-        y: 2044
-        width: 74
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 02c466b71cbaf424eb2aa81cc74d929e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_28
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 1868
-        width: 220
-        height: 170
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd2cb83918d453146b1e681781188bc2
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_29
-      rect:
-        serializedVersion: 2
-        x: 1259
-        y: 1919
-        width: 82
-        height: 63
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f41ad31b7333f8046832b87172466f7c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_30
-      rect:
-        serializedVersion: 2
-        x: 1390
-        y: 1915
-        width: 107
-        height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4649816d8c4f63e49ba6ec063ab11eed
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_31
-      rect:
-        serializedVersion: 2
-        x: 1559
-        y: 1939
-        width: 211
-        height: 101
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6593be9022917ed4e8216492f69b5ae6
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_32
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 1541
-        width: 236
-        height: 219
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ca4cf16cf14bf9f42b7336cc2cefb315
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_33
-      rect:
-        serializedVersion: 2
-        x: 316
-        y: 1547
-        width: 265
-        height: 210
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3fe8c05e9802e7847bb15c017ccda26c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_34
-      rect:
-        serializedVersion: 2
-        x: 615
-        y: 1548
-        width: 270
-        height: 206
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d641d3d0ea83855428e948113ea99bf3
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_35
-      rect:
-        serializedVersion: 2
-        x: 914
-        y: 1550
-        width: 271
-        height: 203
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e0a6d6165c196ef4ba5e31838f195444
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_36
-      rect:
-        serializedVersion: 2
-        x: 1232
-        y: 1542
-        width: 233
-        height: 219
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ca14522db176fcc499d5b02c6492ab56
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_37
-      rect:
-        serializedVersion: 2
-        x: 1530
-        y: 1541
-        width: 239
-        height: 226
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 694c90842dbb20e4c8c765b2440fbe7b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_38
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 1256
-        width: 204
-        height: 196
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aaf7c285a5e2d7645b791960c7934e84
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_39
-      rect:
-        serializedVersion: 2
-        x: 342
-        y: 1249
-        width: 212
-        height: 206
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f3623919c2d83b84d81768264f2a4203
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_40
-      rect:
-        serializedVersion: 2
-        x: 644
-        y: 1247
-        width: 212
-        height: 211
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a55d84246d6ff574ebaaf9d47c4d814a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_41
-      rect:
-        serializedVersion: 2
-        x: 948
-        y: 1246
-        width: 204
-        height: 212
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 66a4c1abd1b9f2f48b362b549e868453
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_42
-      rect:
-        serializedVersion: 2
-        x: 1235
-        y: 1262
-        width: 230
-        height: 183
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f5baa899efe6fbc44911173f477551e5
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_43
-      rect:
-        serializedVersion: 2
-        x: 1542
-        y: 1257
-        width: 215
-        height: 190
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b14e9d491b57625428a1631b57c848e8
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_44
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 954
-        width: 272
-        height: 195
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a793c6b1d8ce4924489d01a868ebe233
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_45
-      rect:
-        serializedVersion: 2
-        x: 314
-        y: 957
-        width: 274
-        height: 192
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a4e7d045c7afb0a4591fd29ea8188f56
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_46
-      rect:
-        serializedVersion: 2
-        x: 614
-        y: 954
-        width: 272
-        height: 195
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 855e56aa887c8b645b1cecf9908fa3d1
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_47
-      rect:
-        serializedVersion: 2
-        x: 914
-        y: 957
-        width: 274
-        height: 192
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a0b1504c6beed874d8f6e60f65393737
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_48
-      rect:
-        serializedVersion: 2
-        x: 1214
-        y: 954
-        width: 272
-        height: 195
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1f68656ed9d59f6429b9b7e1c797498f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_49
-      rect:
-        serializedVersion: 2
-        x: 1548
-        y: 960
-        width: 201
-        height: 182
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1cb0143e951dd964dae1e2003d373958
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_50
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 662
-        width: 199
-        height: 180
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a2df143c103509442a7830c2aaf5ff76
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_51
-      rect:
-        serializedVersion: 2
-        x: 348
-        y: 662
-        width: 201
-        height: 180
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 87d3104acd3034e419cd628910fcb617
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_52
-      rect:
-        serializedVersion: 2
-        x: 650
-        y: 662
-        width: 199
-        height: 180
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 129d226b14f806d4cb0c60144afe5ee8
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_53
-      rect:
-        serializedVersion: 2
-        x: 948
-        y: 662
-        width: 201
-        height: 180
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 412ac980beedc4044b9d58e2f9b0148f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_54
-      rect:
-        serializedVersion: 2
-        x: 1212
-        y: 641
-        width: 274
-        height: 222
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 11a0c919e04fc034287a7762f24fe326
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_55
-      rect:
-        serializedVersion: 2
-        x: 1514
-        y: 630
-        width: 260
-        height: 247
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 622f8d7d913cc894fa6c4886d8256824
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_56
-      rect:
-        serializedVersion: 2
-        x: 1765
-        y: 719
-        width: 21
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 452dce336537ff64288db68f4db4ac08
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_57
-      rect:
-        serializedVersion: 2
-        x: 43
-        y: 356
-        width: 67
-        height: 218
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bca4fbb8eb238ea4cbdd11038577aeef
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_58
-      rect:
-        serializedVersion: 2
-        x: 113
-        y: 354
-        width: 31
-        height: 218
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 072c9f59e1595384eac0f15b6c1275d2
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_59
-      rect:
-        serializedVersion: 2
-        x: 141
-        y: 330
-        width: 59
-        height: 245
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 16bba2db4c070e149aefa11f30c502d0
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_60
-      rect:
-        serializedVersion: 2
-        x: 383
-        y: 504
-        width: 7
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fa5c96f869a1100419c773704c21869d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_61
-      rect:
-        serializedVersion: 2
-        x: 419
-        y: 555
-        width: 4
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f6b5e368d29b6a246a2c68be0762f433
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_62
-      rect:
-        serializedVersion: 2
-        x: 442
-        y: 567
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5761a6abb12e8994c86a94d02bb4f03b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_63
-      rect:
-        serializedVersion: 2
-        x: 475
-        y: 541
-        width: 6
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 54a4190966b00184187e6367fbc12f9c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_64
-      rect:
-        serializedVersion: 2
-        x: 950
-        y: 335
-        width: 169
-        height: 233
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 27f3b945b28044942b2e836f895e97f3
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_65
-      rect:
-        serializedVersion: 2
-        x: 1320
-        y: 335
-        width: 90
-        height: 233
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a3af7382cb146db47bc4f535b602c44f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_66
-      rect:
-        serializedVersion: 2
-        x: 1372
-        y: 530
-        width: 6
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 94c8ec3e70771d54fa31a1197aadb64f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_67
-      rect:
-        serializedVersion: 2
-        x: 1651
-        y: 535
-        width: 8
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 48d574bc783e1294ba6584a3e059cda7
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_68
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 335
+        x: 22
+        y: 1261
         width: 64
-        height: 216
+        height: 113
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1624,19 +295,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a03798d9e04e0d74285e6e9bdb969b2c
+      spriteID: f1547f641d7315e4da77fb39c980e5fd
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_69
+      name: Evil_Shadow_1_noBG_1
       rect:
         serializedVersion: 2
-        x: 443
-        y: 464
-        width: 9
-        height: 82
+        x: 142
+        y: 1260
+        width: 68
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1644,97 +315,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3283d6dc5ba4b224db3a71f0c2eaaa7d
+      spriteID: 9fb3ffa0c5a5b86418316daeaa603267
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_70
+      name: Evil_Shadow_1_noBG_2
       rect:
         serializedVersion: 2
-        x: 650
-        y: 348
-        width: 199
-        height: 204
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 064e157f8ab242b478d00b727a636f0e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_71
-      rect:
-        serializedVersion: 2
-        x: 1281
-        y: 448
-        width: 7
-        height: 114
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5b779537cb189db4bb3d77d882ae3555
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_72
-      rect:
-        serializedVersion: 2
-        x: 1669
-        y: 522
-        width: 11
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 06970907646b2674d84d471ffb57870c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_73
-      rect:
-        serializedVersion: 2
-        x: 1683
-        y: 507
-        width: 6
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 10160877eb3fe954881077609019109f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_74
-      rect:
-        serializedVersion: 2
-        x: 1707
-        y: 538
+        x: 212
+        y: 1309
         width: 5
         height: 6
       alignment: 0
@@ -1744,19 +335,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0573f4299b39124d9d88ff924dceece
+      spriteID: 68c9d27003c1850479c70277a817d6c2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_75
+      name: Evil_Shadow_1_noBG_3
       rect:
         serializedVersion: 2
-        x: 419
-        y: 433
-        width: 22
-        height: 98
+        x: 264
+        y: 1259
+        width: 70
+        height: 117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1764,157 +355,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e24258ec4aaea87429c5e04418a98645
+      spriteID: a3395b98784869846a84c409f945bb76
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_76
+      name: Evil_Shadow_1_noBG_4
       rect:
         serializedVersion: 2
-        x: 461
-        y: 512
-        width: 7
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 86cb95cf2d1e5be458547f5edad31de1
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_77
-      rect:
-        serializedVersion: 2
-        x: 484
-        y: 451
-        width: 12
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1c120f260fa2d924c85dedfa70b864f7
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_78
-      rect:
-        serializedVersion: 2
-        x: 500
-        y: 433
-        width: 10
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 31f9ce96214613a4b8fa851515f67fd9
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_79
-      rect:
-        serializedVersion: 2
-        x: 1640
-        y: 518
-        width: 4
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b84128243e41e884a955f4b9fdd5e244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_80
-      rect:
-        serializedVersion: 2
-        x: 349
-        y: 504
-        width: 7
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 457a782fe38f9fe4a9d3301a63315e10
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_81
-      rect:
-        serializedVersion: 2
-        x: 475
-        y: 509
-        width: 5
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 209be20cd96a8b7428df6277ea380b08
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_82
-      rect:
-        serializedVersion: 2
-        x: 1293
-        y: 344
-        width: 43
-        height: 170
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 716d510d9a9d0554486e64f5b863a950
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_83
-      rect:
-        serializedVersion: 2
-        x: 1609
-        y: 511
+        x: 330
+        y: 1314
         width: 5
         height: 5
       alignment: 0
@@ -1924,18 +375,98 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2f73792a0855d94eab3accfd476f69b
+      spriteID: f3573bb50f6611246a9994855e4c8eb4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_84
+      name: Evil_Shadow_1_noBG_5
       rect:
         serializedVersion: 2
-        x: 1673
-        y: 497
-        width: 5
+        x: 385
+        y: 1260
+        width: 69
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8fefa081fad3b41aa2dbf66b6884e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_6
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1261
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20db1ebf76a11c42a337efca305d204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_7
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1261
+        width: 61
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2cbc56b8a5e0e48bd1387d7ceecb81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_8
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1286
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6f8dfa6a922894893153844694f2b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_9
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1301
+        width: 41
         height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1944,19 +475,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89b1d9d619c161349b9297c7728af6e9
+      spriteID: 1f56f391be3ad4d44b89d0dbb593fef0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_85
+      name: Evil_Shadow_1_noBG_10
       rect:
         serializedVersion: 2
-        x: 1690
-        y: 372
-        width: 32
-        height: 144
+        x: 970
+        y: 1301
+        width: 72
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1964,17 +495,917 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b2b37e155e5e5c47977f77c55966ae0
+      spriteID: 3f014f6676703c04894d16a864d8c03f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_86
+      name: Evil_Shadow_1_noBG_11
       rect:
         serializedVersion: 2
-        x: 17
-        y: 451
+        x: 1043
+        y: 1301
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc32b5691b1474e48bfe519efc989cfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1302
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed9a5d6c660ff446acd25ffba8249a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1302
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0d6141787eac549bd0ad72de422fca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1273
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f706ae3eed4d534e9fe773a7d9c22fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_15
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1279
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38575022881ae9c42867a49bf90919e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_16
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1249
+        width: 250
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f936daf346f3e9c4a9e1a1dc85450a8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1266
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e366d9c7fecf0ab4a99716ac9fe0cef8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_18
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1240
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea50e694a3704244a723566c7299cab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_19
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1201
+        width: 160
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381beb7cac26dfb4e805d229eb2ac6b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1112
+        width: 62
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329458afb27286f46a94f12432624029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_21
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1114
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f472958aee89c48886fb06bfc2cb63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_22
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1114
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f800c4778eb554b858b1c2f1707565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_23
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1114
+        width: 62
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7667597f1ec004f8e3f07d73dc2a6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_24
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1114
+        width: 61
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3144d6ee5c51d24f8eb48895fd47d51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_25
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1114
+        width: 62
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c79846c88800a4ba16a1e7ee2914c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_26
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1182
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5ac523cd45f98458657fd33172c637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_27
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1148
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262804d74cb48b048b03b253850a009b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 965
+        width: 55
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0871ef248818c42a53e18ec399a234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_29
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 964
+        width: 77
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb403dff96e9cf944b8da0ec37c3f84a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_30
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 965
+        width: 81
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4929cf6650095294780400e20b81c975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_31
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 966
+        width: 55
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0a7af81e65ced4688dd5b9c150a6e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 967
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebb86600da29374cb0be589192a6742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_33
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 963
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48e52004c094784e90ae4810e5b9597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_34
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 965
+        width: 77
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4011ccf5117940940aacd4b1fd8e1d99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_35
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 965
+        width: 59
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f19a0c2aeafb34d99f010b52bee094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_36
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 976
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f553a0825a6dd0448c59f707c0c56c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_37
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 942
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ef9c2d9aab1b542868a63a0dedc4d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 817
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d829ae1be53e449b96b524003324d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_39
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 813
+        width: 65
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c4c8550b244054fbd9f486a4d07de5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 814
+        width: 67
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266c25b58de165546ae15973393f26e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_41
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 817
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c020344f24c0fd4e9fc0d512ac87f98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_42
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 817
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280499badffc0c4458ccd9c35170889b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_43
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 819
+        width: 71
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f154b09369ad904780f6b2223f4d222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_44
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 819
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb14c27d10740049810870d1de2924f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_45
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 820
+        width: 57
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91459f3eddbd95478cd65754aafe2d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_46
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 907
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423c5fda46e67ac4db57c8b8615ed476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_47
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 659
+        width: 55
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53832ce4fb7413f4086635002b1b55d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_48
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 656
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e798c75ecccced1438e3fd363480e480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_49
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 651
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28f97125a530524294f64fd2e5149fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_50
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 651
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81c6bb88ed754348af797269a06ff6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_51
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 660
+        width: 74
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77f84c5e7f530341b3422f38e87a6ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_52
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 661
+        width: 77
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbcccdc862cbbc4284342f46e32954e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_53
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 661
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7af0b54fe7595d4782e30b29bd303eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_54
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 707
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57a5ae9a48948247930620f0779a98f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_55
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 699
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f0ec185025e8340a6e44356c95f08e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_56
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 691
         width: 16
         height: 51
       alignment: 0
@@ -1984,19 +1415,119 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37552cb55e6a74f41a30b7ef5e7e97e9
+      spriteID: 1663b15356fb52841823d105d51e6753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_87
+      name: Evil_Shadow_1_noBG_57
       rect:
         serializedVersion: 2
-        x: 319
-        y: 488
+        x: 917
+        y: 678
+        width: 9
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1876cb723c5ee4482d31f2e199dc8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_58
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 678
+        width: 7
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3db1a05018a4574eaf0a59c621f62d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_59
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 656
+        width: 45
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6667b1adac97b8c409c84f2c0ba6403f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_60
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 711
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a60abce2923f640bafb80cbb767374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_61
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 704
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b553c01abe1680498791ee80e7bcb34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_62
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 695
         width: 4
-        height: 6
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2004,19 +1535,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3558accebe9e62e4792243d6bf506411
+      spriteID: ef17d27af3a68f14094ba8ab82607265
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_88
+      name: Evil_Shadow_1_noBG_63
       rect:
         serializedVersion: 2
-        x: 346
-        y: 480
-        width: 6
-        height: 14
+        x: 1087
+        y: 686
+        width: 35
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2024,17 +1555,197 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b0a199a44293bb4c8231121c5229c07
+      spriteID: 8716b69457447b1498cbcc1fd6c70977
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_89
+      name: Evil_Shadow_1_noBG_64
       rect:
         serializedVersion: 2
-        x: 396
-        y: 488
+        x: 1186
+        y: 673
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09129fdd08ad8da4fb0a2b49f05fb9e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_65
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 630
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef03f40cd611670419492e970416bffb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_66
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 499
+        width: 52
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8085e8ea28900314b973a9487234cfc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_67
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 498
+        width: 117
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb0197a8304e8146b3c8e43b52e9fe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_68
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 494
+        width: 74
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9965f2991835d841824b9512b85ab3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_69
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 494
+        width: 73
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7c5188ae5d8f8439e78b4ffad9fd91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_70
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 501
+        width: 54
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06592c355427a5b4189b9cfcdaf85ea5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_71
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 505
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4930d30fd18d4458b36f6c56be12a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_72
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 507
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcb8cd770c325b478e66d14b2f06778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_73
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 562
         width: 5
         height: 17
       alignment: 0
@@ -2044,118 +1755,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f6c3691f67e2c2469eefb0dea639904
+      spriteID: 3b29307b529b7ce43b6cd5ffc1550779
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_90
+      name: Evil_Shadow_1_noBG_74
       rect:
         serializedVersion: 2
-        x: 517
-        y: 464
-        width: 5
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c39b9e9dbcf536540874d45ddbef3ad9
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_91
-      rect:
-        serializedVersion: 2
-        x: 1264
-        y: 478
-        width: 6
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2de2452c01e83a3478ca7e5e90467293
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_92
-      rect:
-        serializedVersion: 2
-        x: 1411
-        y: 367
-        width: 15
-        height: 135
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f78aa20415e021e4d8eb5331bf88d629
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_93
-      rect:
-        serializedVersion: 2
-        x: 1567
-        y: 480
-        width: 6
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 38cb7ebb2b060c040b7641d56fc9dd44
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_94
-      rect:
-        serializedVersion: 2
-        x: 1585
-        y: 451
-        width: 5
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6117668a9d7c94040a3786e09234a077
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_95
-      rect:
-        serializedVersion: 2
-        x: 1601
-        y: 422
-        width: 9
+        x: 910
+        y: 509
+        width: 44
         height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2164,78 +1775,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73a02be812ee2f54bba830ec9590f027
+      spriteID: 055ddf961fed7b743a2411cd01c54ad8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_96
+      name: Evil_Shadow_1_noBG_75
       rect:
         serializedVersion: 2
-        x: 1631
-        y: 476
-        width: 8
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3f7fd0d109f83b845956230ba45d323b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_97
-      rect:
-        serializedVersion: 2
-        x: 1656
-        y: 428
-        width: 13
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f685ee82eca11504ca0e4b240305b5f5
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_98
-      rect:
-        serializedVersion: 2
-        x: 264
-        y: 460
-        width: 7
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4b2742b057b448f4ab3e4931db6ecc13
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_99
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 451
-        width: 10
+        x: 1015
+        y: 542
+        width: 70
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2244,17 +1795,77 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd69111a99a4b264d8dd1eccbd66c7bc
+      spriteID: e40ada8228715ed4e8e54982e6652429
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_100
+      name: Evil_Shadow_1_noBG_76
       rect:
         serializedVersion: 2
-        x: 374
-        y: 446
+        x: 1186
+        y: 569
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35a9875931f0754cb4d24d4e436531a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_77
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 530
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dc04c5cda2b074689a619cb5b7c91d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_78
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 533
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e929d213b12ce5840ac682ca6302185e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_79
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 535
         width: 7
         height: 32
       alignment: 0
@@ -2264,158 +1875,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02cfa532063b5b04bbf88ed990f42772
+      spriteID: 3ad7019560187d043bc21b3c369dd207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_101
+      name: Evil_Shadow_1_noBG_80
       rect:
         serializedVersion: 2
-        x: 413
-        y: 443
-        width: 9
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af016a9eb9455b948a12fede8c7ce4f2
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_102
-      rect:
-        serializedVersion: 2
-        x: 473
-        y: 441
-        width: 7
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b8536bf3e8d74384b82db8d14ad7b513
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_103
-      rect:
-        serializedVersion: 2
-        x: 525
-        y: 473
-        width: 5
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b866552648156d54faddf9d5f9ea58ca
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_104
-      rect:
-        serializedVersion: 2
-        x: 1119
-        y: 419
-        width: 30
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ed6a3a88fc64fa54f924052b82ab2e91
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_105
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 426
-        width: 27
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 856dbb82ed46ebd47bce97a8e45ca48f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_106
-      rect:
-        serializedVersion: 2
-        x: 343
-        y: 430
+        x: 994
+        y: 536
         width: 8
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ab09a2e4639d9e940aa28f2080abdeb8
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_107
-      rect:
-        serializedVersion: 2
-        x: 403
-        y: 457
-        width: 5
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ca7124487350f00438e3cdfbd178c286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_108
-      rect:
-        serializedVersion: 2
-        x: 1251
-        y: 444
-        width: 9
         height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2424,19 +1895,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a185f85d9fb7f2846ade591922e03298
+      spriteID: 3657b6c7d398baa49900f4b213612001
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_109
+      name: Evil_Shadow_1_noBG_81
       rect:
         serializedVersion: 2
-        x: 1262
-        y: 414
-        width: 16
-        height: 50
+        x: 16
+        y: 328
+        width: 64
+        height: 113
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2444,19 +1915,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b352e82286ddcc4c838faeb32cd6f55
+      spriteID: e70b309c763406a4e89936ab5997c801
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_110
+      name: Evil_Shadow_1_noBG_82
       rect:
         serializedVersion: 2
-        x: 1423
-        y: 375
-        width: 12
-        height: 89
+        x: 134
+        y: 329
+        width: 68
+        height: 111
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2464,19 +1935,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3192deab65439c847a0cbc88a3f6a0dc
+      spriteID: df188a59a68f0674db76b4dd8dadb8b7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_111
+      name: Evil_Shadow_1_noBG_83
       rect:
         serializedVersion: 2
-        x: 1565
-        y: 417
-        width: 16
-        height: 49
+        x: 246
+        y: 326
+        width: 69
+        height: 111
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2484,18 +1955,78 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9865375a88a5b140926aeda6f890602
+      spriteID: f3248a333cd1b0647b59b28c566eeb2a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_112
+      name: Evil_Shadow_1_noBG_84
       rect:
         serializedVersion: 2
-        x: 1615
-        y: 443
-        width: 7
+        x: 383
+        y: 326
+        width: 52
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00eb2e3104c2ea14792b3ff150a81680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_85
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 345
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c710590c3bd09459ddf5404ecc10fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_86
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 354
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0615ed66287c73f438ec85a69837887c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_87
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 415
+        width: 6
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2504,379 +2035,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b178bc014dbb0446b31bfef4e188b70
+      spriteID: b2b3ee34fe0a0884292ec9a0ec9df792
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_113
+      name: Evil_Shadow_1_noBG_88
       rect:
         serializedVersion: 2
-        x: 1631
-        y: 449
-        width: 8
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 334bbd65558488d43acced28b52f9e09
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_114
-      rect:
-        serializedVersion: 2
-        x: 1727
-        y: 422
-        width: 8
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: da442a4a6e109564db8ca00fecfb5534
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_115
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 440
-        width: 5
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 069dcaf5c7441af45981886b85913fa5
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_116
-      rect:
-        serializedVersion: 2
-        x: 331
-        y: 425
-        width: 8
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4099b8cd08ae5ad4781d2827c3c89a22
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_117
-      rect:
-        serializedVersion: 2
-        x: 375
-        y: 432
-        width: 5
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0da0daa13320f52479758c07df994f58
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_118
-      rect:
-        serializedVersion: 2
-        x: 449
-        y: 418
-        width: 5
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c995fbabc63585e449bf1095994cfcf6
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_119
-      rect:
-        serializedVersion: 2
-        x: 490
-        y: 431
-        width: 4
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0a72892ed37921b4d8272a71613098c7
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_120
-      rect:
-        serializedVersion: 2
-        x: 552
-        y: 439
-        width: 5
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 88ff0a2b469781e4886011cb1806ef14
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_121
-      rect:
-        serializedVersion: 2
-        x: 1644
-        y: 424
-        width: 8
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b8e73fbfd9944de49a6c54679e846f7c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_122
-      rect:
-        serializedVersion: 2
-        x: 265
-        y: 418
-        width: 21
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd1aa210587c30149863c39691ef6988
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_123
-      rect:
-        serializedVersion: 2
-        x: 323
-        y: 432
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4f06f335217001f4a81638c296599507
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_124
-      rect:
-        serializedVersion: 2
-        x: 481
-        y: 431
-        width: 5
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 79a383b4dd2c93a47b911e921752539e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_125
-      rect:
-        serializedVersion: 2
-        x: 520
-        y: 385
-        width: 7
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9b2c33127cdb9ed45a2a5b170979072f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_126
-      rect:
-        serializedVersion: 2
-        x: 535
-        y: 402
-        width: 8
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 17c4eccc85c427948b13d04bf7869bac
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_127
-      rect:
-        serializedVersion: 2
-        x: 1616
-        y: 431
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 46dd2663d7ee89041a4cbf8922bbc628
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_128
-      rect:
-        serializedVersion: 2
-        x: 374
-        y: 406
-        width: 7
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dd25404653feb4f49a2cdcd31e0b76b0
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_129
-      rect:
-        serializedVersion: 2
-        x: 419
-        y: 393
-        width: 11
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5bd6da391c543ae48aa82b8bd61e9c1e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_130
-      rect:
-        serializedVersion: 2
-        x: 577
-        y: 425
-        width: 4
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cc4fe03381a0d1446a8fd2bf803e4e3c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_131
-      rect:
-        serializedVersion: 2
-        x: 398
-        y: 364
+        x: 647
+        y: 405
         width: 9
-        height: 54
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2884,19 +2055,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe4a6bf80fa2eba43a024787d7efc081
+      spriteID: c173b727dd12cd24c9aebb64e7c839d9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_132
+      name: Evil_Shadow_1_noBG_89
       rect:
         serializedVersion: 2
-        x: 478
-        y: 407
-        width: 5
-        height: 11
+        x: 657
+        y: 410
+        width: 13
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2904,17 +2075,217 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4efbe86d1b71ff640801c860638361ef
+      spriteID: d417729f6bc59fe40b7afef09e0a619f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_133
+      name: Evil_Shadow_1_noBG_90
       rect:
         serializedVersion: 2
-        x: 546
+        x: 762
         y: 414
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533cb3012184d994c9f126979ced42a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_91
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 406
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44eabef722d941741875a943670cd6c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_92
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 410
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb44c0d99596504da9f8e724dd17f3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_93
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 412
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b7c863b34e9334280d82b9af0f77e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_94
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 388
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8120d021147b53419645dca17b42407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_95
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 374
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a2e14351318e14fa2cd8af2fc38af8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_96
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 382
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47970689bf5f80f4ca1c2b97d8d9dba0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_97
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 380
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcc121c2b88c0340b0895c6e4dbd60b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_98
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 385
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668eda2ae3c0d5f429c329d819d8750a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_99
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 381
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802e17027df42114b818a7b56a5beb59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_100
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 382
         width: 5
         height: 9
       alignment: 0
@@ -2924,18 +2295,38 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cdb541e0474de5c4c8b3b1b358f7d3da
+      spriteID: 12aa3f59b0085114da3d956e81257b56
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_134
+      name: Evil_Shadow_1_noBG_101
       rect:
         serializedVersion: 2
-        x: 564
-        y: 417
-        width: 5
+        x: 751
+        y: 374
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e56a65dedcc78408ce100778b5d975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_102
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 389
+        width: 4
         height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2944,18 +2335,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a90ed43e33868147892444565485387
+      spriteID: 5b294732e6296694f88e9c62d9245350
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_135
+      name: Evil_Shadow_1_noBG_103
       rect:
         serializedVersion: 2
-        x: 1617
-        y: 401
-        width: 6
+        x: 863
+        y: 376
+        width: 31
         height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2964,19 +2355,79 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8079c23afad0c6a4d804e6fe4acdabb7
+      spriteID: 9072debd6f74a924d924bcff6b3944f6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_136
+      name: Evil_Shadow_1_noBG_104
       rect:
         serializedVersion: 2
-        x: 462
-        y: 406
+        x: 957
+        y: 369
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe5d9f171c307a458ffc19a76911bec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_105
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 383
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5b7de7a6a97bd4f9fd453819a25d05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_106
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 374
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28c8b3103e293843b07db6cdbb0013c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_107
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 379
         width: 5
-        height: 4
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2984,19 +2435,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 524c0500a0f538846ba97cd7d28dfa5c
+      spriteID: 4c36f2dc596e7884d9c7ceaf9ac96c63
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_137
+      name: Evil_Shadow_1_noBG_108
       rect:
         serializedVersion: 2
-        x: 1120
-        y: 372
-        width: 11
-        height: 42
+        x: 729
+        y: 374
+        width: 7
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3004,79 +2455,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8821e8c397625a346a8e6ba1d9af76e9
+      spriteID: faf08c34b3e63114ab89e5b1d39a99e6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_138
+      name: Evil_Shadow_1_noBG_109
       rect:
         serializedVersion: 2
-        x: 1264
-        y: 347
-        width: 20
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ddde94564ccaaff40ac60d62c70898a1
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_139
-      rect:
-        serializedVersion: 2
-        x: 1284
-        y: 377
-        width: 9
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5dcb5deebaffd474394036005845bc5d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_140
-      rect:
-        serializedVersion: 2
-        x: 1569
-        y: 376
-        width: 12
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 390a8dae5d0411345afa35d18d31ad4c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_141
-      rect:
-        serializedVersion: 2
-        x: 1587
+        x: 789
         y: 380
-        width: 9
-        height: 33
+        width: 4
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3084,77 +2475,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7282d44f334493c45a31b318adcc7406
+      spriteID: b696405175785fb4b86113bddf137500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_142
+      name: Evil_Shadow_1_noBG_110
       rect:
         serializedVersion: 2
-        x: 1673
-        y: 364
-        width: 11
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b38740f5e46a7cb4ead17582066627fc
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_143
-      rect:
-        serializedVersion: 2
-        x: 46
-        y: 346
-        width: 26
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 104c5a10ce45e164eb664e0e93eebbcd
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_144
-      rect:
-        serializedVersion: 2
-        x: 463
-        y: 396
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: df3768fe32494694d9fadafbbe59cd5e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_145
-      rect:
-        serializedVersion: 2
-        x: 472
-        y: 399
+        x: 1015
+        y: 382
         width: 4
         height: 5
       alignment: 0
@@ -3164,178 +2495,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff66689c6cf6ee640ba9d4fd8363a737
+      spriteID: 3c93a8ce275f9764ba027a93208e08be
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_146
+      name: Evil_Shadow_1_noBG_111
       rect:
         serializedVersion: 2
-        x: 509
-        y: 380
-        width: 10
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c024b1f2926500445a8db80b596879e3
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_147
-      rect:
-        serializedVersion: 2
-        x: 338
-        y: 357
-        width: 18
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d1c70c55b708882489876973921b3fd9
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_148
-      rect:
-        serializedVersion: 2
-        x: 413
-        y: 359
-        width: 10
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4a0eb16488cd50441a5946adcaaa5a39
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_149
-      rect:
-        serializedVersion: 2
-        x: 478
-        y: 381
-        width: 5
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a8ce30acfeac7974c85e952d770ca456
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_150
-      rect:
-        serializedVersion: 2
-        x: 1135
-        y: 378
-        width: 11
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e9a45df4e095e9d418a2f438afd21d22
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_151
-      rect:
-        serializedVersion: 2
-        x: 1438
-        y: 380
-        width: 6
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 64fba50f2fed74e4cacf0b646ea5f7aa
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_152
-      rect:
-        serializedVersion: 2
-        x: 1622
-        y: 353
-        width: 9
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 36742c67ba127064fb0ccc4b60655dfa
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_153
-      rect:
-        serializedVersion: 2
-        x: 1643
-        y: 353
-        width: 15
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 34d39b3cb97da164ab5f12ed889e1fb8
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_154
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 361
-        width: 6
+        x: 1022
+        y: 382
+        width: 7
         height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -3344,17 +2515,37 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a81f5257ecb17f346b190f7f3965feca
+      spriteID: 484cbd2b62ba0154e947a6a417d2a260
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_155
+      name: Evil_Shadow_1_noBG_112
       rect:
         serializedVersion: 2
-        x: 357
-        y: 362
+        x: 1074
+        y: 384
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fff4332b37ae14ea4c33170a662802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_113
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 381
         width: 5
         height: 6
       alignment: 0
@@ -3364,17 +2555,577 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36f031f8d541bdf469b2767ef14f6426
+      spriteID: ff18f999662ae834ba500d3a390f6047
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_156
+      name: Evil_Shadow_1_noBG_114
       rect:
         serializedVersion: 2
-        x: 373
-        y: 356
+        x: 627
+        y: 347
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cb4826a07c21b418b1fe9c52913854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_115
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 367
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22232b4edf853d428532f4a894e74df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_116
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 374
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5a54c6d35378242844cadcb30d2cc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_117
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 378
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f77cabada99685418af19f601d4103f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_118
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 376
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ef8975854100343836023dece8447b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_119
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 349
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e8671a96e68f846846338243bfb5a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_120
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 362
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b028047898e1343b8bce8c45bfcc5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_121
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 369
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184a507de14be834890ed7c7f21bc6c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_122
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 372
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc5ffa1337026741a636381e8aa9729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_123
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 370
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1a87ab3b12d7b43bd8b1a148d66a89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_124
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 352
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00325c19e71041d49bf6dc513d208195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_125
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 363
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2b157c122d8b145b0ffbdc53b062ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_126
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 366
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b838d9acc948e5a42a7d3a4cbba5cb97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_127
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 366
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b02e488b0a5f434890d225cf7ae3f80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_128
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 365
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d32e9498903754785fb2be3c271717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_129
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 364
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94907581405f7214baf0bec107d0e1a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_130
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 366
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0991008d147cafc43906fcf135a7e4b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_131
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 351
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dae07b9bd84aa4a98505874373a7ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_132
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 342
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a856141ee5e58fb498528d909590affa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_133
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 328
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25ec2f1ae1d8874992de97222c45902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_134
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 332
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5df918fb6ad9e48ac8860aa3121df6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_135
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 337
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c3b1095f0ba60429d11d5f6c363cce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_136
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 291
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1df80dec6df7b448d8b16967640d86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_137
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 181
+        width: 62
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6a57efdac333e46a355084b4282e1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_138
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 181
+        width: 60
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87384d940336e3a4ca9c344df8786945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_139
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 181
+        width: 62
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc7846f4254eb14aac21ac360f02b1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_140
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 179
+        width: 45
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3a61a1a2325bf4fb48fe90b65fe34b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_141
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 275
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218109b6e8d60e34bbcefa4af074a422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_142
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 269
         width: 8
         height: 12
       alignment: 0
@@ -3384,18 +3135,118 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 239c3567f5cdb564494c508e2c9b072d
+      spriteID: fb3c020780705c14c81d34da48a95945
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_157
+      name: Evil_Shadow_1_noBG_143
       rect:
         serializedVersion: 2
-        x: 387
-        y: 359
+        x: 522
+        y: 278
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568805d01bb1c674d84e8296086b422f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_144
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 259
         width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb7a6699a0f39044b654d0c40cb8bdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_145
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 272
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12dcf78da894bc4eaa751fee767f2ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_146
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 272
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac8be3f1bb62304b9db9116cc5f7f32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_147
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 263
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46293566fd464345af475fea58f12b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_148
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 258
+        width: 14
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -3404,19 +3255,59 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37686317843c1f34e9efe27fd82861b1
+      spriteID: 0d2058e90ce181d4fb44ceafe19a5fec
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_158
+      name: Evil_Shadow_1_noBG_149
       rect:
         serializedVersion: 2
-        x: 462
-        y: 349
+        x: 747
+        y: 239
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29e5b44658b7bf4b8080bcf3d34a4a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_150
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 198
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d5df40615be034e8be8026887ae2a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_151
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 260
         width: 7
-        height: 23
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3424,19 +3315,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b85d0d917b27eb14bbea7c6bc5e04542
+      spriteID: 303181360c8a3db4a923a8fbba79dffb
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_159
+      name: Evil_Shadow_1_noBG_152
       rect:
         serializedVersion: 2
-        x: 470
-        y: 348
-        width: 8
-        height: 17
+        x: 625
+        y: 237
+        width: 34
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3444,19 +3335,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbdd8c152615c234493a3ec08ee42881
+      spriteID: a82d106509c1d704a8dfb6ff696bf498
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_160
+      name: Evil_Shadow_1_noBG_153
       rect:
         serializedVersion: 2
-        x: 481
-        y: 331
-        width: 16
-        height: 39
+        x: 771
+        y: 259
+        width: 6
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3464,19 +3355,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f049ca0b7a28ae241af69cc134e8ca11
+      spriteID: 45e46558664d0e64b978b619fe855c48
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_161
+      name: Evil_Shadow_1_noBG_154
       rect:
         serializedVersion: 2
-        x: 507
-        y: 343
+        x: 874
+        y: 268
         width: 22
-        height: 22
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3484,18 +3375,258 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec4742090aeeab04c81ff7455e164c6c
+      spriteID: dbe2af8aa14f21b40b6bdb87e3dfa60c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_162
+      name: Evil_Shadow_1_noBG_155
       rect:
         serializedVersion: 2
-        x: 1633
-        y: 338
+        x: 1186
+        y: 245
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a9cf9bbdc107a4ebaca3f77452607d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_156
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 212
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010c096e8825f2a49a0bf37e5533465c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_157
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 219
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d0b92be9aaef946b0742f4077d089a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_158
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 220
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fe610f846c5fb44ae5a154281eac24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_159
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 235
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983ba6967e3b80045b2bbc37cb256442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_160
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 223
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0aa823f7912f0b4e864f28d539216a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_161
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 229
         width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f07406001c628445aa1db8c6fb56034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_162
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 204
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6d4c00b67221d47ae4b4bd03962d28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_163
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 215
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c9f188fbbd94c4db8eb02c333b14cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_164
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 225
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d2c9b851610214e93f5d21ebe0750c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_165
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 230
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a53196ca684794f9b49da3b39f1848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_166
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 210
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c9dd0909fe7da418ad871c7dd3a647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_167
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 225
+        width: 13
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -3504,19 +3635,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42e32d1a8be4fa44e88d3ead1ab37f40
+      spriteID: 741396359ffabf7419ebd67288dcf420
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_163
+      name: Evil_Shadow_1_noBG_168
       rect:
         serializedVersion: 2
-        x: 140
-        y: 343
-        width: 14
-        height: 17
+        x: 851
+        y: 226
+        width: 4
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3524,19 +3655,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8eeda7031c6875349a6225a96855f7c0
+      spriteID: 525d83532c7ee934e9099b07b4fc95d0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_164
+      name: Evil_Shadow_1_noBG_169
       rect:
         serializedVersion: 2
-        x: 354
-        y: 347
-        width: 10
-        height: 13
+        x: 856
+        y: 229
+        width: 7
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3544,19 +3675,539 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43a8fc50602159549b7a8bf3cc046d98
+      spriteID: 3ad61fd9bfe910142995622f1f9a7b78
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_165
+      name: Evil_Shadow_1_noBG_170
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 229
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9290aa13504c8af429a87b3e18199f93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_171
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 187
+        width: 11
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1991823a80a3424a8ffaf0c869173ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_172
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 223
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c41c60b1c9f78a488bbd0be77b4f729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_173
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 221
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f701135f205968429871af6f9adad16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_174
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 231
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b526c7d8b3b5fb43ba5752b06e573e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_175
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 225
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdf3c7075936d34d835f3b279aeb3ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_176
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 235
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7e2f77587de4245bd2904d14427052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_177
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 227
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61bda311f95d7e48b0fb290ace482d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_178
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 235
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaab8c3ad097254f89b1eeadf5a9e2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_179
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 222
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45511debd6c2fa04c9369d85aff9e40c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_180
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 236
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe62eef50ff1174dbfd590e0024da7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_181
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 225
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a820fca52d0ed74e85052739098380b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_182
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 238
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14103b48c12d214d92bc8df341d79ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_183
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 231
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535c254a1eb59a34794241c75101dffe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_184
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 239
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd22b8a3b0f2fce45ae330429834bf35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_185
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 219
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6264187148305a74cacb948c1303aea1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_186
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 219
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55e6d3dd90c7044dafec757486f6e74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_187
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 221
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7870f8c2645bfa6488d1ba4f424f26e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_188
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 219
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb703f023bb0474cbbefd158847c9aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_189
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 220
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ada69d922d1db40b4c9761cf7e5c78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_190
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 204
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c307c651a233a40a7912052bd16bd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_191
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 178
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab7609fa3d436f4eb3e5c0850cc9a83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_192
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 184
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d1f07717348934e9c7ebd46613f433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_193
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 181
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50c50282c7b327499df438789cffde9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_194
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 185
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34f67d13533c29429cc64114b8351df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_195
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 186
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1073d14a3f363ef4bb26bd380a4618e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_196
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1800
-        height: 310
+        width: 1140
+        height: 147
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3564,7 +4215,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2931110de7b36884b8da30d4e53425bc
+      spriteID: 6b3e196c8a438a3459cb552251336865
       vertices: []
       indices: 
       edges: []
@@ -3572,7 +4223,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 4a9920f255a4d374889e1f29477aaf9d
+    spriteID: 97ef858c682be704d98c2d45f4b533bb
     vertices: []
     indices: 
     edges: []
