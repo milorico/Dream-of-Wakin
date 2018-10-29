@@ -14,9 +14,24 @@ public class KeyItemsProgress : MonoBehaviour {
 	public GameObject BigDoor;
 	public GameObject BossEnabler;
 	bool levelOneFinished;
+	public GameObject [] puzzlePieces = new GameObject[8];
+	public GameObject puzzleDoor;
+	bool levelTwoFinished;
+	int piecesPicked;
 	// Use this for initialization
 	void Start () {
+<<<<<<< HEAD
+		m_Scene = SceneManager.GetActiveScene ();
+		print (m_Scene.name);
+
+		if (m_Scene.name =="SecondLevel") {
+			piecesPicked = 0;
+			levelOneFinished = true;
+			levelTwoFinished = false;
+		}
+=======
 		levelOneFinished = false;
+>>>>>>> parent of 92b663a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 	}
 	
 	// Update is called once per frame
@@ -48,5 +63,17 @@ public class KeyItemsProgress : MonoBehaviour {
 				}
 			}
 		}
+		if (levelTwoFinished==false && levelOneFinished==true) {
+			CountPieces (0);
+			print (piecesPicked);
+		}
+	}
+	void CountPieces(int qnt){
+		foreach (GameObject item in puzzlePieces) {
+			if (item.GetComponent<ItemPickedUp> ().CheckItemIsPicked() == true) {
+				qnt++;
+			}
+		}
+		piecesPicked = qnt;
 	}
 }
