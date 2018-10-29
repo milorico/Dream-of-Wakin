@@ -148,7 +148,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 1
-  m_Mass: 0.34216288
+  m_Mass: 0.48742598
   m_LinearDrag: 0
   m_AngularDrag: 0
   m_GravityScale: 0
@@ -208,7 +208,7 @@ CapsuleCollider2D:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1876302562227754}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -283,9 +283,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a55d5c36dc7180848b4ed5faa7d3d4dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  keyItems: {fileID: 0}
   playerLife: 100
-  lifeT: {fileID: 0}
   enemyC: {fileID: 0}
 --- !u!114 &114404793080333350
 MonoBehaviour:
@@ -343,7 +341,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 3
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300008, guid: 80ca9b4adbcd345448e7f7960d85a857, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
