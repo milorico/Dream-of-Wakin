@@ -8,7 +8,8 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 	public bool interactuable = false;
 	// The game object to affect. If none, the trigger work on this game object
 	public GameObject TextThatAppearsWhenInteracted;
-
+	public GameObject fog;
+	public AudioSource itemSound;
 //	public GameObject TextThatAppearsWhenInteracted2;
 	public int turnoDelDialogo = 0;
 	// Use this for initialization
@@ -73,15 +74,27 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 					}
 				}
 			}
-			if (turnoDelDialogo==0&& TextThatAppearsWhenInteracted!=null) {
+			if (turnoDelDialogo==0&&TextThatAppearsWhenInteracted!=null ) {
 				TextThatAppearsWhenInteracted.SetActive (true);
 			}
 				if (destroyable ==true) {
+				StartCoroutine (WaitForTransition (1.4f));
+				TextThatAppearsWhenInteracted.SetActive (false);
 					Destroy (this.gameObject,1);
 
 				}
 				} 
 
 			}
+
+	private IEnumerator WaitForTransition(float waitTime)
+	{
+
+		fog.SetActive(true);
+		itemSound.Play (0);
+		yield return new WaitForSeconds(waitTime);
+		fog.SetActive(false);
+
+	}
 
 }
