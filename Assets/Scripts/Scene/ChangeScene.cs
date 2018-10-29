@@ -10,9 +10,7 @@ public class ChangeScene : MonoBehaviour {
 	GameObject player;
 	GameObject mainCamera;
 	public void CambioDeScena  (string NombreDeScena) {
-        SceneManager.LoadScene("menu");
-
-
+       // SceneManager.LoadScene("menu");
 		Pause = !Pause;
 		Time.timeScale = (Pause) ? 1.00f : 0.00f;
 		if (Pause == false)

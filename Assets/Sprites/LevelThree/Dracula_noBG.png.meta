@@ -1,173 +1,137 @@
 fileFormatVersion: 2
-guid: 10c5d3bce9c0e864c803048c33a2ec21
+guid: 532c9bacdf281a6449a1387f1b166e94
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Amdarais_noBG_0
-    21300002: Amdarais_noBG_1
-    21300004: Amdarais_noBG_2
-    21300006: Amdarais_noBG_3
-    21300008: Amdarais_noBG_4
-    21300010: Amdarais_noBG_5
-    21300012: Amdarais_noBG_6
-    21300014: Amdarais_noBG_7
-    21300016: Amdarais_noBG_8
-    21300018: Amdarais_noBG_9
-    21300020: Amdarais_noBG_10
-    21300022: Amdarais_noBG_11
-    21300024: Amdarais_noBG_12
-    21300026: Amdarais_noBG_13
-    21300028: Amdarais_noBG_14
-    21300030: Amdarais_noBG_15
-    21300032: Amdarais_noBG_16
-    21300034: Amdarais_noBG_17
-    21300036: Amdarais_noBG_18
-    21300038: Amdarais_noBG_19
-    21300040: Amdarais_noBG_20
-    21300042: Amdarais_noBG_21
-    21300044: Amdarais_noBG_22
-    21300046: Amdarais_noBG_23
-    21300048: Amdarais_noBG_24
-    21300050: Amdarais_noBG_25
-    21300052: Amdarais_noBG_26
-    21300054: Amdarais_noBG_27
-    21300056: Amdarais_noBG_28
-    21300058: Amdarais_noBG_29
-    21300060: Amdarais_noBG_30
-    21300062: Amdarais_noBG_31
-    21300064: Amdarais_noBG_32
-    21300066: Amdarais_noBG_33
-    21300068: Amdarais_noBG_34
-    21300070: Amdarais_noBG_35
-    21300072: Amdarais_noBG_36
-    21300074: Amdarais_noBG_37
-    21300076: Amdarais_noBG_38
-    21300078: Amdarais_noBG_39
-    21300080: Amdarais_noBG_40
-    21300082: Amdarais_noBG_41
-    21300084: Amdarais_noBG_42
-    21300086: Amdarais_noBG_43
-    21300088: Amdarais_noBG_44
-    21300090: Amdarais_noBG_45
-    21300092: Amdarais_noBG_46
-    21300094: Amdarais_noBG_47
-    21300096: Amdarais_noBG_48
-    21300098: Amdarais_noBG_49
-    21300100: Amdarais_noBG_50
-    21300102: Amdarais_noBG_51
-    21300104: Amdarais_noBG_52
-    21300106: Amdarais_noBG_53
-    21300108: Amdarais_noBG_54
-    21300110: Amdarais_noBG_55
-    21300112: Amdarais_noBG_56
-    21300114: Amdarais_noBG_57
-    21300116: Amdarais_noBG_58
-    21300118: Amdarais_noBG_59
-    21300120: Amdarais_noBG_60
-    21300122: Amdarais_noBG_61
-    21300124: Amdarais_noBG_62
-    21300126: Amdarais_noBG_63
-    21300128: Amdarais_noBG_64
-    21300130: Amdarais_noBG_65
-    21300132: Amdarais_noBG_66
-    21300134: Amdarais_noBG_67
-    21300136: Amdarais_noBG_68
-    21300138: Amdarais_noBG_69
-    21300140: Amdarais_noBG_70
-    21300142: Amdarais_noBG_71
-    21300144: Amdarais_noBG_72
-    21300146: Amdarais_noBG_73
-    21300148: Amdarais_noBG_74
-    21300150: Amdarais_noBG_75
-    21300152: Amdarais_noBG_76
-    21300154: Amdarais_noBG_77
-    21300156: Amdarais_noBG_78
-    21300158: Amdarais_noBG_79
-    21300160: Amdarais_noBG_80
-    21300162: Amdarais_noBG_81
-    21300164: Amdarais_noBG_82
-    21300166: Amdarais_noBG_83
-    21300168: Amdarais_noBG_84
-    21300170: Amdarais_noBG_85
-    21300172: Amdarais_noBG_86
-    21300174: Amdarais_noBG_87
-    21300176: Amdarais_noBG_88
-    21300178: Amdarais_noBG_89
-    21300180: Amdarais_noBG_90
-    21300182: Amdarais_noBG_91
-    21300184: Amdarais_noBG_92
-    21300186: Amdarais_noBG_93
-    21300188: Amdarais_noBG_94
-    21300190: Amdarais_noBG_95
-    21300192: Amdarais_noBG_96
-    21300194: Amdarais_noBG_97
-    21300196: Amdarais_noBG_98
-    21300198: Amdarais_noBG_99
-    21300200: Amdarais_noBG_100
-    21300202: Amdarais_noBG_101
-    21300204: Amdarais_noBG_102
-    21300206: Amdarais_noBG_103
-    21300208: Amdarais_noBG_104
-    21300210: Amdarais_noBG_105
-    21300212: Amdarais_noBG_106
-    21300214: Amdarais_noBG_107
-    21300216: Amdarais_noBG_108
-    21300218: Amdarais_noBG_109
-    21300220: Amdarais_noBG_110
-    21300222: Amdarais_noBG_111
-    21300224: Amdarais_noBG_112
-    21300226: Amdarais_noBG_113
-    21300228: Amdarais_noBG_114
-    21300230: Amdarais_noBG_115
-    21300232: Amdarais_noBG_116
-    21300234: Amdarais_noBG_117
-    21300236: Amdarais_noBG_118
-    21300238: Amdarais_noBG_119
-    21300240: Amdarais_noBG_120
-    21300242: Amdarais_noBG_121
-    21300244: Amdarais_noBG_122
-    21300246: Amdarais_noBG_123
-    21300248: Amdarais_noBG_124
-    21300250: Amdarais_noBG_125
-    21300252: Amdarais_noBG_126
-    21300254: Amdarais_noBG_127
-    21300256: Amdarais_noBG_128
-    21300258: Amdarais_noBG_129
-    21300260: Amdarais_noBG_130
-    21300262: Amdarais_noBG_131
-    21300264: Amdarais_noBG_132
-    21300266: Amdarais_noBG_133
-    21300268: Amdarais_noBG_134
-    21300270: Amdarais_noBG_135
-    21300272: Amdarais_noBG_136
-    21300274: Amdarais_noBG_137
-    21300276: Amdarais_noBG_138
-    21300278: Amdarais_noBG_139
-    21300280: Amdarais_noBG_140
-    21300282: Amdarais_noBG_141
-    21300284: Amdarais_noBG_142
-    21300286: Amdarais_noBG_143
-    21300288: Amdarais_noBG_144
-    21300290: Amdarais_noBG_145
-    21300292: Amdarais_noBG_146
-    21300294: Amdarais_noBG_147
-    21300296: Amdarais_noBG_148
-    21300298: Amdarais_noBG_149
-    21300300: Amdarais_noBG_150
-    21300302: Amdarais_noBG_151
-    21300304: Amdarais_noBG_152
-    21300306: Amdarais_noBG_153
-    21300308: Amdarais_noBG_154
-    21300310: Amdarais_noBG_155
-    21300312: Amdarais_noBG_156
-    21300314: Amdarais_noBG_157
-    21300316: Amdarais_noBG_158
-    21300318: Amdarais_noBG_159
-    21300320: Amdarais_noBG_160
-    21300322: Amdarais_noBG_161
-    21300324: Amdarais_noBG_162
-    21300326: Amdarais_noBG_163
-    21300328: Amdarais_noBG_164
-    21300330: Amdarais_noBG_165
+    21300000: Dracula_noBG_0
+    21300002: Dracula_noBG_1
+    21300004: Dracula_noBG_2
+    21300006: Dracula_noBG_3
+    21300008: Dracula_noBG_4
+    21300010: Dracula_noBG_5
+    21300012: Dracula_noBG_6
+    21300014: Dracula_noBG_7
+    21300016: Dracula_noBG_8
+    21300018: Dracula_noBG_9
+    21300020: Dracula_noBG_10
+    21300022: Dracula_noBG_11
+    21300024: Dracula_noBG_12
+    21300026: Dracula_noBG_13
+    21300028: Dracula_noBG_14
+    21300030: Dracula_noBG_15
+    21300032: Dracula_noBG_16
+    21300034: Dracula_noBG_17
+    21300036: Dracula_noBG_18
+    21300038: Dracula_noBG_19
+    21300040: Dracula_noBG_20
+    21300042: Dracula_noBG_21
+    21300044: Dracula_noBG_22
+    21300046: Dracula_noBG_23
+    21300048: Dracula_noBG_24
+    21300050: Dracula_noBG_25
+    21300052: Dracula_noBG_26
+    21300054: Dracula_noBG_27
+    21300056: Dracula_noBG_28
+    21300058: Dracula_noBG_29
+    21300060: Dracula_noBG_30
+    21300062: Dracula_noBG_31
+    21300064: Dracula_noBG_32
+    21300066: Dracula_noBG_33
+    21300068: Dracula_noBG_34
+    21300070: Dracula_noBG_35
+    21300072: Dracula_noBG_36
+    21300074: Dracula_noBG_37
+    21300076: Dracula_noBG_38
+    21300078: Dracula_noBG_39
+    21300080: Dracula_noBG_40
+    21300082: Dracula_noBG_41
+    21300084: Dracula_noBG_42
+    21300086: Dracula_noBG_43
+    21300088: Dracula_noBG_44
+    21300090: Dracula_noBG_45
+    21300092: Dracula_noBG_46
+    21300094: Dracula_noBG_47
+    21300096: Dracula_noBG_48
+    21300098: Dracula_noBG_49
+    21300100: Dracula_noBG_50
+    21300102: Dracula_noBG_51
+    21300104: Dracula_noBG_52
+    21300106: Dracula_noBG_53
+    21300108: Dracula_noBG_54
+    21300110: Dracula_noBG_55
+    21300112: Dracula_noBG_56
+    21300114: Dracula_noBG_57
+    21300116: Dracula_noBG_58
+    21300118: Dracula_noBG_59
+    21300120: Dracula_noBG_60
+    21300122: Dracula_noBG_61
+    21300124: Dracula_noBG_62
+    21300126: Dracula_noBG_63
+    21300128: Dracula_noBG_64
+    21300130: Dracula_noBG_65
+    21300132: Dracula_noBG_66
+    21300134: Dracula_noBG_67
+    21300136: Dracula_noBG_68
+    21300138: Dracula_noBG_69
+    21300140: Dracula_noBG_70
+    21300142: Dracula_noBG_71
+    21300144: Dracula_noBG_72
+    21300146: Dracula_noBG_73
+    21300148: Dracula_noBG_74
+    21300150: Dracula_noBG_75
+    21300152: Dracula_noBG_76
+    21300154: Dracula_noBG_77
+    21300156: Dracula_noBG_78
+    21300158: Dracula_noBG_79
+    21300160: Dracula_noBG_80
+    21300162: Dracula_noBG_81
+    21300164: Dracula_noBG_82
+    21300166: Dracula_noBG_83
+    21300168: Dracula_noBG_84
+    21300170: Dracula_noBG_85
+    21300172: Dracula_noBG_86
+    21300174: Dracula_noBG_87
+    21300176: Dracula_noBG_88
+    21300178: Dracula_noBG_89
+    21300180: Dracula_noBG_90
+    21300182: Dracula_noBG_91
+    21300184: Dracula_noBG_92
+    21300186: Dracula_noBG_93
+    21300188: Dracula_noBG_94
+    21300190: Dracula_noBG_95
+    21300192: Dracula_noBG_96
+    21300194: Dracula_noBG_97
+    21300196: Dracula_noBG_98
+    21300198: Dracula_noBG_99
+    21300200: Dracula_noBG_100
+    21300202: Dracula_noBG_101
+    21300204: Dracula_noBG_102
+    21300206: Dracula_noBG_103
+    21300208: Dracula_noBG_104
+    21300210: Dracula_noBG_105
+    21300212: Dracula_noBG_106
+    21300214: Dracula_noBG_107
+    21300216: Dracula_noBG_108
+    21300218: Dracula_noBG_109
+    21300220: Dracula_noBG_110
+    21300222: Dracula_noBG_111
+    21300224: Dracula_noBG_112
+    21300226: Dracula_noBG_113
+    21300228: Dracula_noBG_114
+    21300230: Dracula_noBG_115
+    21300232: Dracula_noBG_116
+    21300234: Dracula_noBG_117
+    21300236: Dracula_noBG_118
+    21300238: Dracula_noBG_119
+    21300240: Dracula_noBG_120
+    21300242: Dracula_noBG_121
+    21300244: Dracula_noBG_122
+    21300246: Dracula_noBG_123
+    21300248: Dracula_noBG_124
+    21300250: Dracula_noBG_125
+    21300252: Dracula_noBG_126
+    21300254: Dracula_noBG_127
+    21300256: Dracula_noBG_128
+    21300258: Dracula_noBG_129
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -250,13 +214,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Amdarais_noBG_0
+      name: Dracula_noBG_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3043
-        width: 1800
-        height: 259
+        x: 5
+        y: 1088
+        width: 63
+        height: 106
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,19 +228,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bd87f9516dc34f4f8a2e183caf18917
+      spriteID: 14bb9e632e6c1744ca1ab748ed4e7c4c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_1
+      name: Dracula_noBG_1
       rect:
         serializedVersion: 2
-        x: 333
-        y: 3045
-        width: 232
-        height: 214
+        x: 81
+        y: 1059
+        width: 64
+        height: 134
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,19 +248,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84da45cee809ac2468d109ac7e12cbf6
+      spriteID: 60559b96dc6d24149b19e913d4f81335
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_2
+      name: Dracula_noBG_2
       rect:
         serializedVersion: 2
-        x: 632
-        y: 3046
-        width: 236
-        height: 213
+        x: 160
+        y: 1070
+        width: 66
+        height: 121
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -304,19 +268,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25019a16d3e6a2c42bd034e16d535278
+      spriteID: 5831009a9dd062e4f9e1cb9082352f08
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_3
+      name: Dracula_noBG_3
       rect:
         serializedVersion: 2
-        x: 931
-        y: 3047
-        width: 238
-        height: 211
+        x: 241
+        y: 1072
+        width: 72
+        height: 112
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -324,558 +288,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1c401303e524844590948aa87a4ea66
+      spriteID: 40651f033dd185f46aa884c887eee877
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_4
+      name: Dracula_noBG_4
       rect:
         serializedVersion: 2
-        x: 1231
-        y: 3046
-        width: 237
-        height: 212
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d6f693d34cba0d6488e615ab99b21533
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_5
-      rect:
-        serializedVersion: 2
-        x: 1533
-        y: 3045
-        width: 234
-        height: 214
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f2dc2f7967e2e814e8cc0b83eaad84c2
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_6
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 2756
-        width: 204
-        height: 192
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c96aefcda7dffa44db7cef33b0ee0976
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_7
-      rect:
-        serializedVersion: 2
-        x: 348
-        y: 2757
-        width: 204
-        height: 191
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ac36c5bfb1e9b2429343bfa0f6ffe25
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_8
-      rect:
-        serializedVersion: 2
-        x: 648
-        y: 2757
-        width: 204
-        height: 191
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 60b86df8499da5b4e85af214c061c95b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_9
-      rect:
-        serializedVersion: 2
-        x: 948
-        y: 2756
-        width: 207
-        height: 192
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d155630bba8b3c341a10d79dadf54286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_10
-      rect:
-        serializedVersion: 2
-        x: 1248
-        y: 2757
-        width: 204
-        height: 191
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e4d8986848aad7746bc7f78c3163cd3f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_11
-      rect:
-        serializedVersion: 2
-        x: 1548
-        y: 2757
-        width: 204
-        height: 191
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2cd7c1fa4c02db148813421e4b7cf130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_12
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 2444
-        width: 234
-        height: 215
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b3dffdd04e69e524da02a83d7de3a24c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_13
-      rect:
-        serializedVersion: 2
-        x: 323
-        y: 2447
-        width: 250
-        height: 211
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c02d06680723c024da24b79f38b0bce9
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_14
-      rect:
-        serializedVersion: 2
-        x: 614
-        y: 2458
-        width: 271
-        height: 189
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0afa456d549b4314c896d327b3bac809
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_15
-      rect:
-        serializedVersion: 2
-        x: 957
-        y: 2431
-        width: 186
-        height: 241
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7a187e489a75eb5479f1018f4933ccd5
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_16
-      rect:
-        serializedVersion: 2
-        x: 1257
-        y: 2431
-        width: 186
-        height: 243
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ff91f32b052c3564e8ac594e38e5329c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_17
-      rect:
-        serializedVersion: 2
-        x: 1557
-        y: 2431
-        width: 186
-        height: 241
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3cf1c74753a2b9a428c667aa3771140a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_18
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 2158
-        width: 271
-        height: 190
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 19d28a49b08254e47ad4beba6772a09e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_19
-      rect:
-        serializedVersion: 2
-        x: 322
-        y: 2146
-        width: 251
-        height: 212
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 184033b36f9f0d142945cb9f2346a400
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_20
-      rect:
-        serializedVersion: 2
-        x: 645
-        y: 2156
-        width: 207
-        height: 192
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2d8ec5f585f95714eb09d6f8bb441dfc
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_21
-      rect:
-        serializedVersion: 2
-        x: 948
-        y: 2158
-        width: 204
-        height: 190
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0a687dddabb6d254590c535a4f8634dd
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_22
-      rect:
-        serializedVersion: 2
-        x: 1240
-        y: 2168
-        width: 220
-        height: 173
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2bac4ab5510801f4eba79dcfed223bcb
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_23
-      rect:
-        serializedVersion: 2
-        x: 1567
-        y: 2147
-        width: 168
-        height: 211
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fccf016e190c1874baef0385097dd5a6
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_24
-      rect:
-        serializedVersion: 2
-        x: 67
-        y: 1845
-        width: 166
-        height: 215
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1e8d9cbdf916b2b4a8b09d1c64ced763
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_25
-      rect:
-        serializedVersion: 2
-        x: 367
-        y: 1844
-        width: 166
-        height: 214
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ac9650e360e34384383f292a3b905307
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_26
-      rect:
-        serializedVersion: 2
-        x: 948
-        y: 1858
-        width: 204
-        height: 189
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 701d17707ec95b84fb86f1c38e065897
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_27
-      rect:
-        serializedVersion: 2
-        x: 1559
-        y: 2044
-        width: 74
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 02c466b71cbaf424eb2aa81cc74d929e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_28
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 1868
-        width: 220
-        height: 170
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd2cb83918d453146b1e681781188bc2
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_29
-      rect:
-        serializedVersion: 2
-        x: 1259
-        y: 1919
-        width: 82
-        height: 63
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f41ad31b7333f8046832b87172466f7c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_30
-      rect:
-        serializedVersion: 2
-        x: 1390
-        y: 1915
-        width: 107
-        height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4649816d8c4f63e49ba6ec063ab11eed
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_31
-      rect:
-        serializedVersion: 2
-        x: 1559
-        y: 1939
-        width: 211
+        x: 334
+        y: 1091
+        width: 66
         height: 101
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -884,599 +308,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6593be9022917ed4e8216492f69b5ae6
+      spriteID: 10e90bac3c42e724b80af100dbd3c44a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_32
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 1541
-        width: 236
-        height: 219
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ca4cf16cf14bf9f42b7336cc2cefb315
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_33
-      rect:
-        serializedVersion: 2
-        x: 316
-        y: 1547
-        width: 265
-        height: 210
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3fe8c05e9802e7847bb15c017ccda26c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_34
-      rect:
-        serializedVersion: 2
-        x: 615
-        y: 1548
-        width: 270
-        height: 206
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d641d3d0ea83855428e948113ea99bf3
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_35
-      rect:
-        serializedVersion: 2
-        x: 914
-        y: 1550
-        width: 271
-        height: 203
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e0a6d6165c196ef4ba5e31838f195444
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_36
-      rect:
-        serializedVersion: 2
-        x: 1232
-        y: 1542
-        width: 233
-        height: 219
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ca14522db176fcc499d5b02c6492ab56
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_37
-      rect:
-        serializedVersion: 2
-        x: 1530
-        y: 1541
-        width: 239
-        height: 226
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 694c90842dbb20e4c8c765b2440fbe7b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_38
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 1256
-        width: 204
-        height: 196
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aaf7c285a5e2d7645b791960c7934e84
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_39
-      rect:
-        serializedVersion: 2
-        x: 342
-        y: 1249
-        width: 212
-        height: 206
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f3623919c2d83b84d81768264f2a4203
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_40
-      rect:
-        serializedVersion: 2
-        x: 644
-        y: 1247
-        width: 212
-        height: 211
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a55d84246d6ff574ebaaf9d47c4d814a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_41
-      rect:
-        serializedVersion: 2
-        x: 948
-        y: 1246
-        width: 204
-        height: 212
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 66a4c1abd1b9f2f48b362b549e868453
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_42
-      rect:
-        serializedVersion: 2
-        x: 1235
-        y: 1262
-        width: 230
-        height: 183
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f5baa899efe6fbc44911173f477551e5
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_43
-      rect:
-        serializedVersion: 2
-        x: 1542
-        y: 1257
-        width: 215
-        height: 190
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b14e9d491b57625428a1631b57c848e8
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_44
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 954
-        width: 272
-        height: 195
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a793c6b1d8ce4924489d01a868ebe233
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_45
-      rect:
-        serializedVersion: 2
-        x: 314
-        y: 957
-        width: 274
-        height: 192
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a4e7d045c7afb0a4591fd29ea8188f56
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_46
-      rect:
-        serializedVersion: 2
-        x: 614
-        y: 954
-        width: 272
-        height: 195
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 855e56aa887c8b645b1cecf9908fa3d1
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_47
-      rect:
-        serializedVersion: 2
-        x: 914
-        y: 957
-        width: 274
-        height: 192
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a0b1504c6beed874d8f6e60f65393737
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_48
-      rect:
-        serializedVersion: 2
-        x: 1214
-        y: 954
-        width: 272
-        height: 195
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1f68656ed9d59f6429b9b7e1c797498f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_49
-      rect:
-        serializedVersion: 2
-        x: 1548
-        y: 960
-        width: 201
-        height: 182
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1cb0143e951dd964dae1e2003d373958
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_50
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 662
-        width: 199
-        height: 180
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a2df143c103509442a7830c2aaf5ff76
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_51
-      rect:
-        serializedVersion: 2
-        x: 348
-        y: 662
-        width: 201
-        height: 180
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 87d3104acd3034e419cd628910fcb617
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_52
-      rect:
-        serializedVersion: 2
-        x: 650
-        y: 662
-        width: 199
-        height: 180
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 129d226b14f806d4cb0c60144afe5ee8
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_53
-      rect:
-        serializedVersion: 2
-        x: 948
-        y: 662
-        width: 201
-        height: 180
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 412ac980beedc4044b9d58e2f9b0148f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_54
-      rect:
-        serializedVersion: 2
-        x: 1212
-        y: 641
-        width: 274
-        height: 222
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 11a0c919e04fc034287a7762f24fe326
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_55
-      rect:
-        serializedVersion: 2
-        x: 1514
-        y: 630
-        width: 260
-        height: 247
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 622f8d7d913cc894fa6c4886d8256824
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_56
-      rect:
-        serializedVersion: 2
-        x: 1765
-        y: 719
-        width: 21
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 452dce336537ff64288db68f4db4ac08
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_57
-      rect:
-        serializedVersion: 2
-        x: 43
-        y: 356
-        width: 67
-        height: 218
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bca4fbb8eb238ea4cbdd11038577aeef
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_58
-      rect:
-        serializedVersion: 2
-        x: 113
-        y: 354
-        width: 31
-        height: 218
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 072c9f59e1595384eac0f15b6c1275d2
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_59
-      rect:
-        serializedVersion: 2
-        x: 141
-        y: 330
-        width: 59
-        height: 245
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 16bba2db4c070e149aefa11f30c502d0
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_60
-      rect:
-        serializedVersion: 2
-        x: 383
-        y: 504
-        width: 7
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fa5c96f869a1100419c773704c21869d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_61
+      name: Dracula_noBG_5
       rect:
         serializedVersion: 2
         x: 419
-        y: 555
-        width: 4
-        height: 16
+        y: 1086
+        width: 64
+        height: 104
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1484,18 +328,138 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6b5e368d29b6a246a2c68be0762f433
+      spriteID: 777aa1b764bb96f4a9a09ea3af9f4fcd
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_62
+      name: Dracula_noBG_6
       rect:
         serializedVersion: 2
-        x: 442
-        y: 567
-        width: 6
+        x: 500
+        y: 1069
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e28d8366aae4944adcbdf4468c0ed4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_7
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1089
+        width: 58
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2a8ea4822b91b41910de87390949fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_8
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1091
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b1240679e6f334da7d50d9b223f8ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_9
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1091
+        width: 58
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4d1205b51d7f84e8098fc500760d02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_10
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1087
+        width: 59
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cfd2c36428ef74aa1677ad286d4600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_11
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1125
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67b2439d84e1664f9972244d0212b31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_12
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1125
+        width: 5
         height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1504,239 +468,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5761a6abb12e8994c86a94d02bb4f03b
+      spriteID: 10f309fc82d20c74992e62b5e96cced4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_63
+      name: Dracula_noBG_13
       rect:
         serializedVersion: 2
-        x: 475
-        y: 541
-        width: 6
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 54a4190966b00184187e6367fbc12f9c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_64
-      rect:
-        serializedVersion: 2
-        x: 950
-        y: 335
-        width: 169
-        height: 233
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 27f3b945b28044942b2e836f895e97f3
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_65
-      rect:
-        serializedVersion: 2
-        x: 1320
-        y: 335
-        width: 90
-        height: 233
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a3af7382cb146db47bc4f535b602c44f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_66
-      rect:
-        serializedVersion: 2
-        x: 1372
-        y: 530
-        width: 6
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 94c8ec3e70771d54fa31a1197aadb64f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_67
-      rect:
-        serializedVersion: 2
-        x: 1651
-        y: 535
-        width: 8
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 48d574bc783e1294ba6584a3e059cda7
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_68
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 335
-        width: 64
-        height: 216
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a03798d9e04e0d74285e6e9bdb969b2c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_69
-      rect:
-        serializedVersion: 2
-        x: 443
-        y: 464
-        width: 9
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3283d6dc5ba4b224db3a71f0c2eaaa7d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_70
-      rect:
-        serializedVersion: 2
-        x: 650
-        y: 348
-        width: 199
-        height: 204
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 064e157f8ab242b478d00b727a636f0e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_71
-      rect:
-        serializedVersion: 2
-        x: 1281
-        y: 448
-        width: 7
-        height: 114
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5b779537cb189db4bb3d77d882ae3555
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_72
-      rect:
-        serializedVersion: 2
-        x: 1669
-        y: 522
-        width: 11
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 06970907646b2674d84d471ffb57870c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_73
-      rect:
-        serializedVersion: 2
-        x: 1683
-        y: 507
-        width: 6
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 10160877eb3fe954881077609019109f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_74
-      rect:
-        serializedVersion: 2
-        x: 1707
-        y: 538
+        x: 947
+        y: 1125
         width: 5
-        height: 6
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1744,19 +488,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0573f4299b39124d9d88ff924dceece
+      spriteID: 73bebcafef5066545bd8c8de6801ec52
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_75
+      name: Dracula_noBG_14
       rect:
         serializedVersion: 2
-        x: 419
-        y: 433
-        width: 22
-        height: 98
+        x: 954
+        y: 1125
+        width: 8
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1764,18 +508,58 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e24258ec4aaea87429c5e04418a98645
+      spriteID: b8075554a2b103b4ebe298afc6afce4a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_76
+      name: Dracula_noBG_15
       rect:
         serializedVersion: 2
-        x: 461
-        y: 512
-        width: 7
+        x: 964
+        y: 1125
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b34d885bfd27c4bad56e114c5bbf21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_16
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1122
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79271699ba8b19d42addea9f3ad5d84a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_17
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1073
+        width: 25
         height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1784,19 +568,59 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86cb95cf2d1e5be458547f5edad31de1
+      spriteID: a1e485948d5d7244d87676798f8bed2b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_77
+      name: Dracula_noBG_18
       rect:
         serializedVersion: 2
-        x: 484
-        y: 451
+        x: 42
+        y: 1059
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a057199d45501064ea85cff624ed361c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1059
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4525dfceed959549b3061d4bc8011ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_20
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1059
         width: 12
-        height: 77
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1804,19 +628,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c120f260fa2d924c85dedfa70b864f7
+      spriteID: bef8d8d1320ab5d44b8893f6b8560534
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_78
+      name: Dracula_noBG_21
       rect:
         serializedVersion: 2
-        x: 500
-        y: 433
-        width: 10
-        height: 88
+        x: 339
+        y: 1068
+        width: 19
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1824,218 +648,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31f9ce96214613a4b8fa851515f67fd9
+      spriteID: 280f9fcf478126645bb55ae6436d434f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_79
+      name: Dracula_noBG_22
       rect:
         serializedVersion: 2
-        x: 1640
-        y: 518
-        width: 4
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b84128243e41e884a955f4b9fdd5e244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_80
-      rect:
-        serializedVersion: 2
-        x: 349
-        y: 504
-        width: 7
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 457a782fe38f9fe4a9d3301a63315e10
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_81
-      rect:
-        serializedVersion: 2
-        x: 475
-        y: 509
-        width: 5
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 209be20cd96a8b7428df6277ea380b08
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_82
-      rect:
-        serializedVersion: 2
-        x: 1293
-        y: 344
-        width: 43
-        height: 170
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 716d510d9a9d0554486e64f5b863a950
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_83
-      rect:
-        serializedVersion: 2
-        x: 1609
-        y: 511
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f2f73792a0855d94eab3accfd476f69b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_84
-      rect:
-        serializedVersion: 2
-        x: 1673
-        y: 497
-        width: 5
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 89b1d9d619c161349b9297c7728af6e9
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_85
-      rect:
-        serializedVersion: 2
-        x: 1690
-        y: 372
-        width: 32
-        height: 144
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8b2b37e155e5e5c47977f77c55966ae0
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_86
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 451
-        width: 16
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 37552cb55e6a74f41a30b7ef5e7e97e9
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_87
-      rect:
-        serializedVersion: 2
-        x: 319
-        y: 488
-        width: 4
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3558accebe9e62e4792243d6bf506411
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_88
-      rect:
-        serializedVersion: 2
-        x: 346
-        y: 480
-        width: 6
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8b0a199a44293bb4c8231121c5229c07
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_89
-      rect:
-        serializedVersion: 2
-        x: 396
-        y: 488
-        width: 5
+        x: 359
+        y: 1073
+        width: 8
         height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2044,598 +668,58 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f6c3691f67e2c2469eefb0dea639904
+      spriteID: f9850e4bd986cad4a9ff04cb2dcdce39
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_90
+      name: Dracula_noBG_23
       rect:
         serializedVersion: 2
-        x: 517
-        y: 464
-        width: 5
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c39b9e9dbcf536540874d45ddbef3ad9
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_91
-      rect:
-        serializedVersion: 2
-        x: 1264
-        y: 478
-        width: 6
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2de2452c01e83a3478ca7e5e90467293
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_92
-      rect:
-        serializedVersion: 2
-        x: 1411
-        y: 367
-        width: 15
-        height: 135
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f78aa20415e021e4d8eb5331bf88d629
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_93
-      rect:
-        serializedVersion: 2
-        x: 1567
-        y: 480
-        width: 6
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 38cb7ebb2b060c040b7641d56fc9dd44
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_94
-      rect:
-        serializedVersion: 2
-        x: 1585
-        y: 451
-        width: 5
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6117668a9d7c94040a3786e09234a077
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_95
-      rect:
-        serializedVersion: 2
-        x: 1601
-        y: 422
-        width: 9
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 73a02be812ee2f54bba830ec9590f027
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_96
-      rect:
-        serializedVersion: 2
-        x: 1631
-        y: 476
-        width: 8
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3f7fd0d109f83b845956230ba45d323b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_97
-      rect:
-        serializedVersion: 2
-        x: 1656
-        y: 428
-        width: 13
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f685ee82eca11504ca0e4b240305b5f5
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_98
-      rect:
-        serializedVersion: 2
-        x: 264
-        y: 460
-        width: 7
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4b2742b057b448f4ab3e4931db6ecc13
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_99
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 451
-        width: 10
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd69111a99a4b264d8dd1eccbd66c7bc
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_100
-      rect:
-        serializedVersion: 2
-        x: 374
-        y: 446
-        width: 7
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 02cfa532063b5b04bbf88ed990f42772
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_101
-      rect:
-        serializedVersion: 2
-        x: 413
-        y: 443
-        width: 9
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af016a9eb9455b948a12fede8c7ce4f2
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_102
-      rect:
-        serializedVersion: 2
-        x: 473
-        y: 441
-        width: 7
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b8536bf3e8d74384b82db8d14ad7b513
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_103
-      rect:
-        serializedVersion: 2
-        x: 525
-        y: 473
-        width: 5
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b866552648156d54faddf9d5f9ea58ca
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_104
-      rect:
-        serializedVersion: 2
-        x: 1119
-        y: 419
-        width: 30
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ed6a3a88fc64fa54f924052b82ab2e91
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_105
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 426
-        width: 27
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 856dbb82ed46ebd47bce97a8e45ca48f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_106
-      rect:
-        serializedVersion: 2
-        x: 343
-        y: 430
-        width: 8
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ab09a2e4639d9e940aa28f2080abdeb8
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_107
-      rect:
-        serializedVersion: 2
-        x: 403
-        y: 457
-        width: 5
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ca7124487350f00438e3cdfbd178c286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_108
-      rect:
-        serializedVersion: 2
-        x: 1251
-        y: 444
-        width: 9
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a185f85d9fb7f2846ade591922e03298
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_109
-      rect:
-        serializedVersion: 2
-        x: 1262
-        y: 414
-        width: 16
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5b352e82286ddcc4c838faeb32cd6f55
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_110
-      rect:
-        serializedVersion: 2
-        x: 1423
-        y: 375
-        width: 12
-        height: 89
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3192deab65439c847a0cbc88a3f6a0dc
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_111
-      rect:
-        serializedVersion: 2
-        x: 1565
-        y: 417
-        width: 16
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e9865375a88a5b140926aeda6f890602
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_112
-      rect:
-        serializedVersion: 2
-        x: 1615
-        y: 443
-        width: 7
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1b178bc014dbb0446b31bfef4e188b70
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_113
-      rect:
-        serializedVersion: 2
-        x: 1631
-        y: 449
-        width: 8
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 334bbd65558488d43acced28b52f9e09
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_114
-      rect:
-        serializedVersion: 2
-        x: 1727
-        y: 422
-        width: 8
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: da442a4a6e109564db8ca00fecfb5534
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_115
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 440
-        width: 5
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 069dcaf5c7441af45981886b85913fa5
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_116
-      rect:
-        serializedVersion: 2
-        x: 331
-        y: 425
-        width: 8
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4099b8cd08ae5ad4781d2827c3c89a22
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_117
-      rect:
-        serializedVersion: 2
-        x: 375
-        y: 432
-        width: 5
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0da0daa13320f52479758c07df994f58
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_118
-      rect:
-        serializedVersion: 2
-        x: 449
-        y: 418
-        width: 5
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c995fbabc63585e449bf1095994cfcf6
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_119
-      rect:
-        serializedVersion: 2
-        x: 490
-        y: 431
+        x: 359
+        y: 1086
         width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7844860ca920fff4e9b79a90ded4c72f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_24
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1078
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433b5a27aabf93041ac11ee29173675e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_25
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1069
+        width: 25
         height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2644,19 +728,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a72892ed37921b4d8272a71613098c7
+      spriteID: 42bc9eecdc281ac4ea7f0220d112d29f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_120
+      name: Dracula_noBG_26
       rect:
         serializedVersion: 2
-        x: 552
-        y: 439
-        width: 5
-        height: 16
+        x: 592
+        y: 1058
+        width: 43
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2664,718 +748,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88ff0a2b469781e4886011cb1806ef14
+      spriteID: 48fda06fe6e023444a39c932583cc240
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_121
+      name: Dracula_noBG_27
       rect:
         serializedVersion: 2
-        x: 1644
-        y: 424
-        width: 8
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b8e73fbfd9944de49a6c54679e846f7c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_122
-      rect:
-        serializedVersion: 2
-        x: 265
-        y: 418
-        width: 21
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd1aa210587c30149863c39691ef6988
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_123
-      rect:
-        serializedVersion: 2
-        x: 323
-        y: 432
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4f06f335217001f4a81638c296599507
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_124
-      rect:
-        serializedVersion: 2
-        x: 481
-        y: 431
-        width: 5
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 79a383b4dd2c93a47b911e921752539e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_125
-      rect:
-        serializedVersion: 2
-        x: 520
-        y: 385
-        width: 7
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9b2c33127cdb9ed45a2a5b170979072f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_126
-      rect:
-        serializedVersion: 2
-        x: 535
-        y: 402
-        width: 8
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 17c4eccc85c427948b13d04bf7869bac
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_127
-      rect:
-        serializedVersion: 2
-        x: 1616
-        y: 431
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 46dd2663d7ee89041a4cbf8922bbc628
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_128
-      rect:
-        serializedVersion: 2
-        x: 374
-        y: 406
-        width: 7
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dd25404653feb4f49a2cdcd31e0b76b0
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_129
-      rect:
-        serializedVersion: 2
-        x: 419
-        y: 393
-        width: 11
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5bd6da391c543ae48aa82b8bd61e9c1e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_130
-      rect:
-        serializedVersion: 2
-        x: 577
-        y: 425
+        x: 619
+        y: 1087
         width: 4
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cc4fe03381a0d1446a8fd2bf803e4e3c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_131
-      rect:
-        serializedVersion: 2
-        x: 398
-        y: 364
-        width: 9
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fe4a6bf80fa2eba43a024787d7efc081
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_132
-      rect:
-        serializedVersion: 2
-        x: 478
-        y: 407
-        width: 5
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4efbe86d1b71ff640801c860638361ef
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_133
-      rect:
-        serializedVersion: 2
-        x: 546
-        y: 414
-        width: 5
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cdb541e0474de5c4c8b3b1b358f7d3da
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_134
-      rect:
-        serializedVersion: 2
-        x: 564
-        y: 417
-        width: 5
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3a90ed43e33868147892444565485387
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_135
-      rect:
-        serializedVersion: 2
-        x: 1617
-        y: 401
-        width: 6
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8079c23afad0c6a4d804e6fe4acdabb7
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_136
-      rect:
-        serializedVersion: 2
-        x: 462
-        y: 406
-        width: 5
-        height: 4
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 524c0500a0f538846ba97cd7d28dfa5c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_137
-      rect:
-        serializedVersion: 2
-        x: 1120
-        y: 372
-        width: 11
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8821e8c397625a346a8e6ba1d9af76e9
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_138
-      rect:
-        serializedVersion: 2
-        x: 1264
-        y: 347
-        width: 20
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ddde94564ccaaff40ac60d62c70898a1
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_139
-      rect:
-        serializedVersion: 2
-        x: 1284
-        y: 377
-        width: 9
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5dcb5deebaffd474394036005845bc5d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_140
-      rect:
-        serializedVersion: 2
-        x: 1569
-        y: 376
-        width: 12
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 390a8dae5d0411345afa35d18d31ad4c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_141
-      rect:
-        serializedVersion: 2
-        x: 1587
-        y: 380
-        width: 9
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7282d44f334493c45a31b318adcc7406
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_142
-      rect:
-        serializedVersion: 2
-        x: 1673
-        y: 364
-        width: 11
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b38740f5e46a7cb4ead17582066627fc
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_143
-      rect:
-        serializedVersion: 2
-        x: 46
-        y: 346
-        width: 26
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 104c5a10ce45e164eb664e0e93eebbcd
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_144
-      rect:
-        serializedVersion: 2
-        x: 463
-        y: 396
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: df3768fe32494694d9fadafbbe59cd5e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_145
-      rect:
-        serializedVersion: 2
-        x: 472
-        y: 399
-        width: 4
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ff66689c6cf6ee640ba9d4fd8363a737
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_146
-      rect:
-        serializedVersion: 2
-        x: 509
-        y: 380
-        width: 10
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c024b1f2926500445a8db80b596879e3
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_147
-      rect:
-        serializedVersion: 2
-        x: 338
-        y: 357
-        width: 18
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d1c70c55b708882489876973921b3fd9
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_148
-      rect:
-        serializedVersion: 2
-        x: 413
-        y: 359
-        width: 10
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4a0eb16488cd50441a5946adcaaa5a39
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_149
-      rect:
-        serializedVersion: 2
-        x: 478
-        y: 381
-        width: 5
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a8ce30acfeac7974c85e952d770ca456
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_150
-      rect:
-        serializedVersion: 2
-        x: 1135
-        y: 378
-        width: 11
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e9a45df4e095e9d418a2f438afd21d22
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_151
-      rect:
-        serializedVersion: 2
-        x: 1438
-        y: 380
-        width: 6
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 64fba50f2fed74e4cacf0b646ea5f7aa
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_152
-      rect:
-        serializedVersion: 2
-        x: 1622
-        y: 353
-        width: 9
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 36742c67ba127064fb0ccc4b60655dfa
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_153
-      rect:
-        serializedVersion: 2
-        x: 1643
-        y: 353
-        width: 15
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 34d39b3cb97da164ab5f12ed889e1fb8
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_154
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 361
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a81f5257ecb17f346b190f7f3965feca
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_155
-      rect:
-        serializedVersion: 2
-        x: 357
-        y: 362
-        width: 5
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 36f031f8d541bdf469b2767ef14f6426
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_156
-      rect:
-        serializedVersion: 2
-        x: 373
-        y: 356
-        width: 8
         height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -3384,18 +768,78 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 239c3567f5cdb564494c508e2c9b072d
+      spriteID: 7f53b7c37c4e3a74c98a6f494a2cf82a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_157
+      name: Dracula_noBG_28
       rect:
         serializedVersion: 2
-        x: 387
-        y: 359
-        width: 7
+        x: 680
+        y: 1081
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82e927d74a6fc24db7b547d9a6129c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_29
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1069
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b5db895cabdd14a8b79ea7692102f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_30
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1077
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779c2d73c75b11b48a26c55ae18b68c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_31
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1070
+        width: 16
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -3404,18 +848,78 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37686317843c1f34e9efe27fd82861b1
+      spriteID: 9ba5b8fd7c66c52439ff29f6a2682a79
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_158
+      name: Dracula_noBG_32
       rect:
         serializedVersion: 2
-        x: 462
-        y: 349
-        width: 7
+        x: 860
+        y: 1073
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592c3a20bde648749aabcc00e3c755b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_33
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1071
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9909e355c316d4c9d8eba81d7989f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_34
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1064
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af67a4c5f6fc27f47a49e19b04e5433e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_35
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1060
+        width: 10
         height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -3424,19 +928,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b85d0d917b27eb14bbea7c6bc5e04542
+      spriteID: 6646a2a14f74baa4ab9a3e09221330a6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_159
+      name: Dracula_noBG_36
       rect:
         serializedVersion: 2
-        x: 470
-        y: 348
-        width: 8
-        height: 17
+        x: 370
+        y: 1056
+        width: 17
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3444,79 +948,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbdd8c152615c234493a3ec08ee42881
+      spriteID: c8354bf8d9319d545919d49f0aebf1a3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_160
+      name: Dracula_noBG_37
       rect:
         serializedVersion: 2
-        x: 481
-        y: 331
-        width: 16
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f049ca0b7a28ae241af69cc134e8ca11
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_161
-      rect:
-        serializedVersion: 2
-        x: 507
-        y: 343
-        width: 22
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ec4742090aeeab04c81ff7455e164c6c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_162
-      rect:
-        serializedVersion: 2
-        x: 1633
-        y: 338
-        width: 7
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 42e32d1a8be4fa44e88d3ead1ab37f40
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amdarais_noBG_163
-      rect:
-        serializedVersion: 2
-        x: 140
-        y: 343
+        x: 456
+        y: 1055
         width: 14
-        height: 17
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3524,18 +968,1278 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8eeda7031c6875349a6225a96855f7c0
+      spriteID: b807990ab2cf2b5419a8cb7bece9c32d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_164
+      name: Dracula_noBG_38
       rect:
         serializedVersion: 2
-        x: 354
-        y: 347
+        x: 461
+        y: 1077
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4b7567e8142e74a9256860ec81eca4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_39
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1055
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08cce4d2bca59546ab3bf505144b86b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_40
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1064
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7bf6b0ff7e65747b00bfb2c0d522ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_41
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1063
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0f49097d5da124798c1d0fc0f686f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_42
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1064
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe95bca8db886e14b89d720fc5111708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_43
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1055
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2c47a5902cd5845b67d48855f23e65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1073
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790808a0b509add429204aee7e4b8d90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_45
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1061
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bbabdd914439a459234cf6543822a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_46
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1054
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421ef9dfc6fa96d4a9f9056b83e85ccc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 919
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e41b8576b096dc40a144549f9e5f6d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_48
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 919
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9a425067f45e346adf2d8851ad10a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_49
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 919
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e036ee2d27b520b43a03e9983dd9066b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_50
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 919
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dec90c5c84bf624ca44e75970e03528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_51
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 918
+        width: 71
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c53db34d2a4a04787410e172282432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_52
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 921
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c165f892148e8c94090a328d23c64c76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_53
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 921
+        width: 61
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cac890c23ce5f4ab690c021e10ee2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_54
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 922
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70c69a633ed9e442af9f009ef14f7f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_55
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 924
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54d2e464bfc98a44bec668cbabdb59d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_56
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 920
+        width: 64
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969b0395487c5e348a812a0058cc1c70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_57
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c934b2ab586c441b4d0f4a7979150f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_58
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 960
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c7cb341fd80054da79da603477fa66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_59
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 960
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6861bfb4693fac6428c52a5f10f82f92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_60
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 777
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b5bb8647c6b2843bf3d5109afa9e76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_61
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 749
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d67942994b123d43abaf2a0c2bb684f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_62
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 736
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3c29342de25c54488213f43e0fdc8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_63
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 739
+        width: 116
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9c6a8bd77d3a74d9e39248808b91e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_64
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 742
+        width: 113
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d7f29864728504db056e81d2341762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_65
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 743
+        width: 110
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223c22019cca8f340917679236467419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_66
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 739
+        width: 163
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e841f0384a652314babcc56afc562cfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_67
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 737
+        width: 153
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb2dd1d1c815ef4286cf014ee54f90a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_68
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 574
+        width: 61
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b3964543653104daa9efcae5f8da20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_69
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 581
+        width: 91
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ead3684fd140d42bac955e21c917e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_70
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 590
+        width: 91
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7071a6de0cd2449a23889ad49b69da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_71
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 590
+        width: 103
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacb583c07dd3684b8aa742ef7fb23df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_72
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 590
+        width: 141
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb799a6a5a4f33145960ae1c56336511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_73
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 592
+        width: 140
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc56b0e1a8f67d540a48fa1c0ce30f67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_74
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 673
+        width: 5
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb21a01ec13a0e49b38881faf717304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_75
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 658
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035874f932c1e204b96d3cd4587a6033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_76
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 656
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baec2c7c990a9d643a3dd1199a1df089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_77
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 656
         width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a415d5ec48fae4984103400a9cbacf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_78
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 656
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94958e0976caec47bac68caa6a2a3f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_79
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 656
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f6cf9497334f741b7db07b8256f517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_80
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 656
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb950d28975b774393e5c992b828848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_81
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 653
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6bbb03f78254448819a797154fd457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_82
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 408
+        width: 75
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d37710b392f364890a08d8661a45f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_83
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 412
+        width: 75
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7f94806710aa3459ef7e6b0fee8eae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_84
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 415
+        width: 78
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b53228b6a237546961489dc47b1033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_85
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 429
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd653587770fdc42aea907e0c3718b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_86
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 409
+        width: 153
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8169e47cdbee623439f28f3a99fec8e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_87
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 362
+        width: 21
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e6f8df7bda0b04db4d0f202c667219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_88
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 227
+        width: 282
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c78d1e3ec77f14db82037f648f8d95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_89
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 249
+        width: 153
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98edde69833ed8479e4757c899a6eb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_90
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 377
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f089b5150203fc4f906845e4ac53c47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_91
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 256
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19030b8e0f0555047b341c09588e3aff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_92
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 257
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228873ddd604c5346b16ca964ecc5625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 257
+        width: 78
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6341658b6628bb2419828ce3602578d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_94
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 270
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb24afddbfb7294cbbbcb235fcccc56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_95
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 342
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc75df9c162ca24692998efa38b8dc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_96
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 342
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacc95d3d4a425e46b70b3a25a209afb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_97
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 342
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22fdce430d657d4eb18a95e06449ef7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_98
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 342
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15c9e3e58265bf43b4b77d0b8a57f17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_99
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 336
+        width: 26
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292f57dd96010a845bb9ef694171162d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_100
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 326
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c295e0a602b354794d88cfa00e2f3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_101
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 323
+        width: 8
         height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -3544,19 +2248,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43a8fc50602159549b7a8bf3cc046d98
+      spriteID: 1c67d6a5694b6984a8d1e5385b759fbf
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amdarais_noBG_165
+      name: Dracula_noBG_102
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1800
-        height: 310
+        x: 631
+        y: 326
+        width: 5
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3564,7 +2268,547 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2931110de7b36884b8da30d4e53425bc
+      spriteID: c3811950967033942a42e10927dbacc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_103
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 323
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff006667e38fd0349bea70d33aa1362a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_104
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 262
+        width: 5
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f375a68ad8593440a19c78990adff82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_105
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 117
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8c0c8b9660fa74f9447019cf4b279a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_106
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 185
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef32ae62c27f41e41ba75978676817d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 177
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5388a697e527454d847b81604af4a11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_108
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 181
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01a28e92407d414cb12703b7a3f8eff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_109
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 173
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e9a4d6ec97f194b916ad313f72909d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_110
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 11
+        width: 85
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca47bd4504cb0c548a5a63d8c3a7b479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_111
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 101
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f5b5555b8f8cf4b8401a0ac5a764b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_112
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 139
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4830727e538938c44b817ceecd5467b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_113
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 119
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c8ae30ec2e52f4e9c011bc36719641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_114
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 136
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29947e451373d4f47a95ff3cfe7bdd98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_115
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 127
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195a86cbfe287a44b9b2bd87ddb8052b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_116
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 127
+        width: 32
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97216ec73ed44c478530d767779c62c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_117
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 109
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc4ff356a804174f894bb1c36010d2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_118
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 109
+        width: 57
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8b6f3c24841744b8caf9a23d3d3626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_119
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 87
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a7295bebbca0d41becd984dde67994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_120
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 33
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba4f1a9fcad77c46b600dec8681344a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_121
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 77
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b6d0bfae4187243b29abc9bbcce5ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_122
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 56
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bae786f61d48f4494bbb9d67568daf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_123
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af43e962ade6630458199807c3c5e6f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_124
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 81
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acd3be46989a45429397500b6b02f5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_125
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 7
+        width: 15
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5030ced9405f7c94ba25952274187790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_126
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 22
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bd2a41813cf75439da19f4fed21e76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_127
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 63
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a987a4d9991a6f14b9cf055efd8b2d00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 16
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bd5173d9af7b9449052674a91ac757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracula_noBG_129
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 32
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6048000a009793d44a2940dc53151753
       vertices: []
       indices: 
       edges: []
@@ -3572,7 +2816,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 4a9920f255a4d374889e1f29477aaf9d
+    spriteID: 9dd3c86e03aed0f45ab3a605bfe100a1
     vertices: []
     indices: 
     edges: []
