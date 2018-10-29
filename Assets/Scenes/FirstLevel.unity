@@ -118,6 +118,7 @@ NavMeshSettings:
 Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
@@ -208,6 +209,8 @@ GameObject:
 =======
 =======
 >>>>>>> parent of 064a6e7... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+=======
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_CorrespondingSourceObject: {fileID: 4894083556998654, guid: dcfc72240f835674cbf583d2475a960e,
     type: 2}
   m_PrefabInternal: {fileID: 283737672}
@@ -7643,6 +7646,7 @@ RectTransform:
 MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7671,6 +7675,11 @@ MonoBehaviour:
     type: 2}
   m_PrefabInternal: {fileID: 1443856129}
 >>>>>>> parent of 064a6e7... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+=======
+  m_CorrespondingSourceObject: {fileID: 114282092048153818, guid: 9ab1c8bbd634dcf479faeec120b1869f,
+    type: 2}
+  m_PrefabInternal: {fileID: 1443856129}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -27611,6 +27620,7 @@ SpriteRenderer:
 GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
@@ -27687,6 +27697,8 @@ RectTransform:
 =======
 =======
 >>>>>>> parent of 064a6e7... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+=======
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_CorrespondingSourceObject: {fileID: 1197963280236638, guid: 9ab1c8bbd634dcf479faeec120b1869f,
     type: 2}
   m_PrefabInternal: {fileID: 1443856129}

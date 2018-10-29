@@ -12,6 +12,7 @@ public class ChangeScene : MonoBehaviour {
 	public void CambioDeScena  (string NombreDeScena) {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 <<<<<<< HEAD
@@ -25,6 +26,8 @@ public class ChangeScene : MonoBehaviour {
 >>>>>>> parent of f4a8e59... Lvl 3
 =======
 >>>>>>> parent of 064a6e7... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+=======
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
         SceneManager.LoadScene("menu");
 
 =======
@@ -45,6 +48,7 @@ public class ChangeScene : MonoBehaviour {
 				player.transform.position = new Vector2 (0, 0);
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -57,6 +61,8 @@ public class ChangeScene : MonoBehaviour {
 >>>>>>> parent of 26270fc... Revert "Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin"
 =======
 >>>>>>> parent of 064a6e7... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+=======
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 
 			} else {
 				SceneManager.LoadScene (NombreDeScena, LoadSceneMode.Additive);

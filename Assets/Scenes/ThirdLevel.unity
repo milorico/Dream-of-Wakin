@@ -110,9 +110,12 @@ NavMeshSettings:
     accuratePlacement: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &443103543
 Prefab:
 =======
+=======
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 --- !u!1 &21004218
 GameObject:
   m_ObjectHideFlags: 0
@@ -1822,6 +1825,7 @@ SpriteRenderer:
   m_SpriteSortPoint: 0
 --- !u!4 &437586161
 Transform:
+<<<<<<< HEAD
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
@@ -1838,6 +1842,24 @@ GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+=======
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 437586159}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.14192778, y: 1.8163295, z: 0}
+  m_LocalScale: {x: 0.45900112, y: 0.57131225, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1161298860}
+  m_RootOrder: 26
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &438964167
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   serializedVersion: 6
   m_Component:
   - component: {fileID: 438964168}
@@ -4227,6 +4249,7 @@ SpriteRenderer:
   m_SpriteSortPoint: 0
 --- !u!4 &805663179
 Transform:
+<<<<<<< HEAD
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
@@ -4318,6 +4341,99 @@ GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+=======
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 805663177}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.033720672, y: 1.8163295, z: 0}
+  m_LocalScale: {x: 0.45900112, y: 0.57131225, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1161298860}
+  m_RootOrder: 20
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &857566716
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 857566718}
+  - component: {fileID: 857566717}
+  m_Layer: 0
+  m_Name: editor_tilesets_example_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &857566717
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 857566716}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 4294967295
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300008, guid: e9e27ab096279234d9bb4c474c209448, type: 3}
+  m_Color: {r: 0.7075472, g: 0.67083484, b: 0.67083484, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.8, y: 0.8}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &857566718
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 857566716}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.9487031, y: 0.97827446, z: 0}
+  m_LocalScale: {x: 0.45900112, y: 0.57131225, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1161298860}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &871042963
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   serializedVersion: 6
   m_Component:
   - component: {fileID: 871042964}
@@ -5542,6 +5658,8 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1191570691
+<<<<<<< HEAD
+=======
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5571,10 +5689,22 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1205555007
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1191570689}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.58029413, y: 1.8261124, z: 0}
+  m_LocalScale: {x: 0.45900112, y: 0.57131225, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1161298860}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1205555006
+=======
   m_GameObject: {fileID: 1205555006}
   m_LocalRotation: {x: -0, y: -0, z: 0.5980894, w: 0.8014294}
   m_LocalPosition: {x: 8.79, y: 14.96, z: 0}
@@ -5674,26 +5804,290 @@ Transform:
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1214914946
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
+  - component: {fileID: 1205555007}
+  - component: {fileID: 1205555008}
+  m_Layer: 0
+  m_Name: Circle (17)
+=======
   - component: {fileID: 1214914947}
   - component: {fileID: 1214914948}
   m_Layer: 0
   m_Name: Collider (24)
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
+--- !u!4 &1205555007
+=======
 --- !u!4 &1214914947
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1205555006}
+  m_LocalRotation: {x: -0, y: -0, z: 0.5980894, w: 0.8014294}
+  m_LocalPosition: {x: 8.79, y: 14.96, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1909055550}
+  m_RootOrder: 67
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 73.466}
+--- !u!70 &1205555008
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1205555006}
+=======
+  m_GameObject: {fileID: 1214914946}
+  m_LocalRotation: {x: -0, y: -0, z: 0.71207273, w: 0.70210576}
+  m_LocalPosition: {x: 18.71, y: 3.33, z: 0}
+  m_LocalScale: {x: 1.0000005, y: 1.0000005, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1909055550}
+  m_RootOrder: 28
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90.80801}
+--- !u!61 &1214914948
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1214914946}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+<<<<<<< HEAD
+  m_Offset: {x: 0.14304063, y: 0.10400726}
+  m_Size: {x: 0.9270077, y: 2.1389651}
+  m_Direction: 0
+--- !u!1 &1214402232
+=======
+  m_Offset: {x: 0.44716793, y: -6.8640103}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 2.1158366, y: 11.754527}
+  m_EdgeRadius: 0
+--- !u!1 &1234506478
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+<<<<<<< HEAD
+  - component: {fileID: 1214402234}
+  - component: {fileID: 1214402233}
+  m_Layer: 0
+  m_Name: editor_tilesets_example_4 (3)
+=======
+  - component: {fileID: 1234506479}
+  - component: {fileID: 1234506480}
+  m_Layer: 0
+  m_Name: bridge-wood-angled_12 (2)
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+<<<<<<< HEAD
+--- !u!212 &1214402233
+=======
+--- !u!4 &1234506479
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1234506478}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.8855448, y: -0.57801265, z: -0.62256765}
+  m_LocalScale: {x: 2.7001, y: 1.6519, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1437899681}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1234506480
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1214402232}
+=======
+  m_GameObject: {fileID: 1234506478}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 4294967295
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+<<<<<<< HEAD
+  m_Sprite: {fileID: 21300008, guid: e9e27ab096279234d9bb4c474c209448, type: 3}
+  m_Color: {r: 0.7075472, g: 0.67083484, b: 0.67083484, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.8, y: 0.8}
+=======
+  m_Sprite: {fileID: 21300024, guid: 86fc7713ecb2b0c4ca393d6a9835c67c, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.32, y: 0.27}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+<<<<<<< HEAD
+--- !u!4 &1214402234
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1214402232}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.9476966, y: 1.418498, z: 0}
+  m_LocalScale: {x: 0.45900112, y: 0.57131225, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1161298860}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1214914946
+=======
+--- !u!1 &1245481805
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+<<<<<<< HEAD
+  - component: {fileID: 1214914947}
+  - component: {fileID: 1214914948}
+  m_Layer: 0
+  m_Name: Collider (24)
+=======
+  - component: {fileID: 1245481807}
+  - component: {fileID: 1245481806}
+  m_Layer: 0
+  m_Name: editor_tilesets_example_4 (4)
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+<<<<<<< HEAD
+--- !u!4 &1214914947
+=======
+--- !u!212 &1245481806
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1245481805}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 4294967295
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300008, guid: e9e27ab096279234d9bb4c474c209448, type: 3}
+  m_Color: {r: 0.7075472, g: 0.67083484, b: 0.67083484, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.8, y: 0.8}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1245481807
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1214914946}
   m_LocalRotation: {x: -0, y: -0, z: 0.71207273, w: 0.70210576}
   m_LocalPosition: {x: 18.71, y: 3.33, z: 0}
@@ -5728,26 +6122,49 @@ BoxCollider2D:
   m_Size: {x: 2.1158366, y: 11.754527}
   m_EdgeRadius: 0
 --- !u!1 &1234506478
+=======
+  m_GameObject: {fileID: 1245481805}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.14746429, y: 0.5510946, z: 0}
+  m_LocalScale: {x: 0.45900112, y: 0.57131225, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1161298860}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1257565875
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1234506479}
   - component: {fileID: 1234506480}
   m_Layer: 0
   m_Name: bridge-wood-angled_12 (2)
+=======
+  - component: {fileID: 1257565876}
+  - component: {fileID: 1257565877}
+  m_Layer: 0
+  m_Name: Collider (25)
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!4 &1234506479
+=======
+--- !u!4 &1257565876
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1234506478}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -1.8855448, y: -0.57801265, z: -0.62256765}
@@ -5803,27 +6220,91 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1245481805
+=======
+  m_GameObject: {fileID: 1257565875}
+  m_LocalRotation: {x: -0, y: -0, z: 0.71207273, w: 0.70210576}
+  m_LocalPosition: {x: 22, y: 3.38, z: 0}
+  m_LocalScale: {x: 1.0000005, y: 1.0000005, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1909055550}
+  m_RootOrder: 29
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90.80801}
+--- !u!61 &1257565877
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1257565875}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 1.6511973, y: -10.248826}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 3.0644457, y: 4.7330704}
+  m_EdgeRadius: 0
+--- !u!1 &1283070668
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1245481807}
   - component: {fileID: 1245481806}
   m_Layer: 0
   m_Name: editor_tilesets_example_4 (4)
+=======
+  - component: {fileID: 1283070669}
+  - component: {fileID: 1283070670}
+  m_Layer: 0
+  m_Name: bridge-wood-angled_12 (12)
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!212 &1245481806
+=======
+--- !u!4 &1283070669
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1283070668}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.3345451, y: 0.2899874, z: -0.62256765}
+  m_LocalScale: {x: 2.7001, y: 1.6519, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1437899681}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1283070670
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1245481805}
+=======
+  m_GameObject: {fileID: 1283070668}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -5864,6 +6345,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
 --- !u!4 &1245481807
 Transform:
   m_ObjectHideFlags: 0
@@ -5878,26 +6360,41 @@ Transform:
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1257565875
+=======
+--- !u!1 &1292493477
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1257565876}
   - component: {fileID: 1257565877}
   m_Layer: 0
   m_Name: Collider (25)
+=======
+  - component: {fileID: 1292493478}
+  - component: {fileID: 1292493479}
+  m_Layer: 0
+  m_Name: Collider (28)
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!4 &1257565876
+=======
+--- !u!4 &1292493478
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1257565875}
   m_LocalRotation: {x: -0, y: -0, z: 0.71207273, w: 0.70210576}
   m_LocalPosition: {x: 22, y: 3.38, z: 0}
@@ -5907,18 +6404,37 @@ Transform:
   m_RootOrder: 29
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90.80801}
 --- !u!61 &1257565877
+=======
+  m_GameObject: {fileID: 1292493477}
+  m_LocalRotation: {x: -0, y: -0, z: 0.0017677369, w: 0.99999845}
+  m_LocalPosition: {x: 23.76, y: 15.85, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1909055550}
+  m_RootOrder: 32
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0.20300001}
+--- !u!61 &1292493479
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1257565875}
+=======
+  m_GameObject: {fileID: 1292493477}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
+<<<<<<< HEAD
   m_Offset: {x: 1.6511973, y: -10.248826}
+=======
+  m_Offset: {x: 2.2523026, y: 0.85152984}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -5929,29 +6445,47 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
+<<<<<<< HEAD
   m_Size: {x: 3.0644457, y: 4.7330704}
   m_EdgeRadius: 0
 --- !u!1 &1283070668
+=======
+  m_Size: {x: 9.701697, y: 0.9629655}
+  m_EdgeRadius: 0
+--- !u!1 &1293815700
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1283070669}
   - component: {fileID: 1283070670}
   m_Layer: 0
   m_Name: bridge-wood-angled_12 (12)
+=======
+  - component: {fileID: 1293815701}
+  - component: {fileID: 1293815702}
+  m_Layer: 0
+  m_Name: Collider (44)
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!4 &1283070669
+=======
+--- !u!4 &1293815701
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1283070668}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -1.3345451, y: 0.2899874, z: -0.62256765}
@@ -6041,46 +6575,7 @@ BoxCollider2D:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1292493477}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 2.2523026, y: 0.85152984}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 9.701697, y: 0.9629655}
-  m_EdgeRadius: 0
---- !u!1 &1293815700
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1293815701}
-  - component: {fileID: 1293815702}
-  m_Layer: 0
-  m_Name: Collider (44)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1293815701
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+=======
   m_GameObject: {fileID: 1293815700}
   m_LocalRotation: {x: -0, y: -0, z: -0.92698973, w: 0.3750867}
   m_LocalPosition: {x: 20.3, y: 29.88, z: 0}
@@ -6149,31 +6644,77 @@ CapsuleCollider2D:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1299416161}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
+<<<<<<< HEAD
+  m_Offset: {x: 2.2523026, y: 0.85152984}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 9.701697, y: 0.9629655}
+  m_EdgeRadius: 0
+--- !u!1 &1293815700
+=======
   m_Offset: {x: 0.40993628, y: 0.11663917}
   m_Size: {x: 1.2002646, y: 7.505131}
   m_Direction: 0
 --- !u!1 &1309225608
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
+  - component: {fileID: 1293815701}
+  - component: {fileID: 1293815702}
+  m_Layer: 0
+  m_Name: Collider (44)
+=======
   - component: {fileID: 1309225609}
   - component: {fileID: 1309225610}
   m_Layer: 0
   m_Name: Collider
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
+--- !u!4 &1293815701
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1293815700}
+  m_LocalRotation: {x: -0, y: -0, z: -0.92698973, w: 0.3750867}
+  m_LocalPosition: {x: 20.3, y: 29.88, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1909055550}
+  m_RootOrder: 55
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -135.94101}
+--- !u!61 &1293815702
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1293815700}
+=======
 --- !u!4 &1309225609
 Transform:
   m_ObjectHideFlags: 0
@@ -6193,13 +6734,18 @@ BoxCollider2D:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1309225608}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
+<<<<<<< HEAD
+  m_Offset: {x: 3.3780632, y: 3.6143758}
+=======
   m_Offset: {x: 0, y: 3.4234247}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -6210,29 +6756,62 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
+<<<<<<< HEAD
+  m_Size: {x: 2.116129, y: 2.0554776}
+  m_EdgeRadius: 0
+--- !u!1 &1299416161
+=======
   m_Size: {x: 1, y: 11.873314}
   m_EdgeRadius: 0
 --- !u!1 &1314906776
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
+  - component: {fileID: 1299416162}
+  - component: {fileID: 1299416163}
+  m_Layer: 0
+  m_Name: Circle
+=======
   - component: {fileID: 1314906777}
   - component: {fileID: 1314906778}
   m_Layer: 0
   m_Name: Collider (16)
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
+--- !u!4 &1299416162
+=======
 --- !u!4 &1314906777
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1299416161}
+  m_LocalRotation: {x: -0, y: -0, z: 0.30766177, w: 0.9514958}
+  m_LocalPosition: {x: -3.11, y: 2.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1909055550}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 35.837}
+--- !u!70 &1299416163
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1299416161}
+=======
   m_GameObject: {fileID: 1314906776}
   m_LocalRotation: {x: -0, y: -0, z: 0.7076847, w: 0.7065285}
   m_LocalPosition: {x: 14.54, y: 5.79, z: 0}
@@ -6247,12 +6826,19 @@ BoxCollider2D:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1314906776}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
+<<<<<<< HEAD
+  m_Offset: {x: 0.40993628, y: 0.11663917}
+  m_Size: {x: 1.2002646, y: 7.505131}
+  m_Direction: 0
+--- !u!1 &1309225608
+=======
   m_Offset: {x: 1.2625821, y: 0.25668108}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
@@ -6264,6 +6850,238 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
+  m_Size: {x: 4.7953286, y: 2.152663}
+  m_EdgeRadius: 0
+--- !u!1 &1319344034
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+<<<<<<< HEAD
+  - component: {fileID: 1309225609}
+  - component: {fileID: 1309225610}
+  m_Layer: 0
+  m_Name: Collider
+=======
+  - component: {fileID: 1319344035}
+  - component: {fileID: 1319344036}
+  m_Layer: 0
+  m_Name: Collider (55)
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+<<<<<<< HEAD
+--- !u!4 &1309225609
+=======
+--- !u!4 &1319344035
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1319344034}
+  m_LocalRotation: {x: -0, y: -0, z: 0.1250408, w: 0.9921516}
+  m_LocalPosition: {x: 1.73, y: 20.34, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1909055550}
+  m_RootOrder: 79
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 14.366001}
+--- !u!61 &1319344036
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1319344034}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -2.1793005, y: -0.4187646}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 7.3066344, y: 1.4523354}
+  m_EdgeRadius: 0
+--- !u!1 &1319362590
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1319362591}
+  - component: {fileID: 1319362592}
+  m_Layer: 0
+  m_Name: Collider (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1319362591
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1309225608}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -8.09, y: 4.17, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1909055550}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1309225610
+=======
+  m_GameObject: {fileID: 1319362590}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 5.67, y: 14.12, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1909055550}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1319362592
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1309225608}
+=======
+  m_GameObject: {fileID: 1319362590}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+<<<<<<< HEAD
+  m_Offset: {x: 0, y: 3.4234247}
+=======
+  m_Offset: {x: 1.082442, y: 2.1433597}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+<<<<<<< HEAD
+  m_Size: {x: 1, y: 11.873314}
+  m_EdgeRadius: 0
+--- !u!1 &1314906776
+=======
+  m_Size: {x: 3.164884, y: 7.5050955}
+  m_EdgeRadius: 0
+--- !u!1 &1323449346
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+<<<<<<< HEAD
+  - component: {fileID: 1314906777}
+  - component: {fileID: 1314906778}
+  m_Layer: 0
+  m_Name: Collider (16)
+=======
+  - component: {fileID: 1323449347}
+  - component: {fileID: 1323449348}
+  m_Layer: 0
+  m_Name: Collider (5)
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+<<<<<<< HEAD
+--- !u!4 &1314906777
+=======
+--- !u!4 &1323449347
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1314906776}
+  m_LocalRotation: {x: -0, y: -0, z: 0.7076847, w: 0.7065285}
+  m_LocalPosition: {x: 14.54, y: 5.79, z: 0}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1909055550}
+  m_RootOrder: 17
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90.094}
+--- !u!61 &1314906778
+=======
+  m_GameObject: {fileID: 1323449346}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.4700003, y: 6.57, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1909055550}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1323449348
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1314906776}
+=======
+  m_GameObject: {fileID: 1323449346}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+<<<<<<< HEAD
+  m_Offset: {x: 1.2625821, y: 0.25668108}
+=======
+  m_Offset: {x: 3.3682303, y: 0.07695365}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+<<<<<<< HEAD
   m_Size: {x: 4.7953286, y: 2.152663}
   m_EdgeRadius: 0
 --- !u!1 &1319344034
@@ -6321,26 +7139,43 @@ BoxCollider2D:
   m_Size: {x: 7.3066344, y: 1.4523354}
   m_EdgeRadius: 0
 --- !u!1 &1319362590
+=======
+  m_Size: {x: 7.7364607, y: 1.5139527}
+  m_EdgeRadius: 0
+--- !u!1 &1324579169
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1319362591}
   - component: {fileID: 1319362592}
   m_Layer: 0
   m_Name: Collider (1)
+=======
+  - component: {fileID: 1324579170}
+  - component: {fileID: 1324579171}
+  m_Layer: 0
+  m_Name: Collider (34)
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!4 &1319362591
+=======
+--- !u!4 &1324579170
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1319362590}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 5.67, y: 14.12, z: 0}
@@ -6350,18 +7185,37 @@ Transform:
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1319362592
+=======
+  m_GameObject: {fileID: 1324579169}
+  m_LocalRotation: {x: -0, y: -0, z: 0.0017677369, w: 0.99999845}
+  m_LocalPosition: {x: 18.05, y: 21.41, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1909055550}
+  m_RootOrder: 39
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0.20300001}
+--- !u!61 &1324579171
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1319362590}
+=======
+  m_GameObject: {fileID: 1324579169}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
+<<<<<<< HEAD
   m_Offset: {x: 1.082442, y: 2.1433597}
+=======
+  m_Offset: {x: -0.9186752, y: -2.2451549}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -6372,29 +7226,47 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
+<<<<<<< HEAD
   m_Size: {x: 3.164884, y: 7.5050955}
   m_EdgeRadius: 0
 --- !u!1 &1323449346
+=======
+  m_Size: {x: 1.5864084, y: 4.1278505}
+  m_EdgeRadius: 0
+--- !u!1 &1355045963
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1323449347}
   - component: {fileID: 1323449348}
   m_Layer: 0
   m_Name: Collider (5)
+=======
+  - component: {fileID: 1355045964}
+  - component: {fileID: 1355045965}
+  m_Layer: 0
+  m_Name: bridge-wood-angled_12 (15)
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!4 &1323449347
+=======
+--- !u!4 &1355045964
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1323449346}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 1.4700003, y: 6.57, z: 0}
@@ -6429,80 +7301,7 @@ BoxCollider2D:
   m_Size: {x: 7.7364607, y: 1.5139527}
   m_EdgeRadius: 0
 --- !u!1 &1324579169
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1324579170}
-  - component: {fileID: 1324579171}
-  m_Layer: 0
-  m_Name: Collider (34)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1324579170
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1324579169}
-  m_LocalRotation: {x: -0, y: -0, z: 0.0017677369, w: 0.99999845}
-  m_LocalPosition: {x: 18.05, y: 21.41, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1909055550}
-  m_RootOrder: 39
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0.20300001}
---- !u!61 &1324579171
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1324579169}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: -0.9186752, y: -2.2451549}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1.5864084, y: 4.1278505}
-  m_EdgeRadius: 0
---- !u!1 &1355045963
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1355045964}
-  - component: {fileID: 1355045965}
-  m_Layer: 0
-  m_Name: bridge-wood-angled_12 (15)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1355045964
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+=======
   m_GameObject: {fileID: 1355045963}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -1.0755444, y: 0.73698735, z: -0.62256765}
@@ -6558,26 +7357,49 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1362175293
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
+  - component: {fileID: 1324579170}
+  - component: {fileID: 1324579171}
+  m_Layer: 0
+  m_Name: Collider (34)
+=======
   - component: {fileID: 1362175294}
   - component: {fileID: 1362175295}
   m_Layer: 0
   m_Name: Collider (47)
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
+--- !u!4 &1324579170
+=======
 --- !u!4 &1362175294
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1324579169}
+  m_LocalRotation: {x: -0, y: -0, z: 0.0017677369, w: 0.99999845}
+  m_LocalPosition: {x: 18.05, y: 21.41, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1909055550}
+  m_RootOrder: 39
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0.20300001}
+--- !u!61 &1324579171
+=======
   m_GameObject: {fileID: 1362175293}
   m_LocalRotation: {x: -0, y: -0, z: 0.7049438, w: 0.70926327}
   m_LocalPosition: {x: 8.66, y: 28.37, z: 0}
@@ -6587,18 +7409,27 @@ Transform:
   m_RootOrder: 60
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 89.65}
 --- !u!61 &1362175295
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1324579169}
+=======
   m_GameObject: {fileID: 1362175293}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
+<<<<<<< HEAD
+  m_Offset: {x: -0.9186752, y: -2.2451549}
+=======
   m_Offset: {x: -1.9392843, y: -0.6587279}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -6609,29 +7440,57 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
+<<<<<<< HEAD
+  m_Size: {x: 1.5864084, y: 4.1278505}
+  m_EdgeRadius: 0
+--- !u!1 &1355045963
+=======
   m_Size: {x: 7.2793646, y: 1.3732183}
   m_EdgeRadius: 0
 --- !u!1 &1407236694
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
+  - component: {fileID: 1355045964}
+  - component: {fileID: 1355045965}
+  m_Layer: 0
+  m_Name: bridge-wood-angled_12 (15)
+=======
   - component: {fileID: 1407236695}
   - component: {fileID: 1407236696}
   m_Layer: 0
   m_Name: bridge-wood-angled_12 (27)
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
+--- !u!4 &1355045964
+=======
 --- !u!4 &1407236695
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1355045963}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.0755444, y: 0.73698735, z: -0.62256765}
+  m_LocalScale: {x: 2.7001, y: 1.6519, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1437899681}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1355045965
+=======
   m_GameObject: {fileID: 1407236694}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0.008454323, y: 2.4969873, z: -0.62256765}
@@ -6641,11 +7500,16 @@ Transform:
   m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1407236696
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1355045963}
+=======
   m_GameObject: {fileID: 1407236694}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -6686,6 +7550,257 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
+--- !u!1 &1362175293
+=======
+--- !u!1 &1413799686
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+<<<<<<< HEAD
+  - component: {fileID: 1362175294}
+  - component: {fileID: 1362175295}
+  m_Layer: 0
+  m_Name: Collider (47)
+=======
+  - component: {fileID: 1413799687}
+  - component: {fileID: 1413799688}
+  m_Layer: 0
+  m_Name: Collider (22)
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+<<<<<<< HEAD
+--- !u!4 &1362175294
+=======
+--- !u!4 &1413799687
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1362175293}
+  m_LocalRotation: {x: -0, y: -0, z: 0.7049438, w: 0.70926327}
+  m_LocalPosition: {x: 8.66, y: 28.37, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1909055550}
+  m_RootOrder: 60
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 89.65}
+--- !u!61 &1362175295
+=======
+  m_GameObject: {fileID: 1413799686}
+  m_LocalRotation: {x: -0, y: -0, z: 0.71207273, w: 0.70210576}
+  m_LocalPosition: {x: 18.71, y: 3.33, z: 0}
+  m_LocalScale: {x: 1.0000005, y: 1.0000005, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1909055550}
+  m_RootOrder: 26
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90.80801}
+--- !u!61 &1413799688
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1362175293}
+=======
+  m_GameObject: {fileID: 1413799686}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+<<<<<<< HEAD
+  m_Offset: {x: -1.9392843, y: -0.6587279}
+=======
+  m_Offset: {x: 2.5265102, y: -3.4551044}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+<<<<<<< HEAD
+  m_Size: {x: 7.2793646, y: 1.3732183}
+  m_EdgeRadius: 0
+--- !u!1 &1407236694
+=======
+  m_Size: {x: 2.9321918, y: 0.32579327}
+  m_EdgeRadius: 0
+--- !u!1 &1437899680
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+<<<<<<< HEAD
+  - component: {fileID: 1407236695}
+  - component: {fileID: 1407236696}
+  m_Layer: 0
+  m_Name: bridge-wood-angled_12 (27)
+=======
+  - component: {fileID: 1437899681}
+  m_Layer: 0
+  m_Name: Bridge
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+<<<<<<< HEAD
+--- !u!4 &1407236695
+=======
+--- !u!4 &1437899681
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1407236694}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.008454323, y: 2.4969873, z: -0.62256765}
+  m_LocalScale: {x: 2.7001, y: 1.6519, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1437899681}
+  m_RootOrder: 27
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1407236696
+=======
+  m_GameObject: {fileID: 1437899680}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -10.528455, y: -0.39698738, z: 0.62256765}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 405285756}
+  - {fileID: 1943282950}
+  - {fileID: 1234506479}
+  - {fileID: 65294103}
+  - {fileID: 871042964}
+  - {fileID: 123184541}
+  - {fileID: 697071331}
+  - {fileID: 733180290}
+  - {fileID: 1683622488}
+  - {fileID: 2020262893}
+  - {fileID: 21004219}
+  - {fileID: 1051603213}
+  - {fileID: 1283070669}
+  - {fileID: 116389762}
+  - {fileID: 156684524}
+  - {fileID: 1355045964}
+  - {fileID: 466231971}
+  - {fileID: 791937089}
+  - {fileID: 2053404134}
+  - {fileID: 1812265001}
+  - {fileID: 434480618}
+  - {fileID: 460967831}
+  - {fileID: 789003820}
+  - {fileID: 2055336632}
+  - {fileID: 753262456}
+  - {fileID: 1576875764}
+  - {fileID: 2127913165}
+  - {fileID: 1407236695}
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1450943689
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1450943691}
+  - component: {fileID: 1450943690}
+  m_Layer: 0
+  m_Name: editor_tilesets_example_9 (6)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1450943690
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1407236694}
+=======
+  m_GameObject: {fileID: 1450943689}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 4294967295
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+<<<<<<< HEAD
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300024, guid: 86fc7713ecb2b0c4ca393d6a9835c67c, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.32, y: 0.27}
+=======
+  m_SortingOrder: 5
+  m_Sprite: {fileID: 21300018, guid: e9e27ab096279234d9bb4c474c209448, type: 3}
+  m_Color: {r: 0.5283019, g: 0.5208259, b: 0.5208259, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1.57, y: 0.79}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+<<<<<<< HEAD
 --- !u!1 &1413799686
 GameObject:
   m_ObjectHideFlags: 0
@@ -6703,10 +7818,14 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1413799687
+=======
+--- !u!4 &1450943691
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1413799686}
   m_LocalRotation: {x: -0, y: -0, z: 0.71207273, w: 0.70210576}
   m_LocalPosition: {x: 18.71, y: 3.33, z: 0}
@@ -6741,20 +7860,39 @@ BoxCollider2D:
   m_Size: {x: 2.9321918, y: 0.32579327}
   m_EdgeRadius: 0
 --- !u!1 &1437899680
+=======
+  m_GameObject: {fileID: 1450943689}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.0009810698, y: 0.61761725, z: 0}
+  m_LocalScale: {x: 0.4075996, y: 0.28266066, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1161298860}
+  m_RootOrder: 28
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1460254587
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1437899681}
   m_Layer: 0
   m_Name: Bridge
+=======
+  - component: {fileID: 1460254589}
+  - component: {fileID: 1460254588}
+  m_Layer: 0
+  m_Name: editor_tilesets_example_2
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!4 &1437899681
 Transform:
   m_ObjectHideFlags: 0
@@ -6813,11 +7951,18 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!212 &1450943690
+=======
+--- !u!212 &1460254588
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1450943689}
+=======
+  m_GameObject: {fileID: 1460254587}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -6846,6 +7991,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
+<<<<<<< HEAD
   m_SortingOrder: 5
   m_Sprite: {fileID: 21300018, guid: e9e27ab096279234d9bb4c474c209448, type: 3}
   m_Color: {r: 0.5283019, g: 0.5208259, b: 0.5208259, a: 1}
@@ -6853,16 +7999,30 @@ SpriteRenderer:
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 1.57, y: 0.79}
+=======
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300004, guid: e9e27ab096279234d9bb4c474c209448, type: 3}
+  m_Color: {r: 0.7075472, g: 0.67083484, b: 0.67083484, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2.4, y: 2.4}
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
 --- !u!4 &1450943691
+=======
+--- !u!4 &1460254589
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1450943689}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0.0009810698, y: 0.61761725, z: 0}
@@ -6872,21 +8032,40 @@ Transform:
   m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1460254587
+=======
+  m_GameObject: {fileID: 1460254587}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.7214674, y: 0.3717444, z: 0}
+  m_LocalScale: {x: 0.33997285, y: 0.32609147, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1161298860}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1477198258
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1460254589}
   - component: {fileID: 1460254588}
   m_Layer: 0
   m_Name: editor_tilesets_example_2
+=======
+  - component: {fileID: 1477198260}
+  - component: {fileID: 1477198259}
+  m_Layer: 0
+  m_Name: editor_tilesets_example_4 (6)
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!212 &1460254588
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6962,6 +8141,8 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+=======
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 --- !u!212 &1477198259
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7870,6 +9051,8 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
+=======
 --- !u!1 &1697713353
 GameObject:
   m_ObjectHideFlags: 0
@@ -7932,6 +9115,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+>>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 --- !u!4 &1697713355
 Transform:
   m_ObjectHideFlags: 0
