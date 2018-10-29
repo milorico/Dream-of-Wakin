@@ -7648,6 +7648,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7666,12 +7667,15 @@ MonoBehaviour:
 >>>>>>> parent of 26270fc... Revert "Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin"
 =======
 >>>>>>> parent of 5be8477... Revert "Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin"
+=======
+>>>>>>> parent of 77601e1... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 548121911}
   m_Enabled: 1
   m_EditorHideFlags: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -7695,6 +7699,8 @@ MonoBehaviour:
   m_PrefabInternal: {fileID: 1577996489}
 >>>>>>> parent of 92b663a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 >>>>>>> parent of 5be8477... Revert "Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin"
+=======
+>>>>>>> parent of 77601e1... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
   m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
