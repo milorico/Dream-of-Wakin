@@ -282,7 +282,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.05072918}
   m_AnchorMax: {x: 0.966, y: 0.09611459}
-  m_AnchoredPosition: {x: 0.5, y: -2.5}
+  m_AnchoredPosition: {x: 0.5, y: -2.4999847}
   m_SizeDelta: {x: 1, y: 5.100006}
   m_Pivot: {x: 0.5, y: 0.5000001}
 --- !u!114 &292048508
@@ -414,7 +414,7 @@ GameObject:
   - component: {fileID: 915198235}
   - component: {fileID: 915198234}
   m_Layer: 5
-  m_Name: Quit
+  m_Name: Button (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -620,7 +620,7 @@ GameObject:
   - component: {fileID: 1295986338}
   - component: {fileID: 1295986337}
   m_Layer: 5
-  m_Name: Options
+  m_Name: Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -994,7 +994,7 @@ GameObject:
   - component: {fileID: 1817110527}
   - component: {fileID: 1817110526}
   m_Layer: 5
-  m_Name: QuitToStart
+  m_Name: Button (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
