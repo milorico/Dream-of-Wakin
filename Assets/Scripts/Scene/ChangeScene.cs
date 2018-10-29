@@ -14,17 +14,24 @@ public class ChangeScene : MonoBehaviour {
 <<<<<<< HEAD
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 
 <<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+
+<<<<<<< HEAD
+>>>>>>> parent of 5be8477... Revert "Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin"
 =======
 >>>>>>> be8fdbd3b2116a079338556e07a9977c402f27ee
 =======
 <<<<<<< HEAD
 >>>>>>> parent of f4a8e59... Lvl 3
 =======
+<<<<<<< HEAD
 >>>>>>> parent of 064a6e7... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 =======
 >>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
@@ -32,6 +39,12 @@ public class ChangeScene : MonoBehaviour {
 
 =======
 >>>>>>> parent of 26270fc... Revert "Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin"
+=======
+>>>>>>> parent of 92b663a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+        SceneManager.LoadScene("menu");
+
+=======
+>>>>>>> parent of 5be8477... Revert "Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin"
 		Pause = !Pause;
 		Time.timeScale = (Pause) ? 1.00f : 0.00f;
 		if (Pause == false)
@@ -49,20 +62,29 @@ public class ChangeScene : MonoBehaviour {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 5be8477... Revert "Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin"
 
 =======
 >>>>>>> be8fdbd3b2116a079338556e07a9977c402f27ee
 =======
 >>>>>>> 24fe0cd13b927899b443f425214ef765b606f366
 >>>>>>> parent of f4a8e59... Lvl 3
+<<<<<<< HEAD
 >>>>>>> parent of 26270fc... Revert "Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin"
 =======
 >>>>>>> parent of 064a6e7... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
 =======
 >>>>>>> parent of 2c1a48a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+=======
+=======
+
+>>>>>>> parent of 92b663a... Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin
+>>>>>>> parent of 5be8477... Revert "Merge branch 'master' of https://github.com/milorico/Dream-of-Wakin"
 
 			} else {
 				SceneManager.LoadScene (NombreDeScena, LoadSceneMode.Additive);
