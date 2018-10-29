@@ -10,6 +10,7 @@ TagManager:
   - ballena
   - EnemyCollider
   - FrontFacingD
+  - EnemyFollower
   layers:
   - Default
   - TransparentFX

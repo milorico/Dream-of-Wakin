@@ -6,12 +6,15 @@ using UnityEngine.SceneManagement;
 public class DoorsInteractive : MonoBehaviour {
     public Transform pos;
     public GameObject target;
+    GameObject enemy;
     bool Pause = true;
     public GameObject fog;
     int turnoDelDialogo = 0;
 	bool interactuable=false;
+	bool waitDoor =false;
 	public SpriteRenderer playerR;
 	public InvertLayer invL;
+	int time;
     void Start()
     {
 		playerR = target.GetComponent<SpriteRenderer> ();
@@ -22,6 +25,13 @@ public class DoorsInteractive : MonoBehaviour {
 	{
 		if (interactuable==true&& target!=null) {
 			EnableTeleport ();
+		}
+
+		if(time<200){
+			time++;
+		}
+		else{
+			time=0;
 		}
 	}
 
@@ -35,7 +45,6 @@ public class DoorsInteractive : MonoBehaviour {
     private void OnTriggerStay2D(Collider2D other)
     {
      //   EnableText(other);
-
     }
 	private void OnTriggerExit2D(Collider2D other)
 	{
@@ -48,7 +57,6 @@ public class DoorsInteractive : MonoBehaviour {
     private void EnableTeleport()
     {
    
-
 		if (Input.GetKeyDown ("k")) {
 			StartCoroutine (WaitForTransition (0.5f));
 			if (invL != null) {
@@ -57,11 +65,17 @@ public class DoorsInteractive : MonoBehaviour {
 				}
 			}
 				target.transform.position = pos.position;
-
-			
 		}
         
     }
+   // private void EnableTeleport(Collider2D enemyC){
+    //	if(interactuable==true && time<30){
+      // enemyC.gameObject.transform.position = pos.position;
+       //interactuable=false;
+   //}
+   //else{
+   	//enemyC.gameObject.transform.position = new Vector2(target.transform.position.x-2,target.transform.position.y+1);
+   //}				 // StartCoroutine (WaitForEnemy (1f));
     private IEnumerator WaitForTransition(float waitTime)
     {
 

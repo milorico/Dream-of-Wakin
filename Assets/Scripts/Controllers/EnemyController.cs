@@ -20,6 +20,7 @@ public class EnemyController : MonoBehaviour {
 	private float w;
 	private float e;
 	private int girar;
+	public GameObject attackObject;
 	int randomX;
 	int randomY;
 	private bool esquivar = false;
@@ -34,6 +35,9 @@ public class EnemyController : MonoBehaviour {
 		mySriteRenderer = GetComponent<SpriteRenderer> ();
 		m_Anim = GetComponent<Animator>();
 		m_Rigidbody2D = GetComponent<Rigidbody2D>();
+		if(attackObject!=null){
+		attackObject.SetActive(false);
+	}
 	}
 
 	// Update is called once per frame
@@ -56,7 +60,10 @@ public class EnemyController : MonoBehaviour {
 		float h = pPosition.x - transform.position.x;
 		float j = pPosition.y - transform.position.y;
 		if (atacar == true) {
-			Attack2 (h, j);
+			if(attackObject!=null){
+			Attack2(h,j,attackObject);}
+			else{
+			Attack2 (h, j);}
 		} else {
 			if (patrullar ==true) {
              Patrullar(h,j);
@@ -103,6 +110,20 @@ public class EnemyController : MonoBehaviour {
 			transform.position.y), attackPosition, 3f * Time.deltaTime);
 		if (transform.position.x==attackPosition.x || i>150) {
 			atacar = false;
+			i = 0;
+		}
+	}
+	}
+	public virtual void Attack2(float move, float move2,GameObject attackRange){
+		if(followPlayer == true){
+		m_Anim.SetTrigger ("Attaking");
+		attackRange.SetActive(true);
+		attackRange.transform.position = Vector2.MoveTowards (new Vector2 (attackRange.transform.position.x,
+			attackRange.transform.position.y), attackPosition, 11f * Time.deltaTime);
+		if (transform.position.x==attackPosition.x || i>150) {
+			atacar = false;
+			attackRange.SetActive(false);
+			attackRange.transform.position = transform.position;
 			i = 0;
 		}
 	}
