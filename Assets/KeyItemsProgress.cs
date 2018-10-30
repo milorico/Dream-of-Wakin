@@ -11,7 +11,10 @@ public class KeyItemsProgress : MonoBehaviour {
 	public GameObject secondRoomDoor;
 	public GameObject generatorCol;
 	public GameObject iceStatue;
-	public GameObject BigDoor;
+    public GameObject EnemyJail;
+    public GameObject EnemyJail2;
+    public GameObject Jail;
+    public GameObject BigDoor;
 	public GameObject BossEnabler;
 	Scene m_Scene;
 	bool levelOneFinished;
@@ -32,7 +35,7 @@ public class KeyItemsProgress : MonoBehaviour {
 		}
         if (m_Scene.name == "ThirdLevel")
         {
-            piecesPicked = 0;
+            
             levelOneFinished = true;
             levelTwoFinished = true;
             levelTrheeFinished = false;
@@ -85,8 +88,11 @@ public class KeyItemsProgress : MonoBehaviour {
                 {
                     secondRoomDoor.GetComponent<DoorsInteractive>().enabled = true;
                 }
-
+            if (EnemyJail == null && EnemyJail2 == null)
+            {
+                Destroy(Jail);
             }
+        }
        // }
     }
 	void CountPieces(int qnt){
