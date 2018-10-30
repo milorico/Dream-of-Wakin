@@ -93,7 +93,7 @@ public class KeyItemsProgress : MonoBehaviour {
                 }
             if (EnemyJail == null && EnemyJail2 == null)
             {
-                Destroy(Jail);
+                Destroy(Jail,2);
             }
             if (SubBoss == null)
             {

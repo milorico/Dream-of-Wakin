@@ -9,21 +9,11 @@ public class Enemy : MonoBehaviour {
     public float attackRadius;
     public float speed;
 
-
-    ///----- Variables relacionadas con el ataque
-    [Tooltip("Prefab de la roca que se disparará")]
-    public GameObject rockPrefab;
-    [Tooltip("Velocidad de ataque (segundos entre ataques)")]
-    public float attackSpeed = 2f;
-    bool attacking;
-    ///----- Fin de Variables relacionadas con el ataque
-
-
     // Variable para guardar al jugador
     GameObject player;
 
     // Variable para guardar la posición inicial
-    Vector3 initialPosition, target;
+    Vector3 initialPosition;
 
     // Animador y cuerpo cinemático con la rotación en Z congelada
     Animator anim;
@@ -44,7 +34,7 @@ public class Enemy : MonoBehaviour {
     void Update () {
 
         // Por defecto nuestro target siempre será nuestra posición inicial
-        target = initialPosition;
+        Vector3 target = initialPosition;
 
         // Comprobamos un Raycast del enemigo hasta el jugador
         RaycastHit2D hit = Physics2D.Raycast(
@@ -78,9 +68,6 @@ public class Enemy : MonoBehaviour {
             anim.SetFloat("movX", dir.x);
             anim.SetFloat("movY", dir.y);
             anim.Play("Enemy_Walk", -1, 0);  // Congela la animación de andar
-
-            ///-- Empezamos a atacar (importante una Layer en ataque para evitar Raycast)
-            if (!attacking) StartCoroutine(Attack(attackSpeed));
         }
         // En caso contrario nos movemos hacia él
         else {
@@ -94,7 +81,7 @@ public class Enemy : MonoBehaviour {
         }
 
         // Una última comprobación para evitar bugs forzando la posición inicial
-        if (target == initialPosition && distance < 0.05f){
+        if (target == initialPosition && distance < 0.02f){
             transform.position = initialPosition; 
             // Y cambiamos la animación de nuevo a Idle
             anim.SetBool("walking", false);
@@ -111,17 +98,6 @@ public class Enemy : MonoBehaviour {
         Gizmos.DrawWireSphere(transform.position, visionRadius);
         Gizmos.DrawWireSphere(transform.position, attackRadius);
 
-    }
-
-    IEnumerator Attack(float seconds){
-        attacking = true;  // Activamos la bandera
-        // Si tenemos objetivo y el prefab es correcto creamos la roca
-        if (target != initialPosition && rockPrefab != null) {
-            Instantiate(rockPrefab, transform.position, transform.rotation);
-            // Esperamos los segundos de turno antes de hacer otro ataque
-            yield return new WaitForSeconds(seconds);
-        }
-        attacking = false; // Desactivamos la bandera
     }
 
 }
