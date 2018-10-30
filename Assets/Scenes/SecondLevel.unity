@@ -477,6 +477,7 @@ MonoBehaviour:
   TextThatAppearsWhenInteracted: {fileID: 0}
   fog: {fileID: 2042666415}
   itemSound: {fileID: 0}
+  sceneName: 
   turnoDelDialogo: 0
 --- !u!114 &59115700
 MonoBehaviour:
@@ -1042,7 +1043,7 @@ Prefab:
         type: 2}
       propertyPath: puzzleDoor
       value: 
-      objectReference: {fileID: 76690385}
+      objectReference: {fileID: 1227544326}
     - target: {fileID: 114138489842178904, guid: 5e702ef3575ddbc44a9d3e489b314955,
         type: 2}
       propertyPath: puzzlePieces.Array.data[0]
@@ -1371,6 +1372,7 @@ MonoBehaviour:
   TextThatAppearsWhenInteracted: {fileID: 0}
   fog: {fileID: 2042666415}
   itemSound: {fileID: 0}
+  sceneName: 
   turnoDelDialogo: 0
 --- !u!114 &185777665
 MonoBehaviour:
@@ -1481,6 +1483,7 @@ MonoBehaviour:
   TextThatAppearsWhenInteracted: {fileID: 0}
   fog: {fileID: 0}
   itemSound: {fileID: 0}
+  sceneName: 
   turnoDelDialogo: 0
 --- !u!114 &201325064
 MonoBehaviour:
@@ -2258,6 +2261,7 @@ MonoBehaviour:
   TextThatAppearsWhenInteracted: {fileID: 0}
   fog: {fileID: 0}
   itemSound: {fileID: 0}
+  sceneName: 
   turnoDelDialogo: 0
 --- !u!114 &314233327
 MonoBehaviour:
@@ -2597,8 +2601,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 348501798}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -25.67, y: 10.18, z: 0}
-  m_LocalScale: {x: 0.18031883, y: 1.1848842, z: 1.2017}
+  m_LocalPosition: {x: -25.67, y: 10.52, z: 0}
+  m_LocalScale: {x: 0.18031883, y: 1.7773263, z: 1.2017}
   m_Children: []
   m_Father: {fileID: 1804156499}
   m_RootOrder: 51
@@ -2826,6 +2830,7 @@ MonoBehaviour:
   TextThatAppearsWhenInteracted: {fileID: 0}
   fog: {fileID: 2042666415}
   itemSound: {fileID: 0}
+  sceneName: 
   turnoDelDialogo: 0
 --- !u!114 &362565667
 MonoBehaviour:
@@ -3273,6 +3278,7 @@ MonoBehaviour:
   TextThatAppearsWhenInteracted: {fileID: 0}
   fog: {fileID: 2042666415}
   itemSound: {fileID: 0}
+  sceneName: 
   turnoDelDialogo: 0
 --- !u!114 &420567608
 MonoBehaviour:
@@ -5090,6 +5096,7 @@ MonoBehaviour:
   TextThatAppearsWhenInteracted: {fileID: 0}
   fog: {fileID: 0}
   itemSound: {fileID: 0}
+  sceneName: 
   turnoDelDialogo: 0
 --- !u!114 &808926789
 MonoBehaviour:
@@ -5643,6 +5650,7 @@ MonoBehaviour:
   TextThatAppearsWhenInteracted: {fileID: 0}
   fog: {fileID: 0}
   itemSound: {fileID: 0}
+  sceneName: 
   turnoDelDialogo: 0
 --- !u!114 &954398635
 MonoBehaviour:
@@ -6912,6 +6920,7 @@ MonoBehaviour:
   TextThatAppearsWhenInteracted: {fileID: 0}
   fog: {fileID: 2042666415}
   itemSound: {fileID: 0}
+  sceneName: 
   turnoDelDialogo: 0
 --- !u!114 &1212019151
 MonoBehaviour:
@@ -7076,6 +7085,7 @@ MonoBehaviour:
   TextThatAppearsWhenInteracted: {fileID: 0}
   fog: {fileID: 2042666415}
   itemSound: {fileID: 0}
+  sceneName: 
   turnoDelDialogo: 0
 --- !u!114 &1224302635
 MonoBehaviour:
@@ -7130,6 +7140,7 @@ GameObject:
   - component: {fileID: 1227544330}
   - component: {fileID: 1227544329}
   - component: {fileID: 1227544328}
+  - component: {fileID: 1227544332}
   m_Layer: 0
   m_Name: DetecterIn
   m_TagString: Untagged
@@ -7158,7 +7169,7 @@ MonoBehaviour:
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1227544326}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 77930ea831d6d5d40bad87c9f8342e3d, type: 3}
   m_Name: 
@@ -7175,7 +7186,7 @@ MonoBehaviour:
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1227544326}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5cc9bd933492e004e91188bf3f589f99, type: 3}
   m_Name: 
@@ -7186,6 +7197,7 @@ MonoBehaviour:
   TextThatAppearsWhenInteracted: {fileID: 0}
   fog: {fileID: 0}
   itemSound: {fileID: 0}
+  sceneName: Puzzle2
   turnoDelDialogo: 0
 --- !u!114 &1227544330
 MonoBehaviour:
@@ -7227,6 +7239,17 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.51, y: 0.78}
   m_EdgeRadius: 0
+--- !u!114 &1227544332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1227544326}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed92171809ebf514cb85dac61e6a9a3d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1230167671
 GameObject:
   m_ObjectHideFlags: 0
@@ -9118,13 +9141,13 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1573629399}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -24.04, y: 10.81, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0.05826614, w: 0.9983011}
+  m_LocalPosition: {x: -24.02, y: 10.95, z: 0}
   m_LocalScale: {x: 3.5108864, y: 0.23154, z: 1.2166}
   m_Children: []
   m_Father: {fileID: 1804156499}
   m_RootOrder: 5
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -6.681}
 --- !u!61 &1573629401
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10380,6 +10403,7 @@ MonoBehaviour:
   TextThatAppearsWhenInteracted: {fileID: 0}
   fog: {fileID: 0}
   itemSound: {fileID: 0}
+  sceneName: 
   turnoDelDialogo: 0
 --- !u!114 &1691999760
 MonoBehaviour:
@@ -10544,6 +10568,7 @@ MonoBehaviour:
   TextThatAppearsWhenInteracted: {fileID: 0}
   fog: {fileID: 2042666415}
   itemSound: {fileID: 0}
+  sceneName: 
   turnoDelDialogo: 0
 --- !u!114 &1699838458
 MonoBehaviour:
@@ -11214,6 +11239,7 @@ MonoBehaviour:
   TextThatAppearsWhenInteracted: {fileID: 0}
   fog: {fileID: 0}
   itemSound: {fileID: 0}
+  sceneName: 
   turnoDelDialogo: 0
 --- !u!114 &1837293923
 MonoBehaviour:
@@ -12755,6 +12781,7 @@ MonoBehaviour:
   TextThatAppearsWhenInteracted: {fileID: 0}
   fog: {fileID: 2042666415}
   itemSound: {fileID: 0}
+  sceneName: 
   turnoDelDialogo: 0
 --- !u!114 &2089371135
 MonoBehaviour:
@@ -13258,6 +13285,7 @@ MonoBehaviour:
   TextThatAppearsWhenInteracted: {fileID: 0}
   fog: {fileID: 0}
   itemSound: {fileID: 0}
+  sceneName: 
   turnoDelDialogo: 0
 --- !u!114 &2138237465
 MonoBehaviour:

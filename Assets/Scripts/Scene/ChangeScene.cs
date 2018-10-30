@@ -12,7 +12,7 @@ public class ChangeScene : MonoBehaviour {
 	public void CambioDeScena  (string NombreDeScena) {
        // SceneManager.LoadScene("menu");
 		Pause = !Pause;
-		Time.timeScale = (Pause) ? 1.00f : 0.00f;
+		//Time.timeScale = (Pause) ? 1.00f : 0.00f;
 		if (Pause == false)
 		{
 			if (NombreDeScena == "BossZone1") {
@@ -28,7 +28,9 @@ public class ChangeScene : MonoBehaviour {
 
 			} else {
 				SceneManager.LoadScene (NombreDeScena, LoadSceneMode.Additive);
+				if(NombreDeScena=="Generator"){Time.timeScale = (Pause) ? 1.00f : 0.00f;
 			}
+		}
 		}
 		Pause = true;
     }

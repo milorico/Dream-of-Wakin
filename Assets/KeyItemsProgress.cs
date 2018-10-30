@@ -19,6 +19,7 @@ public class KeyItemsProgress : MonoBehaviour {
     public GameObject Bridge;
     public GameObject BigDoor;
 	public GameObject BossEnabler;
+	//public GameObject puzzleDoor;
 	Scene m_Scene;
 	bool levelOneFinished;
 	public GameObject [] puzzlePieces = new GameObject[8];
@@ -76,15 +77,16 @@ public class KeyItemsProgress : MonoBehaviour {
 		if (levelOneFinished==true) {
 			m_Scene = SceneManager.GetActiveScene ();
 			if (m_Scene.name == "SecondLevel") {
-				
-			
+				if(piecesPicked==8){	
+					puzzleDoor.GetComponent<CloseEnoughtToInteract>().enabled =true;
+					if(GameObject.Find("Main Camera 2")!=null){
+					puzzleDoor.GetComponent<DoorsInteractive>().enabled = true;
+				 }
+				}
 				CountPieces (0);
 				print (piecesPicked);
 			}
 		}
-        //if (levelOneFinished == true && levelTwoFinished == true)
-       // { Esto esta comentado para que el if actue directo
-         //   m_Scene = SceneManager.GetActiveScene();
             if (m_Scene.name == "ThirdLevel")
             {
                 if (secondRoomKey.CheckItemIsPicked() && secondRoomKey != null)
