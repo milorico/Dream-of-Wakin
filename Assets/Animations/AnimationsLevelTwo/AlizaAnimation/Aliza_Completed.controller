@@ -375,7 +375,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Argos_IddleBack
+  m_Name: Aliza_IddleBack
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -391,7 +391,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: bbc468ae71a209841a48841b816ca3a0, type: 2}
+  m_Motion: {fileID: 7400000, guid: 3483da64539ac1d40a6e8ed161cfe901, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -403,7 +403,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Argos_Hurt
+  m_Name: Aliza_Hurt
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -417,7 +417,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 90fe00d431147b54a936dce9d432a5d4, type: 2}
+  m_Motion: {fileID: 7400000, guid: e0e57f11adbfac44a938a8f0f3a9fd45, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -429,7 +429,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Argos_AttackingBack
+  m_Name: Aliza_AttackingBack
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -443,7 +443,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 1a853504b0481d248b1d45e0353c6720, type: 2}
+  m_Motion: {fileID: 7400000, guid: 70f17090f22b46842aa86033799c26b8, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -455,7 +455,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Argos_Iddle
+  m_Name: Aliza_Iddle
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -470,7 +470,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: b58918fa79b55b44ebfdf8943baf6b39, type: 2}
+  m_Motion: {fileID: 7400000, guid: 2a82890df97c51e49b14c97e4e5006e6, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -482,7 +482,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Argos_HurtBack
+  m_Name: Aliza_HurtBack
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -496,7 +496,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 9c1f245cd8ab43443b5b862c7ee23806, type: 2}
+  m_Motion: {fileID: 7400000, guid: 3cf1abbe42b56d140ac6485320c407c7, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -508,7 +508,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Argos_Attacking
+  m_Name: Aliza_Attacking
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -522,7 +522,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 1497e8d77edc00b4995e60f0a148b74e, type: 2}
+  m_Motion: {fileID: 7400000, guid: b057f886f95ea174fbe603b1523b3930, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 

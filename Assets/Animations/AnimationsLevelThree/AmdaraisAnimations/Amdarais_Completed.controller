@@ -375,7 +375,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Argos_IddleBack
+  m_Name: Amdarais_IddleBack
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -391,7 +391,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: bbc468ae71a209841a48841b816ca3a0, type: 2}
+  m_Motion: {fileID: 7400000, guid: 4893758f684458b4693ffbcb4d382e49, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -403,7 +403,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Argos_Hurt
+  m_Name: Amdarais_Hurt
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -417,7 +417,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 90fe00d431147b54a936dce9d432a5d4, type: 2}
+  m_Motion: {fileID: 7400000, guid: 1a288385eed6d72449a1f16a14ba035e, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -429,7 +429,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Argos_AttackingBack
+  m_Name: Amdarais_AttackingBack
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -443,7 +443,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 1a853504b0481d248b1d45e0353c6720, type: 2}
+  m_Motion: {fileID: 7400000, guid: 6868e77e4a497014cafff33ca7c1af8c, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -455,7 +455,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Argos_Iddle
+  m_Name: Amdarais_Iddle
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -466,13 +466,13 @@ AnimatorState:
   m_IKOnFeet: 0
   m_WriteDefaultValues: 1
   m_Mirror: 0
-  m_SpeedParameterActive: 0
+  m_SpeedParameterActive: 1
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: b58918fa79b55b44ebfdf8943baf6b39, type: 2}
+  m_Motion: {fileID: 7400000, guid: 79896b9b19b428d4688d0c8535d45799, type: 2}
   m_Tag: 
-  m_SpeedParameter: 
+  m_SpeedParameter: PlayerDifferenceX
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
@@ -482,7 +482,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Argos_HurtBack
+  m_Name: Amdarais_HurtBack
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -496,7 +496,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 9c1f245cd8ab43443b5b862c7ee23806, type: 2}
+  m_Motion: {fileID: 7400000, guid: cc87c2e0ac8484a4c88e28a087052aea, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -508,7 +508,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Argos_Attacking
+  m_Name: Amdarais_Attacking
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -522,7 +522,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 1497e8d77edc00b4995e60f0a148b74e, type: 2}
+  m_Motion: {fileID: 7400000, guid: d9595b08e3bc7d949918c074367e2792, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 

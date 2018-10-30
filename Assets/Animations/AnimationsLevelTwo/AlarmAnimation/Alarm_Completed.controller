@@ -375,7 +375,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Argos_IddleBack
+  m_Name: Alarm_IddleBack
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -391,7 +391,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: bbc468ae71a209841a48841b816ca3a0, type: 2}
+  m_Motion: {fileID: 7400000, guid: 66e6bec8d4d23c746af798bddf37cec6, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -403,7 +403,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Argos_Hurt
+  m_Name: Alarm_Hurt
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -417,7 +417,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 90fe00d431147b54a936dce9d432a5d4, type: 2}
+  m_Motion: {fileID: 7400000, guid: 8a901d32761faed46b9f086100524a21, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -429,7 +429,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Argos_AttackingBack
+  m_Name: Alarm_AttackingBack
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -443,7 +443,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 1a853504b0481d248b1d45e0353c6720, type: 2}
+  m_Motion: {fileID: 7400000, guid: 8073a30a24eff1d4b84903c1177156de, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -455,7 +455,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Argos_Iddle
+  m_Name: Alarm_Iddle
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -470,7 +470,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: b58918fa79b55b44ebfdf8943baf6b39, type: 2}
+  m_Motion: {fileID: 7400000, guid: 2f41407c204e52345a947cd2d60c83f9, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -482,7 +482,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Argos_HurtBack
+  m_Name: Alarm_HurtBack
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -496,7 +496,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 9c1f245cd8ab43443b5b862c7ee23806, type: 2}
+  m_Motion: {fileID: 7400000, guid: bec785cfa4a95324f86bc2d957c05576, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -508,7 +508,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Argos_Attacking
+  m_Name: Alarm_Attacking
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -522,7 +522,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 1497e8d77edc00b4995e60f0a148b74e, type: 2}
+  m_Motion: {fileID: 7400000, guid: 0ec7f0e52c2a91b4aac799399367786f, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
