@@ -11,6 +11,8 @@ TagManager:
   - EnemyCollider
   - FrontFacingD
   - EnemyFollower
+  - Scenery
+  - Atras
   layers:
   - Default
   - TransparentFX
@@ -56,4 +58,10 @@ TagManager:
     locked: 0
   - name: UI
     uniqueID: 2135835173
+    locked: 0
+  - name: Player
+    uniqueID: 1590679249
+    locked: 0
+  - name: New Layer
+    uniqueID: 3826667481
     locked: 0

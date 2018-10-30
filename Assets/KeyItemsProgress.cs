@@ -14,6 +14,9 @@ public class KeyItemsProgress : MonoBehaviour {
     public GameObject EnemyJail;
     public GameObject EnemyJail2;
     public GameObject Jail;
+    public GameObject SubBoss;
+    public GameObject Eliminated;
+    public GameObject Bridge;
     public GameObject BigDoor;
 	public GameObject BossEnabler;
 	Scene m_Scene;
@@ -91,6 +94,11 @@ public class KeyItemsProgress : MonoBehaviour {
             if (EnemyJail == null && EnemyJail2 == null)
             {
                 Destroy(Jail);
+            }
+            if (SubBoss == null)
+            {
+                Destroy(Eliminated);
+                Bridge.SetActive(true);
             }
         }
        // }
