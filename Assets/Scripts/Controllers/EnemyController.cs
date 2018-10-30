@@ -7,7 +7,7 @@ public class EnemyController : MonoBehaviour {
 	public float enemyLife=600;
 	public float enemyDamage= 26;
 
-	private float m_MaxSpeed = 3f;            
+	public float m_MaxSpeed = 3f;            
 	private Animator m_Anim;            // Reference to the player's animator component.
 	private Rigidbody2D m_Rigidbody2D;
 	private GameObject player;
@@ -107,7 +107,7 @@ public class EnemyController : MonoBehaviour {
 		if(followPlayer == true){
 		m_Anim.SetTrigger ("Attaking");
 		transform.position = Vector2.MoveTowards (new Vector2 (transform.position.x,
-			transform.position.y), attackPosition, 3f * Time.deltaTime);
+			transform.position.y), attackPosition, m_MaxSpeed * Time.deltaTime);
 		if (transform.position.x==attackPosition.x || i>150) {
 			atacar = false;
 			i = 0;
@@ -119,7 +119,7 @@ public class EnemyController : MonoBehaviour {
 		m_Anim.SetTrigger ("Attaking");
 		attackRange.SetActive(true);
 		attackRange.transform.position = Vector2.MoveTowards (new Vector2 (attackRange.transform.position.x,
-			attackRange.transform.position.y), attackPosition, 11f * Time.deltaTime);
+			attackRange.transform.position.y), attackPosition, 12f * Time.deltaTime);
 		if (transform.position.x==attackPosition.x || i>150) {
 			atacar = false;
 			attackRange.SetActive(false);
