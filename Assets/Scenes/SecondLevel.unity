@@ -640,7 +640,7 @@ GameObject:
   - component: {fileID: 76690390}
   m_Layer: 0
   m_Name: FrontFacingD
-  m_TagString: FrontFacingD
+  m_TagString: FFDpuzzle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -757,8 +757,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2e93c6016b885248921e53dd2e5c275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inD: {fileID: 0}
-  outD: {fileID: 0}
+  inD: {fileID: 1227544328}
+  outD: {fileID: 420567606}
 --- !u!1 &79283842
 GameObject:
   m_ObjectHideFlags: 0
@@ -2569,7 +2569,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1748752748034118, guid: 9ab1c8bbd634dcf479faeec120b1869f, type: 2}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9ab1c8bbd634dcf479faeec120b1869f, type: 2}
