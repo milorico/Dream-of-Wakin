@@ -10,9 +10,12 @@ public class ShowTextInCollider : MonoBehaviour {
    
     void Start()
     {
-        TextThatAppearsWhenInteracted.SetActive(false);
+		if (TextThatAppearsWhenInteracted != null) {
+			
+		
+			TextThatAppearsWhenInteracted.SetActive (false);
         
-
+		}
     }
 
     // Update is called once per frame
@@ -34,7 +37,7 @@ public class ShowTextInCollider : MonoBehaviour {
     {
         if (other.name == target.name)
         {
-            TextThatAppearsWhenInteracted.SetActive(false);
+			hideText ();
         }
     }
     private void EnableText(Collider2D other)
@@ -42,9 +45,19 @@ public class ShowTextInCollider : MonoBehaviour {
         if (other.name == target.name)
         {
 
-
-                TextThatAppearsWhenInteracted.SetActive(true);
+			showText ();
+       
            
         }
     }
+	private void showText(){
+		if (TextThatAppearsWhenInteracted != null) {
+			TextThatAppearsWhenInteracted.SetActive (true);
+		}
+	}
+	private void hideText(){
+		if (TextThatAppearsWhenInteracted != null) {
+			TextThatAppearsWhenInteracted.SetActive (false);	
+		}
+	}
 }

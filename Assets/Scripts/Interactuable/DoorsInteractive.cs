@@ -9,36 +9,58 @@ public class DoorsInteractive : MonoBehaviour {
     bool Pause = true;
     public GameObject fog;
     int turnoDelDialogo = 0;
-
+	bool interactuable=false;
+	public SpriteRenderer playerR;
+	public InvertLayer invL;
     void Start()
     {
+		playerR = target.GetComponent<SpriteRenderer> ();
 
     }
 
-
+	void Update()
+	{
+		if (interactuable==true&& target!=null) {
+			EnableTeleport ();
+		}
+	}
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-
-        EnableText(other);
+		if (other.name==target.name) {
+		interactuable = true;
+        //EnableTeleport(other);
+		}
     }
     private void OnTriggerStay2D(Collider2D other)
     {
-        EnableText(other);
+     //   EnableText(other);
 
     }
+	private void OnTriggerExit2D(Collider2D other)
+	{
+		if (other.name == target.name) {
+			
+			interactuable = false;
+		}
+	}
 
-    private void EnableText(Collider2D other)
+    private void EnableTeleport()
     {
-        if (other.name == target.name)
-        {
+   
 
-            if (Input.GetKeyDown("k"))
-            {
-                StartCoroutine(WaitForTransition(1f));
-                target.transform.position = pos.position;
-            }
-        }
+		if (Input.GetKeyDown ("k")) {
+			StartCoroutine (WaitForTransition (0.5f));
+			if (invL != null) {
+				if (invL.gameObject.tag == "FrontFacingD") {
+					invL.Invert (playerR,this.gameObject); 
+				}
+			}
+				target.transform.position = pos.position;
+
+			
+		}
+        
     }
     private IEnumerator WaitForTransition(float waitTime)
     {

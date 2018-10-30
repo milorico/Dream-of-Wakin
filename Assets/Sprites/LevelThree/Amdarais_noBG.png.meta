@@ -1,10 +1,175 @@
 fileFormatVersion: 2
 guid: 10c5d3bce9c0e864c803048c33a2ec21
-timeCreated: 1538144960
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
-  serializedVersion: 4
+  fileIDToRecycleName:
+    21300000: Amdarais_noBG_0
+    21300002: Amdarais_noBG_1
+    21300004: Amdarais_noBG_2
+    21300006: Amdarais_noBG_3
+    21300008: Amdarais_noBG_4
+    21300010: Amdarais_noBG_5
+    21300012: Amdarais_noBG_6
+    21300014: Amdarais_noBG_7
+    21300016: Amdarais_noBG_8
+    21300018: Amdarais_noBG_9
+    21300020: Amdarais_noBG_10
+    21300022: Amdarais_noBG_11
+    21300024: Amdarais_noBG_12
+    21300026: Amdarais_noBG_13
+    21300028: Amdarais_noBG_14
+    21300030: Amdarais_noBG_15
+    21300032: Amdarais_noBG_16
+    21300034: Amdarais_noBG_17
+    21300036: Amdarais_noBG_18
+    21300038: Amdarais_noBG_19
+    21300040: Amdarais_noBG_20
+    21300042: Amdarais_noBG_21
+    21300044: Amdarais_noBG_22
+    21300046: Amdarais_noBG_23
+    21300048: Amdarais_noBG_24
+    21300050: Amdarais_noBG_25
+    21300052: Amdarais_noBG_26
+    21300054: Amdarais_noBG_27
+    21300056: Amdarais_noBG_28
+    21300058: Amdarais_noBG_29
+    21300060: Amdarais_noBG_30
+    21300062: Amdarais_noBG_31
+    21300064: Amdarais_noBG_32
+    21300066: Amdarais_noBG_33
+    21300068: Amdarais_noBG_34
+    21300070: Amdarais_noBG_35
+    21300072: Amdarais_noBG_36
+    21300074: Amdarais_noBG_37
+    21300076: Amdarais_noBG_38
+    21300078: Amdarais_noBG_39
+    21300080: Amdarais_noBG_40
+    21300082: Amdarais_noBG_41
+    21300084: Amdarais_noBG_42
+    21300086: Amdarais_noBG_43
+    21300088: Amdarais_noBG_44
+    21300090: Amdarais_noBG_45
+    21300092: Amdarais_noBG_46
+    21300094: Amdarais_noBG_47
+    21300096: Amdarais_noBG_48
+    21300098: Amdarais_noBG_49
+    21300100: Amdarais_noBG_50
+    21300102: Amdarais_noBG_51
+    21300104: Amdarais_noBG_52
+    21300106: Amdarais_noBG_53
+    21300108: Amdarais_noBG_54
+    21300110: Amdarais_noBG_55
+    21300112: Amdarais_noBG_56
+    21300114: Amdarais_noBG_57
+    21300116: Amdarais_noBG_58
+    21300118: Amdarais_noBG_59
+    21300120: Amdarais_noBG_60
+    21300122: Amdarais_noBG_61
+    21300124: Amdarais_noBG_62
+    21300126: Amdarais_noBG_63
+    21300128: Amdarais_noBG_64
+    21300130: Amdarais_noBG_65
+    21300132: Amdarais_noBG_66
+    21300134: Amdarais_noBG_67
+    21300136: Amdarais_noBG_68
+    21300138: Amdarais_noBG_69
+    21300140: Amdarais_noBG_70
+    21300142: Amdarais_noBG_71
+    21300144: Amdarais_noBG_72
+    21300146: Amdarais_noBG_73
+    21300148: Amdarais_noBG_74
+    21300150: Amdarais_noBG_75
+    21300152: Amdarais_noBG_76
+    21300154: Amdarais_noBG_77
+    21300156: Amdarais_noBG_78
+    21300158: Amdarais_noBG_79
+    21300160: Amdarais_noBG_80
+    21300162: Amdarais_noBG_81
+    21300164: Amdarais_noBG_82
+    21300166: Amdarais_noBG_83
+    21300168: Amdarais_noBG_84
+    21300170: Amdarais_noBG_85
+    21300172: Amdarais_noBG_86
+    21300174: Amdarais_noBG_87
+    21300176: Amdarais_noBG_88
+    21300178: Amdarais_noBG_89
+    21300180: Amdarais_noBG_90
+    21300182: Amdarais_noBG_91
+    21300184: Amdarais_noBG_92
+    21300186: Amdarais_noBG_93
+    21300188: Amdarais_noBG_94
+    21300190: Amdarais_noBG_95
+    21300192: Amdarais_noBG_96
+    21300194: Amdarais_noBG_97
+    21300196: Amdarais_noBG_98
+    21300198: Amdarais_noBG_99
+    21300200: Amdarais_noBG_100
+    21300202: Amdarais_noBG_101
+    21300204: Amdarais_noBG_102
+    21300206: Amdarais_noBG_103
+    21300208: Amdarais_noBG_104
+    21300210: Amdarais_noBG_105
+    21300212: Amdarais_noBG_106
+    21300214: Amdarais_noBG_107
+    21300216: Amdarais_noBG_108
+    21300218: Amdarais_noBG_109
+    21300220: Amdarais_noBG_110
+    21300222: Amdarais_noBG_111
+    21300224: Amdarais_noBG_112
+    21300226: Amdarais_noBG_113
+    21300228: Amdarais_noBG_114
+    21300230: Amdarais_noBG_115
+    21300232: Amdarais_noBG_116
+    21300234: Amdarais_noBG_117
+    21300236: Amdarais_noBG_118
+    21300238: Amdarais_noBG_119
+    21300240: Amdarais_noBG_120
+    21300242: Amdarais_noBG_121
+    21300244: Amdarais_noBG_122
+    21300246: Amdarais_noBG_123
+    21300248: Amdarais_noBG_124
+    21300250: Amdarais_noBG_125
+    21300252: Amdarais_noBG_126
+    21300254: Amdarais_noBG_127
+    21300256: Amdarais_noBG_128
+    21300258: Amdarais_noBG_129
+    21300260: Amdarais_noBG_130
+    21300262: Amdarais_noBG_131
+    21300264: Amdarais_noBG_132
+    21300266: Amdarais_noBG_133
+    21300268: Amdarais_noBG_134
+    21300270: Amdarais_noBG_135
+    21300272: Amdarais_noBG_136
+    21300274: Amdarais_noBG_137
+    21300276: Amdarais_noBG_138
+    21300278: Amdarais_noBG_139
+    21300280: Amdarais_noBG_140
+    21300282: Amdarais_noBG_141
+    21300284: Amdarais_noBG_142
+    21300286: Amdarais_noBG_143
+    21300288: Amdarais_noBG_144
+    21300290: Amdarais_noBG_145
+    21300292: Amdarais_noBG_146
+    21300294: Amdarais_noBG_147
+    21300296: Amdarais_noBG_148
+    21300298: Amdarais_noBG_149
+    21300300: Amdarais_noBG_150
+    21300302: Amdarais_noBG_151
+    21300304: Amdarais_noBG_152
+    21300306: Amdarais_noBG_153
+    21300308: Amdarais_noBG_154
+    21300310: Amdarais_noBG_155
+    21300312: Amdarais_noBG_156
+    21300314: Amdarais_noBG_157
+    21300316: Amdarais_noBG_158
+    21300318: Amdarais_noBG_159
+    21300320: Amdarais_noBG_160
+    21300322: Amdarais_noBG_161
+    21300324: Amdarais_noBG_162
+    21300326: Amdarais_noBG_163
+    21300328: Amdarais_noBG_164
+    21300330: Amdarais_noBG_165
+  externalObjects: {}
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -22,6 +187,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -32,43 +199,3387 @@ TextureImporter:
     serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Amdarais_noBG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3043
+        width: 1800
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49db8cd2268721940b6a46bed82335ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 3045
+        width: 232
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a410b2871dcfed429efd45c229172ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_2
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 3046
+        width: 236
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee931ba08fc5e3d4a8f2e07ff13405a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_3
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 3047
+        width: 238
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f686edd61f6fc134291b453f4aabacec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_4
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 3046
+        width: 237
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5800d167056854c810b63045208c0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_5
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 3045
+        width: 234
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff948df072711d4b9a23e9dc29897c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2756
+        width: 204
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a2377d91656c0458d041bfa929d8e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2757
+        width: 204
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de73a49f84a74b468d1a4e4b9ea973e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_8
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2757
+        width: 204
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2727ab4b0bc11154987f1785976c06d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_9
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 2756
+        width: 207
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a1323b7a2e8834f9becceaa172e4f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_10
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 2757
+        width: 204
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bd37f74614e22409310ae25a9e972b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_11
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2757
+        width: 204
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2529b1b942a7e884d83e4293bdeedbe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2444
+        width: 234
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4270b8021c17994983c96999c458a99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_13
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2447
+        width: 250
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20430742e4f8ab47923a9786b3efc04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_14
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 2458
+        width: 271
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1c83261ae2c384eb794c3297a0a968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_15
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 2431
+        width: 186
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7da762db5bb734d87986f163271dd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_16
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 2431
+        width: 186
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c062b9dbd89eb34695444f0defefda1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_17
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 2431
+        width: 186
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934947ab92c7f6d43a29925cab539957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2158
+        width: 271
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5025ca291c1ce494484cf729b2f9546f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_19
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2146
+        width: 251
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5b5587caf959c45a08841c360c1178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_20
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2156
+        width: 207
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c034009acd83e4e8d16160bcbacd30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_21
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 2158
+        width: 204
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a299020636f64e4b9e8a1ed2fff542d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_22
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 2168
+        width: 220
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e97774cf73ece4f94aaff60b017c11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_23
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 2147
+        width: 168
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c131e1cd70a44b4cae0d56aa4f83d3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1845
+        width: 166
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef1f4e63064321458052017408e8671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_25
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1844
+        width: 166
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3086dfb46a7dc47b99dadfb586d9ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_26
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1858
+        width: 204
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fef58c88e450b489fcc161fdc9e1c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_27
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 2044
+        width: 74
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d545c3d7b49c6a34481d28aea598d0ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1868
+        width: 220
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be49d5208e9130b42b972049ca4d5550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_29
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1919
+        width: 82
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cbeb40cc94149489d9991faa1836cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_30
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1915
+        width: 107
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be18c2e79fac7c40bce3eac5b602447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_31
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1939
+        width: 211
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca185a3bcf9afc4a9afc3c626db67e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1541
+        width: 236
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7c21a908fb9d64ea89cf90daa7670f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_33
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1547
+        width: 265
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f976628a387bfb249856191ab422f098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_34
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1548
+        width: 270
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9197d5f127d6945984e7318239585c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_35
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1550
+        width: 271
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4107cba306cbb9e42a15f16a3fba70af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_36
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1542
+        width: 233
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b464e4868254f4cb8e9b12b7f7b96d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_37
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1541
+        width: 239
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b45448e42dc71c4b8e5428788a041ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1256
+        width: 204
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4143433f94a6a4b49ba64e64e426b4d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_39
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1249
+        width: 212
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87c2fff1fbd4244b8b0862457b090fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_40
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1247
+        width: 212
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840839a4ae16f014c9ba601a253846bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_41
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1246
+        width: 204
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944a35b5592b0ff40b3eb2debfe5302e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_42
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1262
+        width: 230
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74bed011d40ab74ab031a061ee2e151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_43
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1257
+        width: 215
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a5ff46c9a0e7e42977900ae1b70737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_44
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 954
+        width: 272
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134ff5b0cf74a8b459edbb809f08eb8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_45
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 957
+        width: 274
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bfc36b647f4164fbe7dd1304e08e97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_46
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 954
+        width: 272
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88f748063ed48d448ff68dd118171fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_47
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 957
+        width: 274
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba756e59bdf6b7243bc80a0e40731fa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_48
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 954
+        width: 272
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb5cfa80f423754bb3fadbc434274de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_49
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 960
+        width: 201
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5105754d243bfde4fbfd07eb7b15dae2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_50
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 662
+        width: 199
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7800404cf97d1545bcb8e5cd066c786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_51
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 662
+        width: 201
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6365fd91cbff784eaa5f52897f96c69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_52
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 662
+        width: 199
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9342a415bb6dd4b937edcc6eb19da7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_53
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 662
+        width: 201
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017275e830ea71e4ca4ac099c3c61721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_54
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 641
+        width: 274
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3214ccc1ec9ddd946b693f77e35f0df0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_55
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 630
+        width: 260
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6a80ad218d54043b481d543c6fd47e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_56
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 719
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c603d41e0307645822fd4065a30a69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_57
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 356
+        width: 67
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2a5950919b612469a72f1100cfde2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_58
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 354
+        width: 31
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cafb11465784a4689ef974ecce3acf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_59
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 330
+        width: 59
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53321cf50a486542829f71fe938b183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_60
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 504
+        width: 7
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4975828a6f6590479551d19531b6df2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_61
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 555
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9756d263e9769404d8bd9da841e656d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_62
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 567
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdacb2fc74f2e9e44b4b7e1929f4f3da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_63
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 541
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359ba71a14a9c7a49b61a79532c7ce97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_64
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 335
+        width: 169
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8912deecdf719b347aa64052cc666565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_65
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 335
+        width: 90
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0964b3a6c00438c4eb12f6e837b4b10d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_66
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 530
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8c9b31894a3ff478fc11362d4faccb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_67
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 535
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91eb42c9f3c577498627939a8fc93fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_68
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 335
+        width: 64
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caeaf12230304d649836957788399e94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_69
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 464
+        width: 9
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1386eacef9c498743af9e53c867c27b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_70
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 348
+        width: 199
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad05b63416b5684195c3c5983778634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_71
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 448
+        width: 7
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98345b45b84156a478e91c171372f16d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_72
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 522
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8502f8562356cd541aff22a15e68576c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_73
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 507
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04e3f9d35d4caa41a8b92f0c2e75c22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_74
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 538
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113c5ffd9efc3dc48bee5f1cc6ec0fe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_75
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 433
+        width: 22
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07634fd1615232648986436478f4fa52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_76
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 512
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2622517b9ea96324dbd43eac242bc5fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_77
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 451
+        width: 12
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa9358230eb87e408c06d927c2c14a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_78
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 433
+        width: 10
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5d31b3b941a8f4fac32c715db5ce26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_79
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 518
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553ba572dbd77e849bcbcc074e4ec955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_80
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 504
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cfd86244867094cb2b10388f5983b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_81
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 509
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561822d9150c08a41a53a6154497f102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_82
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 344
+        width: 43
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28590f2cc52f9ea438ef3c7ec6e15d2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_83
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 511
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52874292f7976ba4c94039b1f3a50a5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_84
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 497
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d124a2477c570884b9428145a23e3c21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_85
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 372
+        width: 32
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5d06bdf847fd44ea749a7b4b5483f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_86
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 451
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecf04db740591146b85870c0a8e8501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_87
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 488
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28419919b22d6ba4c8b1f23d3d366e7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_88
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 480
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bfeadbcc8aecf4eaffbf0843830627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_89
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 488
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108c70cdbc14a00448f202f3c01daf3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_90
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 464
+        width: 5
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4440f78cbf4901149a697e1d3dba7b37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_91
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 478
+        width: 6
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccd7e42f8f1acf408190a9122e7552f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_92
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 367
+        width: 15
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932332d5db89be2429e70997917bb979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_93
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 480
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b0519e35af738469b44a1e92be19d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_94
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 451
+        width: 5
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88db8a5c12876d249b8355053320e489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_95
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 422
+        width: 9
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e534e477c94ffc24d8f41ad5759fb9ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_96
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 476
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d32d52b6cbc0c841ba7e7293905c16e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_97
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 428
+        width: 13
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7189392da2694f4418d3aaffab8bba87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_98
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 460
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07446faaff684e4692fb65348a14662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_99
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 451
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf04a1112857d224eab6758992297a63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_100
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 446
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcfdde45f1e6374d87abd65ef1d438a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_101
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 443
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bf1fda4941dbd4c9f6990f284073ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_102
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 441
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e25d52682870fb4f99c8f795eb2f7d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_103
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 473
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b9c9363ab8d964aaff318a76e82bf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_104
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 419
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9cae64b68523f49a21f7302620a59e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_105
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 426
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da82ba799ce3834da4b5b3a95d12dea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_106
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 430
+        width: 8
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3522c793b108896439dd242d21b42d20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_107
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 457
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f163dc542346044878b16c3dd25914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_108
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 444
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0df7d0c74c8c743b2bdecaf2711391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_109
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 414
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db231349752daaf44bebe6e61143ff7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_110
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 375
+        width: 12
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14f933ada401ef4f8eaf718fa172efa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_111
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 417
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faa5298398e0564bae5be600ae0b9ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_112
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 443
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0234788fe2d6b54429bb2eaafa213006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_113
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 449
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ab90e61b7d3a943a2957a162c988d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_114
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 422
+        width: 8
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8996819e21c339f4cad05537141b48b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_115
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 440
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c0dbbc5b45eed45a230a7a7e8fad9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_116
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 425
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90544f6ca1356e4181a75d0c309471c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_117
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 432
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462049cd69d039f4e9391713a6f1f93c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_118
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 418
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c509c96f54526b4ca2ab7544284bd8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_119
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 431
+        width: 4
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0265c8619c0e82747ba21b78a4c0ba32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_120
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 439
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42099d633eeee44e91d2059fc76ffb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_121
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 424
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4b0ad95c8e6f042a8c72db34c1a209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_122
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 418
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fa3535918f82d42a02ad4fdeda9a44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_123
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 432
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e17b4c6a2224e429a0e5951ef539b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_124
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 431
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ec3fb0b5ad74b43b6fca700d381822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_125
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 385
+        width: 7
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822c8f9b25807dd4db76444b747ce283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_126
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 402
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbf15cbb19f8ac44a49f6395a8682c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_127
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 431
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7ded486eaa0ac4a94e010bd49878a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_128
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 406
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba00fe40fef064c46a41d15c6b6f8fef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_129
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 393
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486a568dcf66bbc42838db026d6058dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_130
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 425
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04545f447e363e48b278b6ba8cd6c95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_131
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 364
+        width: 9
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8582d230416a69c48908f0e48d5ae863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_132
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 407
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d9c21647d07ad40bfe1902442fd9bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_133
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 414
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daeb0d3abaa50a84ca327d33fe70d15b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_134
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 417
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae07be2e3b1fda847abb5487bc67c099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_135
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 401
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7023c65ae021383468724e275b79ca28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_136
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 406
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf23ea61d33eca42a5cd4177f3c2b9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_137
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 372
+        width: 11
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee80279f7eb608489f783b314598131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_138
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 347
+        width: 20
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a185d175e5ae7468609f275559fdd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_139
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 377
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5778d885294c39445af4fc2ecc7862d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_140
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 376
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114933ed533e378469c5a9e69b45aae1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_141
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 380
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7687a30c4cb74714db9c3f1cc1a94fb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_142
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 364
+        width: 11
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de8baf379f870340a8931a79a1a47a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_143
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 346
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402fd8176a961f646b855030ac19fb96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_144
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 396
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24961de4a445f64e82f78da6ba884d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_145
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 399
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f0dabc95e94c24e95fee4e6583ac07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_146
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 380
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f54add7ed1b364082cb714e9e7bb45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_147
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 357
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59d3440155785e4da3f362b32fe628a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_148
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 359
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0442d99e72862478b288a5b3c5baa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_149
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 381
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3244ad7828e0a464d836acc6cc33db1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_150
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 378
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa16f0042ad25b4bb556ce90da08750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_151
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 380
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756e2c6a0e7fddf4d942b028c9189d2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_152
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 353
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96281271f5853a84e83e077fe5b2d85e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_153
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 353
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f900aef6ac11d341b463db4fceb1d62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_154
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 361
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801036763a15b5a4bb46bec3402785db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_155
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 362
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2840aea6fc88d448158fab7bbda00d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_156
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 356
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad68682f1dcc144a93f9f7e2ea40bbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_157
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 359
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe81d77cbe642f244a1f9f48f6d2ae72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_158
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 349
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ebbcedfe04acb40816faeda52bdf9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_159
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 348
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62a5ba0ae0462e44a2679032883d55a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_160
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 331
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6b8621886db7447abda14603842633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_161
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 343
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc3f4d73668a7840b15b0d61983acbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_162
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 338
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b3c4a8590638a46aae610ba43e189f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_163
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 343
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8655f48ca2733b48823d76b120fedf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_164
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 347
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc661a47cf8bb348a4da09d76417cf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amdarais_noBG_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1800
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dac398289d89745b5f2b27d900591c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
+    bones: []
+    spriteID: 83bdd4c5d77a31d478f762227100e2fd
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

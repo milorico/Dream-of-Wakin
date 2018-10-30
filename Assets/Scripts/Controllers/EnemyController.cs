@@ -5,9 +5,9 @@ using UnityStandardAssets.CrossPlatformInput;
 public class EnemyController : MonoBehaviour {
 
 	public float enemyLife=600;
+	public float enemyDamage= 26;
 
-
-	private float m_MaxSpeed = 3f;            
+	private float m_MaxSpeed = 1f;            
 	private Animator m_Anim;            // Reference to the player's animator component.
 	private Rigidbody2D m_Rigidbody2D;
 	private GameObject player;
@@ -38,10 +38,15 @@ public class EnemyController : MonoBehaviour {
 
 	// Update is called once per frame
 	void FixedUpdate () {
+		enemyDamage = enemyDamage;
 		if (enemyLife<=0) {
 			Destroy (this.gameObject);	
 		}
-		pPosition = new Vector2 (player.transform.position.x , player.transform.position.y);
+		if (player!=null) {
+			
+		
+			pPosition = new Vector2 (player.transform.position.x, player.transform.position.y);
+		}
 		if (esquivar == true) {
 		//	pPosition = new Vector2 (player.transform.position.x + EsquivarCentroX(), player.transform.position.y+EsquivarCentroY());
 		} else {

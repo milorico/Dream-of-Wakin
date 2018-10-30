@@ -5,9 +5,9 @@ using UnityStandardAssets.CrossPlatformInput;
 using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour {
+	public KeyItemsProgress keyItems;
 	public float playerLife=100;
 	public Text lifeT;
-
 	private float m_MaxSpeed = 3f;            
 	private Animator m_Anim;            // Reference to the player's animator component.
 	private Rigidbody2D m_Rigidbody2D;
@@ -106,8 +106,9 @@ public class PlayerController : MonoBehaviour {
 		float h = move2.transform.position.x - transform.position.x;
 		float j = move2.transform.position.y - transform.position.y;
 		m_Rigidbody2D.AddForce (new Vector2(-h*multipier,-j*multipier));
-		playerLife = playerLife - 13;
-		enemyCollider = enemyC.GetComponent<CapsuleCollider2D> ();
+		enemyC = move2.GetComponent<EnemyController> ();
+		playerLife = playerLife - enemyC.enemyDamage;
+		//enemyCollider = enemyC.GetComponent<CapsuleCollider2D> ();
 		
 		if (true) {
 		//	enemyCollider.isTrigger = true;

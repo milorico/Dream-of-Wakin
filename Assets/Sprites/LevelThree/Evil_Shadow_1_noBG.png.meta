@@ -1,0 +1,4236 @@
+fileFormatVersion: 2
+guid: 169434506b144e442a3c969d3efc08b6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Evil_Shadow_1_noBG_0
+    21300002: Evil_Shadow_1_noBG_1
+    21300004: Evil_Shadow_1_noBG_2
+    21300006: Evil_Shadow_1_noBG_3
+    21300008: Evil_Shadow_1_noBG_4
+    21300010: Evil_Shadow_1_noBG_5
+    21300012: Evil_Shadow_1_noBG_6
+    21300014: Evil_Shadow_1_noBG_7
+    21300016: Evil_Shadow_1_noBG_8
+    21300018: Evil_Shadow_1_noBG_9
+    21300020: Evil_Shadow_1_noBG_10
+    21300022: Evil_Shadow_1_noBG_11
+    21300024: Evil_Shadow_1_noBG_12
+    21300026: Evil_Shadow_1_noBG_13
+    21300028: Evil_Shadow_1_noBG_14
+    21300030: Evil_Shadow_1_noBG_15
+    21300032: Evil_Shadow_1_noBG_16
+    21300034: Evil_Shadow_1_noBG_17
+    21300036: Evil_Shadow_1_noBG_18
+    21300038: Evil_Shadow_1_noBG_19
+    21300040: Evil_Shadow_1_noBG_20
+    21300042: Evil_Shadow_1_noBG_21
+    21300044: Evil_Shadow_1_noBG_22
+    21300046: Evil_Shadow_1_noBG_23
+    21300048: Evil_Shadow_1_noBG_24
+    21300050: Evil_Shadow_1_noBG_25
+    21300052: Evil_Shadow_1_noBG_26
+    21300054: Evil_Shadow_1_noBG_27
+    21300056: Evil_Shadow_1_noBG_28
+    21300058: Evil_Shadow_1_noBG_29
+    21300060: Evil_Shadow_1_noBG_30
+    21300062: Evil_Shadow_1_noBG_31
+    21300064: Evil_Shadow_1_noBG_32
+    21300066: Evil_Shadow_1_noBG_33
+    21300068: Evil_Shadow_1_noBG_34
+    21300070: Evil_Shadow_1_noBG_35
+    21300072: Evil_Shadow_1_noBG_36
+    21300074: Evil_Shadow_1_noBG_37
+    21300076: Evil_Shadow_1_noBG_38
+    21300078: Evil_Shadow_1_noBG_39
+    21300080: Evil_Shadow_1_noBG_40
+    21300082: Evil_Shadow_1_noBG_41
+    21300084: Evil_Shadow_1_noBG_42
+    21300086: Evil_Shadow_1_noBG_43
+    21300088: Evil_Shadow_1_noBG_44
+    21300090: Evil_Shadow_1_noBG_45
+    21300092: Evil_Shadow_1_noBG_46
+    21300094: Evil_Shadow_1_noBG_47
+    21300096: Evil_Shadow_1_noBG_48
+    21300098: Evil_Shadow_1_noBG_49
+    21300100: Evil_Shadow_1_noBG_50
+    21300102: Evil_Shadow_1_noBG_51
+    21300104: Evil_Shadow_1_noBG_52
+    21300106: Evil_Shadow_1_noBG_53
+    21300108: Evil_Shadow_1_noBG_54
+    21300110: Evil_Shadow_1_noBG_55
+    21300112: Evil_Shadow_1_noBG_56
+    21300114: Evil_Shadow_1_noBG_57
+    21300116: Evil_Shadow_1_noBG_58
+    21300118: Evil_Shadow_1_noBG_59
+    21300120: Evil_Shadow_1_noBG_60
+    21300122: Evil_Shadow_1_noBG_61
+    21300124: Evil_Shadow_1_noBG_62
+    21300126: Evil_Shadow_1_noBG_63
+    21300128: Evil_Shadow_1_noBG_64
+    21300130: Evil_Shadow_1_noBG_65
+    21300132: Evil_Shadow_1_noBG_66
+    21300134: Evil_Shadow_1_noBG_67
+    21300136: Evil_Shadow_1_noBG_68
+    21300138: Evil_Shadow_1_noBG_69
+    21300140: Evil_Shadow_1_noBG_70
+    21300142: Evil_Shadow_1_noBG_71
+    21300144: Evil_Shadow_1_noBG_72
+    21300146: Evil_Shadow_1_noBG_73
+    21300148: Evil_Shadow_1_noBG_74
+    21300150: Evil_Shadow_1_noBG_75
+    21300152: Evil_Shadow_1_noBG_76
+    21300154: Evil_Shadow_1_noBG_77
+    21300156: Evil_Shadow_1_noBG_78
+    21300158: Evil_Shadow_1_noBG_79
+    21300160: Evil_Shadow_1_noBG_80
+    21300162: Evil_Shadow_1_noBG_81
+    21300164: Evil_Shadow_1_noBG_82
+    21300166: Evil_Shadow_1_noBG_83
+    21300168: Evil_Shadow_1_noBG_84
+    21300170: Evil_Shadow_1_noBG_85
+    21300172: Evil_Shadow_1_noBG_86
+    21300174: Evil_Shadow_1_noBG_87
+    21300176: Evil_Shadow_1_noBG_88
+    21300178: Evil_Shadow_1_noBG_89
+    21300180: Evil_Shadow_1_noBG_90
+    21300182: Evil_Shadow_1_noBG_91
+    21300184: Evil_Shadow_1_noBG_92
+    21300186: Evil_Shadow_1_noBG_93
+    21300188: Evil_Shadow_1_noBG_94
+    21300190: Evil_Shadow_1_noBG_95
+    21300192: Evil_Shadow_1_noBG_96
+    21300194: Evil_Shadow_1_noBG_97
+    21300196: Evil_Shadow_1_noBG_98
+    21300198: Evil_Shadow_1_noBG_99
+    21300200: Evil_Shadow_1_noBG_100
+    21300202: Evil_Shadow_1_noBG_101
+    21300204: Evil_Shadow_1_noBG_102
+    21300206: Evil_Shadow_1_noBG_103
+    21300208: Evil_Shadow_1_noBG_104
+    21300210: Evil_Shadow_1_noBG_105
+    21300212: Evil_Shadow_1_noBG_106
+    21300214: Evil_Shadow_1_noBG_107
+    21300216: Evil_Shadow_1_noBG_108
+    21300218: Evil_Shadow_1_noBG_109
+    21300220: Evil_Shadow_1_noBG_110
+    21300222: Evil_Shadow_1_noBG_111
+    21300224: Evil_Shadow_1_noBG_112
+    21300226: Evil_Shadow_1_noBG_113
+    21300228: Evil_Shadow_1_noBG_114
+    21300230: Evil_Shadow_1_noBG_115
+    21300232: Evil_Shadow_1_noBG_116
+    21300234: Evil_Shadow_1_noBG_117
+    21300236: Evil_Shadow_1_noBG_118
+    21300238: Evil_Shadow_1_noBG_119
+    21300240: Evil_Shadow_1_noBG_120
+    21300242: Evil_Shadow_1_noBG_121
+    21300244: Evil_Shadow_1_noBG_122
+    21300246: Evil_Shadow_1_noBG_123
+    21300248: Evil_Shadow_1_noBG_124
+    21300250: Evil_Shadow_1_noBG_125
+    21300252: Evil_Shadow_1_noBG_126
+    21300254: Evil_Shadow_1_noBG_127
+    21300256: Evil_Shadow_1_noBG_128
+    21300258: Evil_Shadow_1_noBG_129
+    21300260: Evil_Shadow_1_noBG_130
+    21300262: Evil_Shadow_1_noBG_131
+    21300264: Evil_Shadow_1_noBG_132
+    21300266: Evil_Shadow_1_noBG_133
+    21300268: Evil_Shadow_1_noBG_134
+    21300270: Evil_Shadow_1_noBG_135
+    21300272: Evil_Shadow_1_noBG_136
+    21300274: Evil_Shadow_1_noBG_137
+    21300276: Evil_Shadow_1_noBG_138
+    21300278: Evil_Shadow_1_noBG_139
+    21300280: Evil_Shadow_1_noBG_140
+    21300282: Evil_Shadow_1_noBG_141
+    21300284: Evil_Shadow_1_noBG_142
+    21300286: Evil_Shadow_1_noBG_143
+    21300288: Evil_Shadow_1_noBG_144
+    21300290: Evil_Shadow_1_noBG_145
+    21300292: Evil_Shadow_1_noBG_146
+    21300294: Evil_Shadow_1_noBG_147
+    21300296: Evil_Shadow_1_noBG_148
+    21300298: Evil_Shadow_1_noBG_149
+    21300300: Evil_Shadow_1_noBG_150
+    21300302: Evil_Shadow_1_noBG_151
+    21300304: Evil_Shadow_1_noBG_152
+    21300306: Evil_Shadow_1_noBG_153
+    21300308: Evil_Shadow_1_noBG_154
+    21300310: Evil_Shadow_1_noBG_155
+    21300312: Evil_Shadow_1_noBG_156
+    21300314: Evil_Shadow_1_noBG_157
+    21300316: Evil_Shadow_1_noBG_158
+    21300318: Evil_Shadow_1_noBG_159
+    21300320: Evil_Shadow_1_noBG_160
+    21300322: Evil_Shadow_1_noBG_161
+    21300324: Evil_Shadow_1_noBG_162
+    21300326: Evil_Shadow_1_noBG_163
+    21300328: Evil_Shadow_1_noBG_164
+    21300330: Evil_Shadow_1_noBG_165
+    21300332: Evil_Shadow_1_noBG_166
+    21300334: Evil_Shadow_1_noBG_167
+    21300336: Evil_Shadow_1_noBG_168
+    21300338: Evil_Shadow_1_noBG_169
+    21300340: Evil_Shadow_1_noBG_170
+    21300342: Evil_Shadow_1_noBG_171
+    21300344: Evil_Shadow_1_noBG_172
+    21300346: Evil_Shadow_1_noBG_173
+    21300348: Evil_Shadow_1_noBG_174
+    21300350: Evil_Shadow_1_noBG_175
+    21300352: Evil_Shadow_1_noBG_176
+    21300354: Evil_Shadow_1_noBG_177
+    21300356: Evil_Shadow_1_noBG_178
+    21300358: Evil_Shadow_1_noBG_179
+    21300360: Evil_Shadow_1_noBG_180
+    21300362: Evil_Shadow_1_noBG_181
+    21300364: Evil_Shadow_1_noBG_182
+    21300366: Evil_Shadow_1_noBG_183
+    21300368: Evil_Shadow_1_noBG_184
+    21300370: Evil_Shadow_1_noBG_185
+    21300372: Evil_Shadow_1_noBG_186
+    21300374: Evil_Shadow_1_noBG_187
+    21300376: Evil_Shadow_1_noBG_188
+    21300378: Evil_Shadow_1_noBG_189
+    21300380: Evil_Shadow_1_noBG_190
+    21300382: Evil_Shadow_1_noBG_191
+    21300384: Evil_Shadow_1_noBG_192
+    21300386: Evil_Shadow_1_noBG_193
+    21300388: Evil_Shadow_1_noBG_194
+    21300390: Evil_Shadow_1_noBG_195
+    21300392: Evil_Shadow_1_noBG_196
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1261
+        width: 64
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6187ab4856aed6046b98e087e1eb64ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1260
+        width: 68
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1d1c59ea441db4bb24d5fde66e3fd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1309
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629ac8498ad62ef4186aa88d1a9e4271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1259
+        width: 70
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fd316a362a48c42a2e6ee40f5e10c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1314
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1586c464f36f4d4ab999f8c4c094ff2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1260
+        width: 69
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1c76dcf8647c5478b82899f604caad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_6
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1261
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920709891e7c939409436f7065feb3bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_7
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1261
+        width: 61
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b078129cfa4623549b9b99e5baa9cd85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_8
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1286
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb99a9a127bde3d4d850df0b385ee42d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_9
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1301
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99213938d3320b4d8c860ebdf9e683c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_10
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1301
+        width: 72
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc197274bbbc6842864a2ea816d5e61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_11
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1301
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6109497666174746bf794250d720061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1302
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e658d9820fca404e96b13b6bf68b454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1302
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c175f7458be87d7479b8076acb21665a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1273
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7972c5c93da1c438230b8c02c8fd5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_15
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1279
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64385d85894688645af8f6f20690dcd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_16
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1249
+        width: 250
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d83869105676964fac852a5789c5465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1266
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954f47b1f0c8d14459be4a81274d7c47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_18
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1240
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c807b6c2de7b4b4bb4a2e11f3eaf4dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_19
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1201
+        width: 160
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e9391ee8955ce4a8ece7f217dfa938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1112
+        width: 62
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c871d94c8ce70f40965a907776adb0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_21
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1114
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bb630924e69984697d5dec73566ae2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_22
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1114
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b29fb1134a85c42868f10817605024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_23
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1114
+        width: 62
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c66b7a0aab60d498b7724ea2e376ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_24
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1114
+        width: 61
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390b06496ae98ed479f11ee3c854e7e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_25
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1114
+        width: 62
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b966b8116822684e86b17f52ca7e16a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_26
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1182
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fa5f80c0683c1479e30a24ebf7f938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_27
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1148
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03f07395f74bc94694f1215cf9138a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 965
+        width: 55
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa0fccdaa2d622428ff518e6ec7381f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_29
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 964
+        width: 77
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee582d190bfb324599e909f4854cd69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_30
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 965
+        width: 81
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa13c4da0a51604ca1b84b3d1268f08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_31
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 966
+        width: 55
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8d79752fb78604eb61b8fecad774ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 967
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a6516f99ebee14d98a3ee136156c64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_33
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 963
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e0fdb71fed15c41ae89a6c6482ef6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_34
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 965
+        width: 77
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcf4edc71d59ef4f95f7aabb967fa36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_35
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 965
+        width: 59
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91073ec991387a64bbcd2c626c0c4b29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_36
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 976
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e19272dba58524c9f820597bf8cd6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_37
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 942
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b125975f43a76e24e878caa3ba793b1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 817
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93317619e979c404e9307fa88b8099e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_39
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 813
+        width: 65
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabf7c56c9e84534aad8a9df0e4ef15d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 814
+        width: 67
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b20f1af59ea5614084b258a1d2d3f8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_41
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 817
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c125be5e720282e4c96d68c113a5c94e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_42
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 817
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a150c3fc6f0e3445b4318a6ed4faa82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_43
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 819
+        width: 71
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75da19314dc189143a7a390f501ffdcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_44
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 819
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe60ed49d5c4be41b2d358ab98d697c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_45
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 820
+        width: 57
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40657d08008e8949a9320f54c7a8af1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_46
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 907
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39642f0672df7db439927a35e10f0f01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_47
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 659
+        width: 55
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22265cdad93c7d849bd525ae9015b3e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_48
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 656
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b97067e580d604cbdbf512d25152be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_49
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 651
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3113b393a6568b40947a517370704e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_50
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 651
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34da9e6627471be4baa6c65a35cc3d8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_51
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 660
+        width: 74
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ac0165b4386fe4dac48ff8a76b3bd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_52
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 661
+        width: 77
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105a6872a2727624c904899485b453c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_53
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 661
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7b38ee1d97d5e43bdc777ddc750905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_54
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 707
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7e3d3a5ad7c1843a8fcf814f34c282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_55
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 699
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00802cf27ecb7f046adae5cbdf381163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_56
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 691
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920d62143833905468627f6808580c29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_57
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 678
+        width: 9
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51100c85eb728c94fbfa5fc8d348c259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_58
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 678
+        width: 7
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5314bdcdbc2295a499eb45ea8775189b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_59
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 656
+        width: 45
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713c16c026547b843a9d1b189d45e19c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_60
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 711
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cb6c57c751ef545acd23523a7b6b1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_61
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 704
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2553c7b60715b45ad5ca0e7081e7ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_62
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 695
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0354ea007cc98474e8ffe442a7a50f04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_63
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 686
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3a36b8924da274289a3749e484d6df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_64
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 673
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8be07ebe1da2114da1acad89d17597a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_65
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 630
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07fc8d788bf41843a3d7c236b182835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_66
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 499
+        width: 52
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c98a91a6adb2c844817325c45f023b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_67
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 498
+        width: 117
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d42caa7436fc754db8148128cd44e42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_68
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 494
+        width: 74
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0545e896596b4f448aca07fc6e830c5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_69
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 494
+        width: 73
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6e06f264bb01b4ebc6db841ed11de5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_70
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 501
+        width: 54
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a3b53477eb4394cb3d7d2d8a50b9b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_71
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 505
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a32f2c2202fb346ad102286784e82e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_72
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 507
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c0bb9301ca3b94f8545eb706f55415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_73
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 562
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfc853f2f70cce44bf36f1e5896bebd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_74
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 509
+        width: 44
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79418dda8bbd034c9971bf46bd9c9e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_75
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 542
+        width: 70
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5f11411600d9d4e83da5468ec919eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_76
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 569
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3298a41a60f7db478a16f378ef63f97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_77
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 530
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a70358df4790f45abc1786d007c1fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_78
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 533
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8fd9e36ccb07541bcfb72d6aff8f7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_79
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 535
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964742f27cf4f9f46aeb348c084788b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_80
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 536
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da003ff53c03b9f4aa305daaa97748fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 328
+        width: 64
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b255d833644ec0b4d932a47192c5faa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_82
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 329
+        width: 68
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26773c0735af3b7489ed199ef8f6e88f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_83
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 326
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd50e955401e0c4ca6ab05a84a4c0c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_84
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 326
+        width: 52
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f8093900304494cb5c14aefbd42444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_85
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 345
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ace50ab2d1666f41b3b060d92922410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_86
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 354
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3378cf169ed07d341b3760204edf001c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_87
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 415
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fdefa73d1d9264ba369b34dc6431b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_88
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 405
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efba2f6fbe093a94e862c0f942d0fffe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_89
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 410
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9162ab89fccb847a99792aa216f43d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_90
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 414
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7037581cd179a2d4d98842536db03423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_91
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 406
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc8e13200e9c924e8ac255e66a59d9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_92
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 410
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd008b04930649f4982d1a0a540ba5d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_93
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 412
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4f19349f096234ca51310dec841d0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_94
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 388
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc624c4fd464bd54c8b331453d7511b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_95
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 374
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca578125c9667d04ba977da3b44903fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_96
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 382
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5d3f6dcee324645b264ca9f8c786f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_97
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 380
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe08a2bb817f0440b85bf896f5d4f94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_98
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 385
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7ec781e4bdf584785e5c5b083e96f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_99
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 381
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af291ef9fc9af3d43add73029ef2f9cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_100
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 382
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b9bc9ff5d43464ebe0bce702fbd73a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_101
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 374
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f897c8a8d3c568f44bb442fcc4aefeaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_102
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 389
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701ddd96712fad04eac0c06eab854901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_103
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 376
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277932fbc771e2a4e96c922982c5c20f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_104
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 369
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b9338111dad38499911b4d2e5ec256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_105
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 383
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331134d8e5a6a4e48b551b2a4acde387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_106
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 374
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15217b0fa6ed76c44b4f1e11df1eb1e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_107
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 379
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec44e411914ed347b0ae9a4dc950123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_108
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 374
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d091f5aa2db994fb40cabaa5ff5935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_109
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 380
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78372b90a6bad548a294a31ba5241a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_110
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 382
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b2183873c58c141a5f62286f3dd619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_111
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 382
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b0507213c60bb42b6847b79cd5b1cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_112
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 384
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c58d89b3e95e1469db4f5f260b40c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_113
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 381
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199677d3d2dbbea40ad07450a2d088dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_114
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 347
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988e432b70b829d4f843b4c3adf5cec0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_115
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 367
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b1dab593f0f5b40b3b3500ac268752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_116
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 374
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9517a560e72f9f4e9c714e253ae39d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_117
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 378
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba9d24db87fb1f478e79925d82fe0a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_118
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 376
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4a3fb768736064e86ea618f0daf1d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_119
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 349
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b31e3c8f7b35ae4483958a3f46893a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_120
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 362
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985c872dc3dbc2a4c82da7518ba88ee8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_121
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 369
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9daa1ab87f8f943974428925e57926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_122
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 372
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ebdee0d269a894eb369e0e6d399049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_123
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 370
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee5d9e12f008ec46ad9c470c223e60b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_124
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 352
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3085245e1c018947bd550ca474cfc47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_125
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 363
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99412afaefe4557489553881a96e736d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_126
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 366
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a4c342c6660844d9d1d977f75121c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_127
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 366
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fee494385fe0c4f9c36c7da9611d8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_128
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 365
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72748d25bc80add49a4d7b45c2870278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_129
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 364
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2004a784d6805774bb703570095ea6e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_130
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 366
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b8be3bb18997f40a55629c6cfaedcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_131
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 351
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f1ffb29c8b8da41906d8cca6cbebae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_132
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 342
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7027986504351464282afb603a5bc16e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_133
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 328
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0aa09d3465b0441b3502198689077e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_134
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 332
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343f3ee0bc3d60143bf07bcfa5d6ea55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_135
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 337
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb7c623ab13e34449552c98093ef54b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_136
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 291
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d811114d056a1af46a37745fbf9a4859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_137
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 181
+        width: 62
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b46dafbe20dca844aaf8d6ecfa26aca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_138
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 181
+        width: 60
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a337db6c759f08643b132e9ea87104a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_139
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 181
+        width: 62
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6f75715eae91f479adb4871614a7f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_140
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 179
+        width: 45
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7140a34cd2393344c9bbddbc333bee0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_141
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 275
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23be4211acac5944af9c7aa5c88e9b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_142
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 269
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3565249637ed7f04aab45357b2bd20d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_143
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 278
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3088800baea38043b927a522dd8e102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_144
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 259
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5278368dc18cb3047835bb36d7bc141b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_145
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 272
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c68a15d108551a40b737889ef318fc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_146
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 272
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d82e4b936ba454ba564d4f54a6adee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_147
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 263
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06981acfdad7a24cb9aa38cb8ec77ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_148
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 258
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779557ace44f3f04fa685dac903646eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_149
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 239
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5245fc2b1bf8a4c8732cba283a45a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_150
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 198
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36226895e1db31744a6ed12efc535841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_151
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 260
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf5af622e98567428007031fb45dc5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_152
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 237
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796f4b3aaff9b7a4ab4cd2c65b65e1a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_153
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 259
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1b6b94256689448a8a858b20876ba9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_154
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 268
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc62417f1f3e8d41b398da2815b9aee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_155
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 245
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395b75747091d044597a10d66ed27e13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_156
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 212
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90684a1e55b656a43ad4341048945cd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_157
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 219
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08940282b1a2124c822788e04ec464b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_158
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 220
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb58320a4b353f4f95f90bf8c0cd1e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_159
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 235
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7967158015b47d545b427c47f5eeef8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_160
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 223
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174dc8372d4a2ca439c80f3cf7f8aca3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_161
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 229
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5d2711745ed4d49abdd56735069fb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_162
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 204
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bb2eba88c7cb94295846a57a88f270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_163
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 215
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb8f76d7d9a37e4ea288aa6706c1859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_164
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 225
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb85d4a1ddcd6f74db507f2c2d95035a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_165
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 230
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d46d125ab256ac48aa2fa2bcf976e3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_166
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 210
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eb563fb2e1717409b58c81213e2f37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_167
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 225
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270bf33c3509d6f4a8e01f0b37ce3a37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_168
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 226
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4bd302fb0e3a5449a1316a1552b8b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_169
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 229
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726561b39cf6d7c428f8bcc9afddca91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_170
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 229
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20b19fd40ac9e24bb2b42233ff16282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_171
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 187
+        width: 11
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8226b49941201428d64a3f433c5b43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_172
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 223
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db94b5879e7824345871c9249cbfc1df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_173
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 221
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250f03a8e3525344a8ba2bef41ca266a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_174
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 231
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e552469b22ee94295446b66429a9ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_175
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 225
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a8a578df38faf44a257e43fdb71100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_176
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 235
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29a1ba002ecba24d80610fd81e9d4f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_177
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 227
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c447a52b8d50e82438dccc6e839b7594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_178
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 235
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1080544c5e6004f438ff3baac8738482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_179
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 222
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfdb83e060317c41b4bdd9c0152ed61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_180
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 236
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415857644a2b35a43bbf3cd589341195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_181
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 225
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd77c9dfb6007845829e5f0418837db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_182
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 238
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb56300b6b0d2df498e44ab0190c6755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_183
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 231
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41c1affa80276741b55c8bb577e7bea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_184
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 239
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a722922b1c24c154c9d4fd5b488e4cbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_185
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 219
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e088e2013ead64419fe0f21ee3e60b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_186
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 219
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c1eb7a091cd2346b4ee52cc20fbdda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_187
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 221
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9352859db6e90cb429e0b8ba1836d48a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_188
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 219
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c72a08bac3d0384f96f10953d9e980e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_189
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 220
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f51e67e131c9c546aebd6d5487e53d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_190
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 204
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef668bc0e1dfa5e48a8d5124c28f0efd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_191
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 178
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d602f66d5383b4fa9491e697ca6faa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_192
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 184
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09659bfa56544cb4abec245dd2963e1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_193
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 181
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168f3bf5c9d762b4eaa4eb940b7dd54e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_194
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 185
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaba3d5c80b643143807960d4186b80a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_195
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 186
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6ec9d49d2c46e4ba4a4c5cbaeff395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Shadow_1_noBG_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1140
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93bf246287ba6a4597036afb9cef586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c6ad0a3a4f99b4a4b9be52444c300f0a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
