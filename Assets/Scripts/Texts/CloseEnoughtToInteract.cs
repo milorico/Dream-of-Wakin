@@ -10,6 +10,7 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 	public GameObject TextThatAppearsWhenInteracted;
 	public GameObject fog;
 	public AudioSource itemSound;
+	public string sceneName;
 //	public GameObject TextThatAppearsWhenInteracted2;
 	public int turnoDelDialogo = 0;
 	// Use this for initialization
@@ -23,7 +24,7 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void FixedUpdate () {
+	void LateUpdate () {
 		if (interactuable==true) {
 			EnableText ();
 		}
@@ -59,11 +60,10 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 		if (Input.GetKeyDown("k"))
 			{
 			if (this.gameObject.GetComponent<ChangeScene>()!=null) {
-				
 				if (GameObject.Find("arrow")==null) {
 					turnoDelDialogo = 1;
 				if (turnoDelDialogo==1) {
-					this.gameObject.GetComponent<ChangeScene> ().CambioDeScena ("Generator");
+					this.gameObject.GetComponent<ChangeScene> ().CambioDeScena (sceneName);
 					//turnoDelDialogo = 1;
 					}
 				}
@@ -83,7 +83,8 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 					Destroy (this.gameObject,1);
 
 				}
-				} 
+				interactuable=false;
+              }
 
 			}
 

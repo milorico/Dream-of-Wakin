@@ -17,13 +17,13 @@ public class DoorsInteractive : MonoBehaviour {
 	int time;
     void Start()
     {
-		playerR = target.GetComponent<SpriteRenderer> ();
+		playerR = target.GetComponent<SpriteRenderer>();
 
     }
 
 	void Update()
 	{
-		if (interactuable==true&& target!=null) {
+		if (interactuable==true&&target!=null) {
 			EnableTeleport ();
 		}
 
@@ -60,8 +60,11 @@ public class DoorsInteractive : MonoBehaviour {
 		if (Input.GetKeyDown ("k")) {
 			StartCoroutine (WaitForTransition (0.5f));
 			if (invL != null) {
-				if (invL.gameObject.tag == "FrontFacingD") {
+				if (invL.gameObject.tag == "FrontFacingD" ) {
 					invL.Invert (playerR,this.gameObject); 
+				}
+				if(invL.gameObject.tag == "FFDpuzzle"){
+
 				}
 			}
 				target.transform.position = pos.position;

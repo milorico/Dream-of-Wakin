@@ -236,6 +236,16 @@ MonoBehaviour:
   iceStatue: {fileID: 0}
   BigDoor: {fileID: 0}
   BossEnabler: {fileID: 0}
+  puzzlePieces:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  puzzleDoor: {fileID: 0}
 --- !u!114 &114424105955764474
 MonoBehaviour:
   m_ObjectHideFlags: 1
