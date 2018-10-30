@@ -18,7 +18,8 @@ public class KeyItemsProgress : MonoBehaviour {
 	public GameObject [] puzzlePieces = new GameObject[8];
 	public GameObject puzzleDoor;
 	bool levelTwoFinished;
-	int piecesPicked;
+    bool levelTrheeFinished;
+    int piecesPicked;
 	// Use this for initialization
 	void Start () {
 		m_Scene = SceneManager.GetActiveScene ();
@@ -29,7 +30,14 @@ public class KeyItemsProgress : MonoBehaviour {
 			levelOneFinished = true;
 			levelTwoFinished = false;
 		}
-	}
+        if (m_Scene.name == "ThirdLevel")
+        {
+            piecesPicked = 0;
+            levelOneFinished = true;
+            levelTwoFinished = true;
+            levelTrheeFinished = false;
+        }
+    }
 	
 	// Update is called once per frames
 	void Update () {
@@ -68,7 +76,19 @@ public class KeyItemsProgress : MonoBehaviour {
 				print (piecesPicked);
 			}
 		}
-	}
+        //if (levelOneFinished == true && levelTwoFinished == true)
+       // { Esto esta comentado para que el if actue directo
+         //   m_Scene = SceneManager.GetActiveScene();
+            if (m_Scene.name == "ThirdLevel")
+            {
+                if (secondRoomKey.CheckItemIsPicked() && secondRoomKey != null)
+                {
+                    secondRoomDoor.GetComponent<DoorsInteractive>().enabled = true;
+                }
+
+            }
+       // }
+    }
 	void CountPieces(int qnt){
 		foreach (GameObject item in puzzlePieces) {
 			if (item.GetComponent<ItemPickedUp> ().CheckItemIsPicked() == true) {
