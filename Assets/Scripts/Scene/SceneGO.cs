@@ -11,16 +11,18 @@ public class SceneGO : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		sceneName = SceneManager.GetSceneAt (1);
-		puntos = GameObject.Find("Main Camera 2").GetComponent<Hits>();
+		if(puntos != null){
+		puntos = GameObject.Find("Main Camera 2").GetComponent<Hits>();}
 		print(sceneName.name);
 	}
 	// Update is called once per frame
 	void Update () {
+		if(puntos!=null){
 if(puntos.points==16){
 	SceneManager.UnloadSceneAsync(sceneName);
 	DontDestroyOnLoad(puntos);
 	puntos.GetComponent<Camera>().enabled =false;
-}
+}}
 		if (Input.GetKeyDown("k"))
 		{
 			if(arrow !=null){
