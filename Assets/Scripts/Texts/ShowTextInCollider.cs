@@ -10,6 +10,8 @@ public class ShowTextInCollider : MonoBehaviour {
    
     void Start()
     {
+
+
 		if (TextThatAppearsWhenInteracted != null) {
 			
 		
@@ -21,7 +23,9 @@ public class ShowTextInCollider : MonoBehaviour {
     // Update is called once per frame
     void Update()
     {
-
+		if (target == null) {
+			Destroy (this.gameObject);
+		}
     }
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -35,10 +39,11 @@ public class ShowTextInCollider : MonoBehaviour {
     }
     private void OnTriggerExit2D(Collider2D other)
     {
-        if (other.name == target.name)
-        {
-			hideText ();
-        }
+		if (target != null) {
+			if (other.name == target.name) {
+				hideText ();
+			}
+		}
     }
     private void EnableText(Collider2D other)
     {
