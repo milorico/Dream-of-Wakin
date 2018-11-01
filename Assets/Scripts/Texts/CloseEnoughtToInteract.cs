@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityStandardAssets.CrossPlatformInput;
 
 public class CloseEnoughtToInteract : MonoBehaviour {
 	public bool destroyable = false;
@@ -13,6 +14,7 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 	public string sceneName;
 //	public GameObject TextThatAppearsWhenInteracted2;
 	public int turnoDelDialogo = 0;
+
 	// Use this for initialization
 	void Start () {
 		if ( TextThatAppearsWhenInteracted!=false) {
@@ -25,8 +27,9 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 	
 	// Update is called once per frame
 	void LateUpdate () {
+		bool x = CrossPlatformInputManager.GetButton("Fire3");
 		if (interactuable==true) {
-			EnableText ();
+			EnableText (x);
 		}
 
 	}
@@ -56,8 +59,8 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 			interactuable = false;
 		}
 	}
-	private void EnableText (){
-		if (Input.GetKeyDown("k"))
+	private void EnableText (bool x){
+		if (x==true)
 			{
 			if (this.gameObject.GetComponent<ChangeScene>()!=null) {
 				if (GameObject.Find("arrow")==null) {

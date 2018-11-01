@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
+using UnityStandardAssets.CrossPlatformInput;
 public class ArrowScript : MonoBehaviour {
 
     //estas son las fichas del puzzle
@@ -11,7 +11,7 @@ public class ArrowScript : MonoBehaviour {
     public GameObject tokenFlake;
     public GameObject tokenLeaf;
     public GameObject tokenFlower;
-
+	int w;
     //en este vector se guardan las fichas 
     GameObject[] tokenPosition;
 
@@ -26,7 +26,6 @@ public class ArrowScript : MonoBehaviour {
 
     //camaras para cambiar entre el puzzle y el mapa principal
     public Camera camPuzzle;
-    public Camera camMain;
 
     //variable para abrir la puerta
     public bool openDoor;
@@ -47,93 +46,96 @@ public class ArrowScript : MonoBehaviour {
         tokenAux = null;
         
         camPuzzle.GetComponent<Camera>().enabled = true;
-        camMain.GetComponent<Camera>().enabled = false;
         
         openDoor = false;
 
        
     }
 	
-	void Update ()
+	void FixedUpdate ()
 	{
+		float j = CrossPlatformInputManager.GetAxis("Horizontal");
+		bool a = CrossPlatformInputManager.GetButton("Fire2");
 		if (openDoor == false) {
-			
+		//	if (w>2) {
+		//		w = 0;
+		//	}
 		
-			if (Input.GetKeyDown (KeyCode.J)) {
+			if (a ==true) {
 				tokenSelect = true;
 				arrowSelect = arrowPosition;
 			}
+		//	if (w  ==2) {
+				if (j > 0 & (transform.position.x < 2.2)) {
 
-			if ((Input.GetKeyDown (KeyCode.D)) & (transform.position.x < 2.2)) {
+					transform.position = new Vector3 (transform.position.x + 1.1f, transform.position.y, transform.position.z);
+					arrowPosition++;
 
-				transform.position = new Vector3 (transform.position.x + 1.1f, transform.position.y, transform.position.z);
-				arrowPosition++;
+					if (tokenSelect) {
 
-				if (tokenSelect) {
-
-					//creo un clon de la ficha a amover
-					tokenAux = Instantiate (tokenPosition [arrowSelect]);
-					tokenAux.transform.position = tokenPosition [arrowSelect].transform.position;
+						//creo un clon de la ficha a amover
+						tokenAux = Instantiate (tokenPosition [arrowSelect]);
+						tokenAux.transform.position = tokenPosition [arrowSelect].transform.position;
 		
-					//intercambio las pocisiones de las fichas
-					tokenPosition [arrowSelect].transform.position = tokenPosition [arrowPosition].transform.position;
-					tokenPosition [arrowPosition].transform.position = tokenAux.transform.position;
-					tokenAux2 = tokenPosition [arrowSelect];
+						//intercambio las pocisiones de las fichas
+						tokenPosition [arrowSelect].transform.position = tokenPosition [arrowPosition].transform.position;
+						tokenPosition [arrowPosition].transform.position = tokenAux.transform.position;
+						tokenAux2 = tokenPosition [arrowSelect];
 
-					//intercambio las pocisiones en el vector
-					tokenPosition [arrowSelect] = tokenPosition [arrowPosition];
-					tokenPosition [arrowPosition] = tokenAux2;
-					tokenSelect = false;
-					Destroy (tokenAux);
-				}
-
-			}
-			if ((Input.GetKeyDown (KeyCode.A)) & (transform.position.x > -2.2)) {
-
-				transform.position = new Vector3 (transform.position.x - 1.1f, transform.position.y, transform.position.z);
-				arrowPosition--;
-
-				if (tokenSelect) {
-					//creo un clon de la ficha a amover
-					tokenAux = Instantiate (tokenPosition [arrowSelect]);
-					tokenAux.transform.position = tokenPosition [arrowSelect].transform.position;
-
-					//intercambio las pocisiones de las fichas
-					tokenPosition [arrowSelect].transform.position = tokenPosition [arrowPosition].transform.position;
-					tokenPosition [arrowPosition].transform.position = tokenAux.transform.position;
-					tokenAux2 = tokenPosition [arrowSelect];
-
-					//intercambio las pocisiones en el vector
-					tokenPosition [arrowSelect] = tokenPosition [arrowPosition];
-					tokenPosition [arrowPosition] = tokenAux2;
-					tokenSelect = false;
-					Destroy (tokenAux);
+						//intercambio las pocisiones en el vector
+						tokenPosition [arrowSelect] = tokenPosition [arrowPosition];
+						tokenPosition [arrowPosition] = tokenAux2;
+						tokenSelect = false;
+						Destroy (tokenAux);
+					}
 
 				}
-			}
+				if (j < 0 & (transform.position.x > -2.2)) {
 
-			for (int i = 0; i <= 4; i++) {	
+					transform.position = new Vector3 (transform.position.x - 1.1f, transform.position.y, transform.position.z);
+					arrowPosition--;
 
+					if (tokenSelect) {
+						//creo un clon de la ficha a amover
+						tokenAux = Instantiate (tokenPosition [arrowSelect]);
+						tokenAux.transform.position = tokenPosition [arrowSelect].transform.position;
 
-				TokenScript script = tokenPosition [i].GetComponent<TokenScript> ();
+						//intercambio las pocisiones de las fichas
+						tokenPosition [arrowSelect].transform.position = tokenPosition [arrowPosition].transform.position;
+						tokenPosition [arrowPosition].transform.position = tokenAux.transform.position;
+						tokenAux2 = tokenPosition [arrowSelect];
 
-				if (!script.checkCorrectPosition) {	
-					//print("break");
-					break;
+						//intercambio las pocisiones en el vector
+						tokenPosition [arrowSelect] = tokenPosition [arrowPosition];
+						tokenPosition [arrowPosition] = tokenAux2;
+						tokenSelect = false;
+						Destroy (tokenAux);
+
+					}
 				}
 
-				if (i == 4) {
-					camPuzzle.GetComponent<Camera> ().enabled = false;
-					camMain.GetComponent<Camera> ().enabled = true;
-					DontDestroyOnLoad (this.gameObject);
-					openDoor = true;
-					Time.timeScale = 1.00f;
-					SceneManager.UnloadSceneAsync ("Generator");
+				for (int i = 0; i <= 4; i++) {	
+
+
+					TokenScript script = tokenPosition [i].GetComponent<TokenScript> ();
+
+					if (!script.checkCorrectPosition) {	
+						//print("break");
+						break;
+					}
+
+					if (i == 4) {
+						camPuzzle.GetComponent<Camera> ().enabled = false;
+						DontDestroyOnLoad (this.gameObject);
+						openDoor = true;
+						Time.timeScale = 1.00f;
+						SceneManager.UnloadSceneAsync ("Generator");
                 
                
 
+					}
 				}
-			}
-		}
+			//}
+		}//w++;
 	}
 }

@@ -3,7 +3,7 @@
 --- !u!91 &9100000
 AnimatorController:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: AllFaces clone clone_2
   serializedVersion: 5
@@ -24,7 +24,7 @@ AnimatorController:
 --- !u!114 &114008461103416046
 MonoBehaviour:
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -32,10 +32,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3786d6e6a0ee9444d9a738717d8df46c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &114637165907650950
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2d8fb7b543a3cb4d8fedd669022ffae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  girl: {fileID: 0}
+  splitHead: {fileID: 0}
+  oldGirl: {fileID: 0}
+  camera: {fileID: 0}
+  oldCamera: {fileID: 0}
 --- !u!1101 &1101365996204892732
 AnimatorStateTransition:
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: 
   m_Conditions: []
@@ -57,7 +73,7 @@ AnimatorStateTransition:
 AnimatorState:
   serializedVersion: 5
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: New State
   m_Speed: 1
@@ -82,7 +98,7 @@ AnimatorState:
 AnimatorState:
   serializedVersion: 5
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: IntroBoss
   m_Speed: 0.2
@@ -90,7 +106,7 @@ AnimatorState:
   m_Transitions:
   - {fileID: 1101365996204892732}
   m_StateMachineBehaviours:
-  - {fileID: 114008461103416046}
+  - {fileID: 114637165907650950}
   m_Position: {x: 50, y: 50, z: 0}
   m_IKOnFeet: 0
   m_WriteDefaultValues: 1
@@ -109,7 +125,7 @@ AnimatorState:
 AnimatorStateMachine:
   serializedVersion: 5
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Base Layer
   m_ChildStates:
@@ -118,7 +134,7 @@ AnimatorStateMachine:
     m_Position: {x: 288, y: 24, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102522791858986208}
-    m_Position: {x: 572.11786, y: -115.54515, z: 0}
+    m_Position: {x: 576, y: -120, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []

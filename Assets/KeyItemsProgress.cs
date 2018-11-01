@@ -49,7 +49,7 @@ public class KeyItemsProgress : MonoBehaviour {
 	// Update is called once per frames
 	void Update () {
 
-		if (levelOneFinished==false) {
+		if (m_Scene.name =="FirstLevel") {
 				if (iceStatue != null && sopleteichon.CheckItemIsPicked () == true) {
 					iceStatue.GetComponent<CloseEnoughtToInteract> ().destroyable = true;
 				}
@@ -74,7 +74,7 @@ public class KeyItemsProgress : MonoBehaviour {
 				}
 			}
 		}
-		if (levelOneFinished==true) {
+		if (m_Scene.name == "SecondLevel") {
 			m_Scene = SceneManager.GetActiveScene ();
 			if (m_Scene.name == "SecondLevel") {
 				if(piecesPicked==8){	

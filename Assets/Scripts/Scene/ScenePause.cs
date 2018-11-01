@@ -15,19 +15,19 @@ public class ScenePause : MonoBehaviour {
     void Update()
     {
 
-        if (Input.GetButtonDown("Cancel"))
-        {
-            Pause = !Pause;
-            Time.timeScale = (Pause) ? 1.00f : 0.00f;
-            if (Pause == false)
-            {
-                SceneManager.LoadScene("PauseE", LoadSceneMode.Additive);
-            }
-            else
-            {
-                SceneManager.UnloadSceneAsync("PauseE");
-            }
-
-        }
+//        if (Input.GetButtonDown("Cancel"))
+//        {
+//            Pause = !Pause;
+//            Time.timeScale = (Pause) ? 1.00f : 0.00f;
+//            if (Pause == false)
+//            {
+//                SceneManager.LoadScene("PauseE", LoadSceneMode.Additive);
+//            }
+//            else
+//            {
+//                SceneManager.UnloadSceneAsync("PauseE");
+//            }
+//
+//        }
     }
 }

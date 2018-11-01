@@ -2,19 +2,19 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class sc : StateMachineBehaviour {
-	
+public class bossIntro : StateMachineBehaviour {
+
 	public GameObject girl;
 	public GameObject splitHead;
 	public GameObject oldGirl;
-	public GameObject kamera;
+	public GameObject camera;
 	public GameObject oldCamera;
 
 
-	 // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
+	// OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
 	override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex) {
 		girl = animator.gameObject.GetComponent<wakeUp>().girl;
-		kamera = animator.gameObject.GetComponent<wakeUp>().kamera;
+		camera = animator.gameObject.GetComponent<wakeUp>().kamera;
 		oldCamera = animator.gameObject.GetComponent<wakeUp>().oldCamera;
 		oldGirl = animator.gameObject.GetComponent<wakeUp>().oldGirl;
 		splitHead = animator.gameObject.GetComponent<wakeUp>().splitHead;
@@ -30,13 +30,13 @@ public class sc : StateMachineBehaviour {
 
 		girl.SetActive (true);
 		splitHead.SetActive (true);
-		kamera.SetActive (true);
+		camera.SetActive (true);
 
 		oldCamera.SetActive (false);
 
 		Debug.Log ("hola");
 		oldGirl.SetActive (false);
-	
+
 	}
 
 	// OnStateMove is called right after Animator.OnAnimatorMove(). Code that processes and affects root motion should be implemented here

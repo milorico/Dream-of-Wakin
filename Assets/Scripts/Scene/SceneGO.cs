@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
+using UnityStandardAssets.CrossPlatformInput;
 public class SceneGO : MonoBehaviour {
 	public Scene sceneName;
 	bool Pause = false;
@@ -10,7 +10,9 @@ public class SceneGO : MonoBehaviour {
 	public Hits puntos;
 	// Use this for initialization
 	void Start () {
-		sceneName = SceneManager.GetSceneAt (1);
+		if (SceneManager.sceneCount != 1) {
+			sceneName = SceneManager.GetSceneAt (1);
+		}
 		if (sceneName.name == "Puzzle2") {
 			puntos = GameObject.Find ("Main Camera 2").GetComponent<Hits> ();
 		}
@@ -18,13 +20,15 @@ public class SceneGO : MonoBehaviour {
 	}
 	// Update is called once per frame
 	void Update () {
+		bool b = CrossPlatformInputManager.GetButton("Cancel");
 		if (puntos != null) {
 			if (puntos.points == 16) {
 				SceneManager.UnloadSceneAsync (sceneName);
 				DontDestroyOnLoad (puntos);
 				puntos.GetComponent<Camera> ().enabled = false;
 			}
-			if (Input.GetKeyDown ("k")) {
+		}
+			if (b==true) {
 				if (arrow != null) {
 					if (arrow.GetComponent<ArrowScript> ().openDoor == true) {
 						DontDestroyOnLoad (arrow);
@@ -33,11 +37,8 @@ public class SceneGO : MonoBehaviour {
 		
 				SceneManager.UnloadSceneAsync (sceneName);
 				Pause = !Pause;
-				Time.timeScale = (Pause) ? 1.00f : 0.00f;
+				//Time.timeScale = (Pause) ? 1.00f : 0.00f;
 			}
-		}
-	}
-	void OnMouseDown (){
-	//	SceneManager.LoadScene (sceneName);
+		
 	}
 }

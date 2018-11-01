@@ -38,13 +38,9 @@ public class PlayerController : MonoBehaviour {
 		if (playerLife<=0) {
 			Destroy (this.gameObject);	
 		}
-		if (a == true && timer==true) {
-			timer = false;
-			m_Anim.SetTrigger ("Shoot");
-			Shoot (m_direction);
-		}
+
 		if (aiming == true) {
-			Aiming (h, j);
+			Aiming (h, j,a,m_direction);
 		}
 		if (m_Anim.GetBool ("Aiming") == false) {
 			Move (h, j);
@@ -60,10 +56,15 @@ public class PlayerController : MonoBehaviour {
 		m_Anim.SetFloat ("Velocity2", m_Rigidbody2D.velocity.y);
 		//print (m_Rigidbody2D.velocity);
 	}
-	public void Aiming(float move,float move2)
+	public void Aiming(float move,float move2,bool a,Vector2 m_direction)
 	{
 		m_Rigidbody2D.velocity = new Vector2(move*m_MaxSpeed*0, m_Rigidbody2D.velocity.y);
 		m_Rigidbody2D.velocity = new Vector2(move2*m_MaxSpeed*0, m_Rigidbody2D.velocity.x);
+		if (a == true && timer==true) {
+			timer = false;
+			m_Anim.SetTrigger ("Shoot");
+			Shoot (m_direction);
+		}
 	}
 	public void Shoot(Vector2 direction){
 		int layerMask = 1 << 8;

@@ -15,7 +15,7 @@ public class ChangeScene : MonoBehaviour {
 		//Time.timeScale = (Pause) ? 1.00f : 0.00f;
 		if (Pause == false)
 		{
-			if (NombreDeScena == "BossZone1") {
+			if (NombreDeScena == "BossFight") {
 				player = GameObject.Find ("Player");
 				DontDestroyOnLoad (player);
 				mainCamera = GameObject.Find ("Main Camera");
@@ -28,11 +28,10 @@ public class ChangeScene : MonoBehaviour {
 
 			} else {
 				SceneManager.LoadScene (NombreDeScena, LoadSceneMode.Additive);
-				if(NombreDeScena=="Generator"){Time.timeScale = (Pause) ? 1.00f : 0.00f;
-			}
+
 		}
 		}
-		Pause = true;
+		//Pause = true;
     }
 	
 	

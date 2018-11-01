@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityStandardAssets.CrossPlatformInput;
 
 public class DoorsInteractive : MonoBehaviour {
     public Transform pos;
@@ -14,6 +15,7 @@ public class DoorsInteractive : MonoBehaviour {
 	bool waitDoor =false;
 	public SpriteRenderer playerR;
 	public InvertLayer invL;
+
 	int time;
     void Start()
     {
@@ -23,8 +25,9 @@ public class DoorsInteractive : MonoBehaviour {
 
 	void Update()
 	{
+		bool x = CrossPlatformInputManager.GetButton("Fire3");
 		if (interactuable==true&&target!=null) {
-			EnableTeleport ();
+			EnableTeleport (x);
 		}
 
 		if(time<200){
@@ -54,10 +57,10 @@ public class DoorsInteractive : MonoBehaviour {
 		}
 	}
 
-    private void EnableTeleport()
+	private void EnableTeleport(bool x)
     {
    
-		if (Input.GetKeyDown ("k")) {
+		if (x ==true) {
 			StartCoroutine (WaitForTransition (0.5f));
 			if (invL != null) {
 				if (invL.gameObject.tag == "FrontFacingD" ) {
