@@ -76,10 +76,8 @@ public class PlayerController : MonoBehaviour {
 			if (hit.transform.tag== "Enemy") {
 				
 				enemyC = hit.transform.gameObject.GetComponent<EnemyController> (); 
-				if (enemyC != null) {
-					enemyC.RecibirDanio ();
-					enemyC.enemyLife = enemyC.enemyLife - 50f;
-				}
+				enemyC.RecibirDanio ();
+				enemyC.enemyLife = enemyC.enemyLife - 50f;
 				print ("le di");
 				print (timer);
 			}
@@ -109,9 +107,8 @@ public class PlayerController : MonoBehaviour {
 		float j = move2.transform.position.y - transform.position.y;
 		m_Rigidbody2D.AddForce (new Vector2(-h*multipier,-j*multipier));
 		enemyC = move2.GetComponent<EnemyController> ();
-		if (enemyC != null) {
-			playerLife = playerLife - enemyC.enemyDamage;
-		}		//enemyCollider = enemyC.GetComponent<CapsuleCollider2D> ();
+		playerLife = playerLife - enemyC.enemyDamage;
+		//enemyCollider = enemyC.GetComponent<CapsuleCollider2D> ();
 		
 		if (true) {
 		//	enemyCollider.isTrigger = true;

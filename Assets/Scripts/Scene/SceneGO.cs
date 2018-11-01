@@ -11,30 +11,27 @@ public class SceneGO : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		sceneName = SceneManager.GetSceneAt (1);
-		if (sceneName.name == "Puzzle2") {
-			puntos = GameObject.Find ("Main Camera 2").GetComponent<Hits> ();
-		}
+		puntos = GameObject.Find("Main Camera 2").GetComponent<Hits>();
 		print(sceneName.name);
 	}
 	// Update is called once per frame
 	void Update () {
-		if (puntos != null) {
-			if (puntos.points == 16) {
-				SceneManager.UnloadSceneAsync (sceneName);
-				DontDestroyOnLoad (puntos);
-				puntos.GetComponent<Camera> ().enabled = false;
+if(puntos.points==16){
+	SceneManager.UnloadSceneAsync(sceneName);
+	DontDestroyOnLoad(puntos);
+	puntos.GetComponent<Camera>().enabled =false;
+}
+		if (Input.GetKeyDown("k"))
+		{
+			if(arrow !=null){
+			if (arrow.GetComponent<ArrowScript> ().openDoor == true)  {
+				DontDestroyOnLoad (arrow);
 			}
-			if (Input.GetKeyDown ("k")) {
-				if (arrow != null) {
-					if (arrow.GetComponent<ArrowScript> ().openDoor == true) {
-						DontDestroyOnLoad (arrow);
-					}
-				}
+		}
 		
-				SceneManager.UnloadSceneAsync (sceneName);
-				Pause = !Pause;
-				Time.timeScale = (Pause) ? 1.00f : 0.00f;
-			}
+			SceneManager.UnloadSceneAsync(sceneName);
+			Pause = !Pause;
+			Time.timeScale = (Pause) ? 1.00f : 0.00f;
 		}
 	}
 	void OnMouseDown (){

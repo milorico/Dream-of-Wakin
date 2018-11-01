@@ -105,9 +105,7 @@ public class EnemyController : MonoBehaviour {
 
 	public virtual void Attack2(float move, float move2){
 		if(followPlayer == true){
-			if (m_Anim.runtimeAnimatorController != null) {
-				m_Anim.SetTrigger ("Attaking");
-			}
+		m_Anim.SetTrigger ("Attaking");
 		transform.position = Vector2.MoveTowards (new Vector2 (transform.position.x,
 			transform.position.y), attackPosition, m_MaxSpeed * Time.deltaTime);
 		if (transform.position.x==attackPosition.x || i>150) {
@@ -118,9 +116,7 @@ public class EnemyController : MonoBehaviour {
 	}
 	public virtual void Attack2(float move, float move2,GameObject attackRange){
 		if(followPlayer == true){
-			if (m_Anim.runtimeAnimatorController != null) {
-				m_Anim.SetTrigger ("Attaking");
-			}
+		m_Anim.SetTrigger ("Attaking");
 		attackRange.SetActive(true);
 		attackRange.transform.position = Vector2.MoveTowards (new Vector2 (attackRange.transform.position.x,
 			attackRange.transform.position.y), attackPosition, 12f * Time.deltaTime);
@@ -219,9 +215,7 @@ public class EnemyController : MonoBehaviour {
 
 }
 	public void RecibirDanio(){
-		if(m_Anim.runtimeAnimatorController!=null){
-		m_Anim.SetTrigger ("Damage");
-	}
+		m_Anim.SetTrigger ("Daño");
 	}
 	private IEnumerator WaitForSeguir(float waitTime){
 		yield return new WaitForSeconds (waitTime);
@@ -230,11 +224,9 @@ public class EnemyController : MonoBehaviour {
 		atacar = false;
 	}
 	public void ActAnimator(float move, float move2){
-		if (m_Anim.runtimeAnimatorController != null) {
-			m_Anim.SetFloat ("PlayerDifferenceX", move);
-			m_Anim.SetFloat ("PlayerDifferenceY", move2);
-			m_Anim.SetFloat ("DirectionX", m_Rigidbody2D.velocity.x);
-			m_Anim.SetFloat ("DirectionY", m_Rigidbody2D.velocity.y);
-		}
+		m_Anim.SetFloat("PlayerDifferenceX", move);
+		m_Anim.SetFloat("PlayerDifferenceY", move2);
+		m_Anim.SetFloat ("DirectionX", m_Rigidbody2D.velocity.x);
+		m_Anim.SetFloat ("DirectionY", m_Rigidbody2D.velocity.y);
 	}
 }	
