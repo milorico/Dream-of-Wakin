@@ -21,7 +21,7 @@ public class PlayerDeadController : MonoBehaviour {
 		if (player==null) {
 			reloadScene (activeScene.name);
 		}
-		if (atroce==null) {
+		if (atroce==null && activeScene.name == "BossFight") {
 			reloadScene ("SecondLevel");
 		}
 	}

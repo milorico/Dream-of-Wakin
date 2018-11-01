@@ -41,6 +41,7 @@ GameObject:
   - component: {fileID: 82308639046538512}
   - component: {fileID: 114319028597368394}
   - component: {fileID: 114871280845684998}
+  - component: {fileID: 114511152049178136}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -233,6 +234,17 @@ MonoBehaviour:
   lookAheadFactor: 1
   lookAheadReturnSpeed: 0.5
   lookAheadMoveThreshold: 0.1
+--- !u!114 &114511152049178136
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1943242014423980}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 963766288408cc1478fa25ec8eecfef1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114871280845684998
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -250,6 +262,12 @@ MonoBehaviour:
   secondRoomDoor: {fileID: 0}
   generatorCol: {fileID: 0}
   iceStatue: {fileID: 0}
+  EnemyJail: {fileID: 0}
+  EnemyJail2: {fileID: 0}
+  Jail: {fileID: 0}
+  SubBoss: {fileID: 0}
+  Eliminated: {fileID: 0}
+  Bridge: {fileID: 0}
   BigDoor: {fileID: 0}
   BossEnabler: {fileID: 0}
   puzzlePieces:

@@ -15,10 +15,13 @@ public class PlayerController : MonoBehaviour {
 	public EnemyController enemyC;
 	private CapsuleCollider2D enemyCollider;
 	int tiempo;
+	AudioSource disparo;
+	public GameObject splash;
 	private Light destello;
 	private void Awake(){
 	//	enemyC = GameObject.FindWithTag ("Enemy").GetComponent<EnemyController> ();
 		m_Anim = GetComponent<Animator>();
+		disparo = GetComponent<AudioSource> ();
 		m_Rigidbody2D = GetComponent<Rigidbody2D>();
 		StartCoroutine(WaitForDamage (1f));
 		destello = GameObject.Find ("/Player/Spotlight").GetComponent<Light>();
@@ -74,6 +77,7 @@ public class PlayerController : MonoBehaviour {
 		layerMask= ~layerMask;
 		RaycastHit2D hit = Physics2D.Raycast (transform.position, direction,Mathf.Infinity,layerMask);
 		destello.spotAngle += 30;
+		disparo.Play ();
 		destello.color = Color.yellow;
 		Debug.DrawRay (transform.position, direction, Color.green);
 
@@ -86,6 +90,9 @@ public class PlayerController : MonoBehaviour {
 				if (enemyC != null) {
 					enemyC.RecibirDanio ();
 					enemyC.enemyLife = enemyC.enemyLife - 50f;
+					Instantiate (splash, enemyC.transform);
+
+
 				}
 				print ("le di");
 				print (timer);
