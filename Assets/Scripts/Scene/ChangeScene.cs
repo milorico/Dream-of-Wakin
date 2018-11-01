@@ -26,20 +26,7 @@ public class ChangeScene : MonoBehaviour {
 				SceneManager.LoadScene (NombreDeScena, LoadSceneMode.Single);
 				player.transform.position = new Vector2 (0, 0);
 
-			}
-			 else {
-			 	if (NombreDeScena == "BossFight2") {
-				player = GameObject.Find ("Player");
-				DontDestroyOnLoad (player);
-				mainCamera = GameObject.Find ("Main Camera");
-				DontDestroyOnLoad (mainCamera);
-				DontDestroyOnLoad(GameObject.Find("Canvas"));
-				Pause = !Pause;
-				Time.timeScale = (Pause) ? 1.00f : 0.00f;
-				SceneManager.LoadScene (NombreDeScena, LoadSceneMode.Single);
-				player.transform.position = new Vector2 (0, 0);
-
-			}
+			} else {
 				SceneManager.LoadScene (NombreDeScena, LoadSceneMode.Additive);
 				if(NombreDeScena=="Generator"){Time.timeScale = (Pause) ? 1.00f : 0.00f;
 			}

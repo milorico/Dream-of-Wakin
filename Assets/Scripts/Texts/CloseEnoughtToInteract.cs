@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -60,7 +60,7 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 		if (Input.GetKeyDown("k"))
 			{
 			if (this.gameObject.GetComponent<ChangeScene>()!=null) {
-				if (GameObject.Find("arrow")==null || GameObject.Find("Main Camera 2")) {
+				if (GameObject.Find("arrow")==null) {
 					turnoDelDialogo = 1;
 				if (turnoDelDialogo==1) {
 					this.gameObject.GetComponent<ChangeScene> ().CambioDeScena (sceneName);
@@ -80,7 +80,7 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 				if (destroyable ==true) {
 				StartCoroutine (WaitForTransition (1f));
 				TextThatAppearsWhenInteracted.SetActive (false);
-					Destroy (this.gameObject,1.1f);
+					Destroy (this.gameObject,1);
 
 				}
 				interactuable=false;
