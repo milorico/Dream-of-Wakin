@@ -15,10 +15,13 @@ public class PlayerController : MonoBehaviour {
 	public EnemyController enemyC;
 	private CapsuleCollider2D enemyCollider;
 	int tiempo;
+	private Light destello;
 	private void Awake(){
 	//	enemyC = GameObject.FindWithTag ("Enemy").GetComponent<EnemyController> ();
 		m_Anim = GetComponent<Animator>();
 		m_Rigidbody2D = GetComponent<Rigidbody2D>();
+		StartCoroutine(WaitForDamage (1f));
+		destello = GameObject.Find ("/Player/Spotlight").GetComponent<Light>();
 	}
 	
 	// Update is called once per frame
@@ -70,7 +73,10 @@ public class PlayerController : MonoBehaviour {
 		int layerMask = 1 << 8;
 		layerMask= ~layerMask;
 		RaycastHit2D hit = Physics2D.Raycast (transform.position, direction,Mathf.Infinity,layerMask);
+		destello.spotAngle += 30;
+		destello.color = Color.yellow;
 		Debug.DrawRay (transform.position, direction, Color.green);
+
 		if (hit.collider != null) {
 			//enemyC =hit.collider.gameObject.GetComponent<EnemyController> ();
 			print (hit.transform.tag);
@@ -120,14 +126,19 @@ public class PlayerController : MonoBehaviour {
 		//m_Rigidbody2D.velocity = new Vector2(-move2*m_MaxSpeed, -m_Rigidbody2D.velocity.x);
 	}
 	private IEnumerator WaitForDamage(float waitTime){
-		Physics2D.IgnoreLayerCollision(8, 9,true);
+	Physics2D.IgnoreLayerCollision(8, 9,true);
 		yield return new WaitForSeconds (waitTime);
 		Physics2D.IgnoreLayerCollision(8, 9,false);
 	//	timer = true;
 
 	}
 	private IEnumerator WaitForRecoil(float waitTime){
+		
 		yield return new WaitForSeconds (waitTime);
+		destello.color = Color.white;
+		while (destello.spotAngle>30) {
+			destello.spotAngle--;
+		}
 		timer = true;
 
 	}

@@ -2552,6 +2552,10 @@ Prefab:
       propertyPath: BossEnabler
       value: 
       objectReference: {fileID: 245088740}
+    - target: {fileID: 1226271036621212, guid: 5e702ef3575ddbc44a9d3e489b314955, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5e702ef3575ddbc44a9d3e489b314955, type: 2}
   m_IsPrefabAsset: 0
