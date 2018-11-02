@@ -13,6 +13,11 @@ TagManager:
   - EnemyFollower
   - Scenery
   - Atras
+  - FFDpuzzle
+  - Note
+  - TextOnce
+  - Deceased
+  - Gun
   layers:
   - Default
   - TransparentFX
