@@ -27,6 +27,12 @@ public class ChangeScene : MonoBehaviour {
 //				player.transform.position = new Vector2 (0, 0);
 
 			} else {
+				if (NombreDeScena == "BossFight2") {
+					SceneManager.LoadScene (NombreDeScena, LoadSceneMode.Single);
+				}
+				if (NombreDeScena == "BossFight3") {
+					SceneManager.LoadScene (NombreDeScena, LoadSceneMode.Single);
+				}
 				SceneManager.LoadScene (NombreDeScena, LoadSceneMode.Additive);
 
 		}

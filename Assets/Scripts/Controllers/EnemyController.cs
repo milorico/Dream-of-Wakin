@@ -117,7 +117,7 @@ public class EnemyController : MonoBehaviour {
 	public virtual void Attack2(float move, float move2,GameObject attackRange){
 		if(followPlayer == true){
 			if (m_Anim.runtimeAnimatorController != null) {
-				m_Anim.SetTrigger ("Attaking");
+				m_Anim.SetTrigger ("Attacking");
 			}
 		attackRange.SetActive(true);
 		attackRange.transform.position = Vector2.MoveTowards (new Vector2 (attackRange.transform.position.x,

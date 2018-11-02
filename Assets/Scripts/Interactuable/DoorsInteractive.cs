@@ -62,15 +62,8 @@ public class DoorsInteractive : MonoBehaviour {
    
 		if (x ==true) {
 			StartCoroutine (WaitForTransition (0.5f));
-			if (invL != null) {
-				if (invL.gameObject.tag == "FrontFacingD" ) {
-					invL.Invert (playerR,this.gameObject); 
-				}
-				if(invL.gameObject.tag == "FFDpuzzle"){
-
-				}
-			}
-				target.transform.position = pos.position;
+			StartCoroutine (Wait (0.1f));
+			target.transform.position = pos.position;
 		}
         
     }
@@ -87,8 +80,14 @@ public class DoorsInteractive : MonoBehaviour {
 
         fog.SetActive(true);
 		interactuable = false;
-        yield return new WaitForSeconds(waitTime);
+		yield return new WaitForSeconds(waitTime);
         fog.SetActive(false);
 
     }
+	private IEnumerator Wait(float waitTime)
+	{
+		target.GetComponent<Collider2D> ().enabled = false;
+		yield return new WaitForSeconds(waitTime);
+		target.GetComponent<Collider2D> ().enabled = true;
+	}
 }
