@@ -21,6 +21,7 @@ GameObject:
   - component: {fileID: 4993610333996502}
   - component: {fileID: 212312736883318266}
   - component: {fileID: 95376849545187192}
+  - component: {fileID: 114461015766304370}
   m_Layer: 0
   m_Name: Splash
   m_TagString: Untagged
@@ -59,6 +60,17 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &114461015766304370
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1763772217724318}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9fc46849f812064b8f9c6158e54edb9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!212 &212312736883318266
 SpriteRenderer:
   m_ObjectHideFlags: 1

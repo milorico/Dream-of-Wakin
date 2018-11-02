@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityStandardAssets.CrossPlatformInput;
 public class ScreenplayController : MonoBehaviour {
 
 	//SP is a screenplay
@@ -9,13 +9,15 @@ public class ScreenplayController : MonoBehaviour {
 	public GameObject NoteText;
 	public GameObject DeadText;
 	public GameObject Gun;
+	PlayerController pC;
 	bool noteRead;
-	bool gunActive;
+	public bool gunActive;
 
-	
+	bool x;
 
 	// Use this for initialization
 	void Start () {
+		pC = GetComponent<PlayerController> ();
 		NoteText.SetActive(false);
 		noteRead = false;
 		gunActive = false;
@@ -23,7 +25,7 @@ public class ScreenplayController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-
+		 x = CrossPlatformInputManager.GetButton("Fire3");
 		if (noteRead){
 			NoteText.SetActive(true);
 		}
@@ -39,7 +41,7 @@ public class ScreenplayController : MonoBehaviour {
 
      void OnCollisionStay2D (Collision2D other)
     {
-    	if ((other.gameObject.CompareTag("Deceased"))&(Input.GetKeyDown(KeyCode.K)))
+    	if ((other.gameObject.CompareTag("Deceased"))&x==true)
         {
             print("Tenemos arma pez");
             gunActive = true;

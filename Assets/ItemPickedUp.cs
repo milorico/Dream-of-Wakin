@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityStandardAssets.CrossPlatformInput;
 public class ItemPickedUp : MonoBehaviour {
 	public	bool playerHasItem;
 	public bool interactuable = false;
@@ -12,8 +12,9 @@ public class ItemPickedUp : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+		bool x = CrossPlatformInputManager.GetButton("Fire3");
 		if (interactuable==true) {
-			if (Input.GetKeyDown ("k")) {
+			if (Input.GetKeyDown ("k") || x==true) {
 				PlayerPickedItem ();
 			}
 		}

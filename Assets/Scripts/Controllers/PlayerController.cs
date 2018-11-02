@@ -18,6 +18,8 @@ public class PlayerController : MonoBehaviour {
 	AudioSource disparo;
 	public GameObject splash;
 	private Light destello;
+	ScreenplayController sPC;
+	bool hasWeapon;
 	private void Awake(){
 	//	enemyC = GameObject.FindWithTag ("Enemy").GetComponent<EnemyController> ();
 		m_Anim = GetComponent<Animator>();
@@ -25,6 +27,11 @@ public class PlayerController : MonoBehaviour {
 		m_Rigidbody2D = GetComponent<Rigidbody2D>();
 		StartCoroutine(WaitForDamage (1f));
 		destello = GameObject.Find ("/Player/Spotlight").GetComponent<Light>();
+		sPC = GetComponent<ScreenplayController> ();
+		if (sPC==null) {
+			sPC = new ScreenplayController();
+			hasWeapon = true;
+		}
 	}
 	
 	// Update is called once per frame
@@ -37,16 +44,19 @@ public class PlayerController : MonoBehaviour {
 		bool a = CrossPlatformInputManager.GetButton("Fire2");
 		m_Anim.SetFloat ("DirectionX",h);
 		m_Anim.SetFloat ("DirectionY", j);
+		if (sPC.gunActive == true || hasWeapon==true) {
 		m_Anim.SetBool ("Aiming", aiming);
+		}
 		Vector2 m_direction;
 		m_direction = new Vector2 (j, h);
 
 		if (playerLife<=0) {
 			Destroy (this.gameObject);	
 		}
-
-		if (aiming == true) {
-			Aiming (h, j,a,m_direction);
+		if (sPC.gunActive == true || hasWeapon == true) {
+			if (aiming == true) {
+				Aiming (h, j, a, m_direction);
+			}
 		}
 		if (m_Anim.GetBool ("Aiming") == false) {
 			Move (h, j);

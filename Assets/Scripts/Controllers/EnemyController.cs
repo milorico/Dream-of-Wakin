@@ -47,8 +47,6 @@ public class EnemyController : MonoBehaviour {
 			Destroy (this.gameObject);	
 		}
 		if (player!=null) {
-			
-		
 			pPosition = new Vector2 (player.transform.position.x, player.transform.position.y);
 		}
 		if (esquivar == true) {

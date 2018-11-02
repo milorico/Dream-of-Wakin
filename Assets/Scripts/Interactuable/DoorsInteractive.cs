@@ -23,7 +23,7 @@ public class DoorsInteractive : MonoBehaviour {
 
     }
 
-	void Update()
+	void FixedUpdate()
 	{
 		bool x = CrossPlatformInputManager.GetButton("Fire3");
 		if (interactuable==true&&target!=null) {
@@ -86,6 +86,7 @@ public class DoorsInteractive : MonoBehaviour {
     {
 
         fog.SetActive(true);
+		interactuable = false;
         yield return new WaitForSeconds(waitTime);
         fog.SetActive(false);
 
