@@ -536,7 +536,11 @@ Prefab:
         type: 2}
       propertyPath: kamera
       value: 
+<<<<<<< HEAD
       objectReference: {fileID: 800437519}
+=======
+      objectReference: {fileID: 1887287446}
+>>>>>>> de4267361013f2e5a05e226bae357babca01d2e8
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b722ecf9ecaaaa442993364c4e2b1bc6, type: 2}
   m_IsPrefabAsset: 0
@@ -1457,6 +1461,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1887287446 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1226271036621212, guid: 5e702ef3575ddbc44a9d3e489b314955,
+    type: 2}
+  m_PrefabInternal: {fileID: 2061027720}
 --- !u!1001 &2041249595
 Prefab:
   m_ObjectHideFlags: 0
@@ -1698,6 +1707,11 @@ Prefab:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 82571797747315276, guid: 5e702ef3575ddbc44a9d3e489b314955,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5e702ef3575ddbc44a9d3e489b314955, type: 2}
   m_IsPrefabAsset: 0
@@ -1713,6 +1727,20 @@ AudioSource:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2120213403}
   m_Enabled: 1
+<<<<<<< HEAD
+=======
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869b23006c29d8e4c87df544d49ac3e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!82 &2120213405
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2120213403}
+  m_Enabled: 1
+>>>>>>> de4267361013f2e5a05e226bae357babca01d2e8
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: bf23484cba685bf43bd50606fe901aa6, type: 3}
