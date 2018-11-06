@@ -62,7 +62,7 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 	private void EnableText (bool x){
 		if (x==true)
 			{
-			if (this.gameObject.GetComponent<ChangeScene>()!=null) {
+			if (this.gameObject.GetComponent<ChangeScene>()!=null ) {
 				if (GameObject.Find("arrow")==null) {
 					turnoDelDialogo = 1;
 				if (turnoDelDialogo==1) {
@@ -100,5 +100,6 @@ public class CloseEnoughtToInteract : MonoBehaviour {
 		fog.SetActive(false);
 
 	}
+
 
 }

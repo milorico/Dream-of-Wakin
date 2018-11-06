@@ -36,6 +36,12 @@ EditorBuildSettings:
     path: Assets/Scenes/BossFight2.unity
     guid: 5ad33386afa057540993be19e28a99bc
   - enabled: 1
+    path: Assets/Scenes/ThirdLevel.unity
+    guid: d83ee3084243eb444a2242d6c984853e
+  - enabled: 1
     path: Assets/Scenes/BossFight3.unity
     guid: 5f1e24b258c013f40aaee41ca57e509d
+  - enabled: 1
+    path: Assets/Scenes/PauseE.unity
+    guid: 2c36a458c86bb3b4d959da0d3f307ce9
   m_configObjects: {}

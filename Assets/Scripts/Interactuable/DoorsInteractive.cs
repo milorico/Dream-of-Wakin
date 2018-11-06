@@ -62,7 +62,7 @@ public class DoorsInteractive : MonoBehaviour {
    
 		if (x ==true) {
 			StartCoroutine (WaitForTransition (0.5f));
-			StartCoroutine (Wait (0.1f));
+			StartCoroutine (Wait (0.2f));
 			target.transform.position = pos.position;
 		}
         

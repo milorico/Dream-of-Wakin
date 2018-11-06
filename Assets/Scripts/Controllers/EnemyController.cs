@@ -6,7 +6,7 @@ public class EnemyController : MonoBehaviour {
 
 	public float enemyLife=600;
 	public float enemyDamage= 26;
-
+	public GameObject reward;
 	public float m_MaxSpeed = 3f;            
 	private Animator m_Anim;            // Reference to the player's animator component.
 	private Rigidbody2D m_Rigidbody2D;
@@ -44,6 +44,10 @@ public class EnemyController : MonoBehaviour {
 	void FixedUpdate () {
 		enemyDamage = enemyDamage;
 		if (enemyLife<=0) {
+			if (reward!=null) {
+				GameObject obj = Instantiate(reward,this.transform.position,this.transform.rotation); 
+				obj.name = reward.name;
+			}
 			Destroy (this.gameObject);	
 		}
 		if (player!=null) {
@@ -90,7 +94,7 @@ public class EnemyController : MonoBehaviour {
 		
 		
 		transform.position = Vector2.MoveTowards (new Vector2 (transform.position.x,
-		transform.position.y), pPosition, 1f * Time.deltaTime);
+				transform.position.y), pPosition, m_MaxSpeed * Time.deltaTime);
 		attackPosition = pPosition;
 		int random = Random.Range (1, 200);
 		//print (random);
@@ -107,7 +111,7 @@ public class EnemyController : MonoBehaviour {
 				m_Anim.SetTrigger ("Attacking");
 			}
 		transform.position = Vector2.MoveTowards (new Vector2 (transform.position.x,
-			transform.position.y), attackPosition, m_MaxSpeed * Time.deltaTime);
+				transform.position.y), attackPosition, m_MaxSpeed *Time.fixedDeltaTime);
 		if (transform.position.x==attackPosition.x || i>150) {
 			atacar = false;
 			i = 0;

@@ -11,13 +11,10 @@ public class ChangeScene : MonoBehaviour {
 	GameObject mainCamera;
 	public void CambioDeScena  (string NombreDeScena) {
        // SceneManager.LoadScene("menu");
-		Pause = !Pause;
-		//Time.timeScale = (Pause) ? 1.00f : 0.00f;
-		if (Pause == false)
-		{
+
 			if (NombreDeScena == "BossFight") {
 		//		player = GameObject.Find ("Player");
-			//	DontDestroyOnLoad (player);
+			//DontDestroyOnLoad (player);
 			//	mainCamera = GameObject.Find ("Main Camera");
 			//	DontDestroyOnLoad (mainCamera);
 			//	DontDestroyOnLoad(GameObject.Find("Canvas"));
@@ -26,19 +23,22 @@ public class ChangeScene : MonoBehaviour {
 				SceneManager.LoadScene (NombreDeScena, LoadSceneMode.Single);
 //				player.transform.position = new Vector2 (0, 0);
 
-			} else {
-				if (NombreDeScena == "BossFight2") {
-					SceneManager.LoadScene (NombreDeScena, LoadSceneMode.Single);
-				}
-				if (NombreDeScena == "BossFight3") {
-					SceneManager.LoadScene (NombreDeScena, LoadSceneMode.Single);
-				}
+			}
+			if (NombreDeScena == "BossFight2") {
+				SceneManager.LoadScene (NombreDeScena, LoadSceneMode.Single);
+			}
+			if (NombreDeScena == "BossFight3") {
+				SceneManager.LoadScene (NombreDeScena, LoadSceneMode.Single);
+			} 
+			if (NombreDeScena == "Generator") {
 				SceneManager.LoadScene (NombreDeScena, LoadSceneMode.Additive);
-
-		}
+			}
+			if (NombreDeScena == "Puzzle2") {
+				SceneManager.LoadScene (NombreDeScena, LoadSceneMode.Additive);
+			}
 		}
 		//Pause = true;
-    }
+    
 	
 	
 }

@@ -54,6 +54,7 @@ public class PlayerController : MonoBehaviour {
 			Destroy (this.gameObject);	
 		}
 		if (sPC.gunActive == true || hasWeapon == true) {
+			Destroy(GameObject.Find ("FirstAct"));
 			if (aiming == true) {
 				Aiming (h, j, a, m_direction);
 			}

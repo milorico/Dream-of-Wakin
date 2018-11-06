@@ -34,9 +34,7 @@ public class SceneGO : MonoBehaviour {
 						DontDestroyOnLoad (arrow);
 					}
 				}
-		
 				SceneManager.UnloadSceneAsync (sceneName);
-				Pause = !Pause;
 				//Time.timeScale = (Pause) ? 1.00f : 0.00f;
 			}
 		
